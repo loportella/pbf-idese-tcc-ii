@@ -1,0 +1,4053 @@
+ Idese:
+    Média  Desvio padrão      Q0  Mediana       Q1   Mínimo  Máximo
+0.725285        0.06438 0.68181 0.730506 0.773712 0.498572 0.89599
+Mínimo(s):
+Nome cidade  Ano    Idese
+  Jaquirana 2009 0.498572
+
+Máximo(s):
+   Nome cidade  Ano   Idese
+Carlos Barbosa 2020 0.89599
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.672798       0.061909  0.628372  0.672940  0.718887  0.518758  0.829596
+2008  0.678056       0.061487  0.634828  0.677054  0.726052  0.499881  0.872022
+2009  0.686136       0.061449  0.639929  0.687736  0.731190  0.498572  0.849440
+2010  0.689920       0.062476  0.640766  0.693576  0.735045  0.510146  0.851099
+2011  0.702479       0.062116  0.655058  0.707513  0.748656  0.544406  0.861406
+2012  0.708920       0.060487  0.659034  0.710413  0.752298  0.544277  0.876996
+2013  0.732661       0.058656  0.691462  0.735514  0.776737  0.567477  0.881585
+2014  0.744597       0.056199  0.705013  0.747949  0.787520  0.575721  0.892221
+2015  0.740376       0.054659  0.703923  0.743300  0.783019  0.566789  0.878516
+2016  0.743729       0.052065  0.705893  0.745624  0.780277  0.571577  0.883502
+2017  0.749025       0.050406  0.714295  0.752441  0.788019  0.580549  0.885159
+2018  0.753144       0.051332  0.715241  0.757296  0.791443  0.593893  0.884854
+2019  0.760662       0.049523  0.726162  0.764374  0.796300  0.609463  0.892477
+2020  0.755989       0.050524  0.722597  0.759332  0.791758  0.600243  0.895990
+2021  0.760354       0.051669  0.727213  0.763488  0.797061  0.591968  0.895419
+=================================================================
+
+ Bloco Educação:
+   Média  Desvio padrão       Q0  Mediana       Q1  Mínimo   Máximo
+0.69139       0.083275 0.642433 0.705181 0.752917 0.34689 0.883096
+Mínimo(s):
+Nome cidade  Ano  Bloco Educação
+    Charrua 2007         0.34689
+
+Máximo(s):
+Nome cidade  Ano  Bloco Educação
+Picada Café 2020        0.883096
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.623132       0.087121  0.567871  0.637290  0.687492  0.346890  0.796051
+2008  0.618272       0.083526  0.564794  0.625049  0.675428  0.347957  0.800935
+2009  0.635829       0.084288  0.582042  0.641681  0.700095  0.365372  0.815962
+2010  0.634831       0.083786  0.577195  0.646128  0.695605  0.367747  0.811478
+2011  0.654244       0.081039  0.603229  0.665904  0.715322  0.366216  0.835309
+2012  0.670663       0.075207  0.619198  0.680010  0.729585  0.414148  0.833802
+2013  0.691266       0.072929  0.644469  0.702239  0.747119  0.481303  0.844984
+2014  0.711623       0.068167  0.672708  0.721504  0.761679  0.473632  0.841585
+2015  0.712170       0.065235  0.669036  0.719570  0.763430  0.489832  0.854847
+2016  0.718066       0.056783  0.682545  0.722286  0.760411  0.501941  0.847601
+2017  0.729832       0.054794  0.694479  0.734333  0.769965  0.523622  0.846332
+2018  0.737001       0.052998  0.704652  0.741112  0.773663  0.547738  0.862233
+2019  0.745198       0.053349  0.711834  0.748500  0.782948  0.475230  0.881936
+2020  0.747767       0.052783  0.714665  0.753851  0.784589  0.535354  0.883096
+2021  0.740333       0.052007  0.705987  0.744716  0.778873  0.560878  0.853110
+=================================================================
+
+ Bloco Renda:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.648167       0.107146 0.571995 0.648535 0.724004 0.307709 0.997402
+Mínimo(s):
+             Nome cidade  Ano  Bloco Renda
+Benjamin Constant do Sul 2012     0.307709
+
+Máximo(s):
+Nome cidade  Ano  Bloco Renda
+ Água Santa 2021     0.997402
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.580124       0.101428  0.513573  0.570102  0.658703  0.321235  0.876009
+2008  0.594449       0.103041  0.522437  0.587985  0.669168  0.314266  0.930745
+2009  0.598870       0.102227  0.530117  0.590196  0.672422  0.329930  0.949004
+2010  0.605870       0.102809  0.529446  0.607207  0.676149  0.313495  0.903270
+2011  0.623813       0.102548  0.548269  0.622406  0.700513  0.353167  0.905582
+2012  0.623555       0.104981  0.552031  0.619551  0.693835  0.307709  0.921771
+2013  0.675204       0.101817  0.601221  0.671060  0.748309  0.397046  0.952901
+2014  0.686216       0.100311  0.614526  0.682969  0.761484  0.383444  0.956213
+2015  0.668931       0.098503  0.598761  0.665009  0.741374  0.377371  0.930189
+2016  0.670994       0.097404  0.595906  0.669881  0.737334  0.367608  0.937164
+2017  0.671422       0.094925  0.606235  0.672625  0.735307  0.393605  0.930633
+2018  0.676129       0.099009  0.605905  0.671948  0.746028  0.394372  0.953618
+2019  0.687109       0.094590  0.618232  0.686008  0.753835  0.406941  0.951835
+2020  0.666240       0.096752  0.594769  0.667033  0.735737  0.371122  0.982044
+2021  0.693045       0.105129  0.620205  0.692804  0.766188  0.387034  0.997402
+=================================================================
+
+ Bloco Saúde:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.836298       0.041996 0.807438  0.83879 0.868139 0.668209 0.950625
+Mínimo(s):
+ Nome cidade  Ano  Bloco Saúde
+Pedro Osório 2013     0.668209
+
+Máximo(s):
+          Nome cidade  Ano  Bloco Saúde
+Santo Expedito do Sul 2020     0.950625
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.815138       0.042936  0.783709  0.816976  0.845924  0.684210  0.918332
+2008  0.821448       0.041147  0.790336  0.823186  0.851217  0.694674  0.916622
+2009  0.823708       0.040791  0.797576  0.825065  0.855883  0.691445  0.925283
+2010  0.829058       0.040719  0.803590  0.831267  0.859200  0.672395  0.925810
+2011  0.829379       0.041452  0.801245  0.830559  0.858658  0.682614  0.926797
+2012  0.832543       0.041940  0.801558  0.834837  0.862973  0.682768  0.922169
+2013  0.831514       0.041238  0.802576  0.833205  0.863159  0.668209  0.917734
+2014  0.835952       0.039784  0.808681  0.839392  0.866281  0.693251  0.929016
+2015  0.840028       0.039339  0.813824  0.844237  0.869927  0.714490  0.924011
+2016  0.842128       0.040184  0.815428  0.845700  0.872768  0.697206  0.932771
+2017  0.845821       0.039355  0.818721  0.849450  0.874498  0.711510  0.943270
+2018  0.846302       0.040284  0.816221  0.847828  0.876941  0.705206  0.930519
+2019  0.849680       0.039264  0.823408  0.850763  0.880542  0.730441  0.945643
+2020  0.853959       0.039932  0.827770  0.857257  0.884066  0.714031  0.950625
+2021  0.847683       0.039871  0.819503  0.851192  0.879415  0.718854  0.931759
+=================================================================
+
+ Anos Finais EF:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.677977       0.067319 0.635115 0.677443 0.719893 0.440981 0.996032
+Mínimo(s):
+Nome cidade  Ano  Anos Finais EF
+ Jacuizinho 2021        0.440981
+
+Máximo(s):
+   Nome cidade  Ano  Anos Finais EF
+Tupanci do Sul 2021        0.996032
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.627087       0.056947  0.594816  0.628288  0.659669  0.457131  0.845291
+2008  0.627087       0.056947  0.594816  0.628288  0.659669  0.457131  0.845291
+2009  0.666950       0.057313  0.629548  0.668693  0.704800  0.465643  0.881856
+2010  0.666950       0.057313  0.629548  0.668693  0.704800  0.465643  0.881856
+2011  0.668279       0.058913  0.631371  0.670439  0.706251  0.479936  0.840960
+2012  0.668279       0.058913  0.631371  0.670439  0.706251  0.479936  0.840960
+2013  0.664231       0.064694  0.624064  0.664613  0.707392  0.449835  0.843413
+2014  0.664231       0.064694  0.624064  0.664613  0.707392  0.449835  0.843413
+2015  0.675310       0.054781  0.646213  0.672085  0.706626  0.490560  0.903019
+2016  0.675310       0.054781  0.646213  0.672085  0.706626  0.490560  0.903019
+2017  0.711041       0.065400  0.673621  0.709803  0.755925  0.504341  0.926229
+2018  0.711041       0.065400  0.673621  0.709803  0.755925  0.504341  0.926229
+2019  0.727099       0.063352  0.689259  0.725760  0.758826  0.504555  0.931264
+2020  0.727099       0.063352  0.689259  0.725760  0.758826  0.504555  0.931264
+2021  0.689375       0.063080  0.649813  0.683627  0.729749  0.440981  0.996032
+=================================================================
+
+ Anos Iniciais EF:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.760785       0.087277 0.700944 0.762126 0.821106 0.410818     1.0
+Mínimo(s):
+  Nome cidade  Ano  Anos Iniciais EF
+Cacique Doble 2009          0.410818
+Cacique Doble 2010          0.410818
+
+Máximo(s):
+          Nome cidade  Ano  Anos Iniciais EF
+           Centenário 2019               1.0
+           Centenário 2020               1.0
+        Coronel Pilar 2019               1.0
+        Coronel Pilar 2020               1.0
+        Dois Lajeados 2017               1.0
+        Dois Lajeados 2018               1.0
+        Dois Lajeados 2019               1.0
+        Dois Lajeados 2020               1.0
+      Fagundes Varela 2017               1.0
+      Fagundes Varela 2018               1.0
+      Ipiranga do Sul 2021               1.0
+              Mormaço 2017               1.0
+              Mormaço 2018               1.0
+          Picada Café 2019               1.0
+          Picada Café 2020               1.0
+         São Valentim 2017               1.0
+         São Valentim 2018               1.0
+ Severiano de Almeida 2019               1.0
+ Severiano de Almeida 2020               1.0
+     Taquaruçu do Sul 2017               1.0
+     Taquaruçu do Sul 2018               1.0
+Vista Alegre do Prata 2011               1.0
+Vista Alegre do Prata 2012               1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.653269       0.061733  0.615541  0.651232  0.690376  0.445334  0.957336
+2008  0.653269       0.061733  0.615541  0.651232  0.690376  0.445334  0.957336
+2009  0.706341       0.065156  0.668176  0.704983  0.745213  0.410818  0.956770
+2010  0.706341       0.065156  0.668176  0.704983  0.745213  0.410818  0.956770
+2011  0.736161       0.064077  0.698621  0.736138  0.776971  0.506498  1.000000
+2012  0.736161       0.064077  0.698621  0.736138  0.776971  0.506498  1.000000
+2013  0.773521       0.064644  0.734032  0.774529  0.810434  0.543971  0.988238
+2014  0.773521       0.064644  0.734032  0.774529  0.810434  0.543971  0.988238
+2015  0.795265       0.064064  0.753889  0.791042  0.830120  0.602110  0.998398
+2016  0.795265       0.064064  0.753889  0.791042  0.830120  0.602110  0.998398
+2017  0.813722       0.071927  0.762790  0.813448  0.861559  0.600548  1.000000
+2018  0.813722       0.071927  0.762790  0.813448  0.861559  0.600548  1.000000
+2019  0.828402       0.070731  0.779803  0.829938  0.872430  0.573703  1.000000
+2020  0.828402       0.070731  0.779803  0.829938  0.872430  0.573703  1.000000
+2021  0.797662       0.063856  0.754477  0.799523  0.843906  0.618364  1.000000
+=================================================================
+
+ Ensino Fundamental:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.719381       0.069216 0.672587 0.718233 0.766274 0.470991 0.937536
+Mínimo(s):
+        Nome cidade  Ano  Ensino Fundamental
+Capão Bonito do Sul 2007            0.470991
+Capão Bonito do Sul 2008            0.470991
+
+Máximo(s):
+Nome cidade  Ano  Ensino Fundamental
+Picada Café 2019            0.937536
+Picada Café 2020            0.937536
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.640178       0.051316  0.609650  0.641069  0.671388  0.470991  0.826393
+2008  0.640178       0.051316  0.609650  0.641069  0.671388  0.470991  0.826393
+2009  0.686645       0.053145  0.653785  0.686343  0.723432  0.539557  0.894451
+2010  0.686645       0.053145  0.653785  0.686343  0.723432  0.539557  0.894451
+2011  0.702220       0.052084  0.669101  0.700914  0.735141  0.540527  0.879032
+2012  0.702220       0.052084  0.669101  0.700914  0.735141  0.540527  0.879032
+2013  0.718876       0.057056  0.680445  0.718590  0.757103  0.560084  0.915826
+2014  0.718876       0.057056  0.680445  0.718590  0.757103  0.560084  0.915826
+2015  0.735288       0.052098  0.703499  0.734385  0.771905  0.576345  0.924917
+2016  0.735288       0.052098  0.703499  0.734385  0.771905  0.576345  0.924917
+2017  0.762381       0.059442  0.720449  0.761154  0.804211  0.572850  0.928635
+2018  0.762381       0.059442  0.720449  0.761154  0.804211  0.572850  0.928635
+2019  0.777750       0.058214  0.738822  0.777401  0.818693  0.627724  0.937536
+2020  0.777750       0.058214  0.738822  0.777401  0.818693  0.627724  0.937536
+2021  0.743518       0.054267  0.704095  0.743044  0.781322  0.588804  0.888837
+=================================================================
+
+ Ensino Médio:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.760749       0.150442 0.651381 0.760083 0.874024 0.307213     1.0
+Mínimo(s):
+       Nome cidade  Ano  Ensino Médio
+São Valério do Sul 2019      0.307213
+
+Máximo(s):
+               Nome cidade  Ano  Ensino Médio
+                Água Santa 2019           1.0
+                Água Santa 2020           1.0
+                   Alecrim 2007           1.0
+                   Alecrim 2019           1.0
+                   Alecrim 2020           1.0
+                   Alecrim 2021           1.0
+                  Alegrete 2018           1.0
+                  Alegrete 2019           1.0
+                  Alegrete 2020           1.0
+                  Alegrete 2021           1.0
+                   Alegria 2007           1.0
+                   Alegria 2014           1.0
+                   Alegria 2015           1.0
+                   Alegria 2016           1.0
+                   Alegria 2017           1.0
+                   Alegria 2021           1.0
+Almirante Tamandaré do Sul 2007           1.0
+Almirante Tamandaré do Sul 2008           1.0
+Almirante Tamandaré do Sul 2014           1.0
+Almirante Tamandaré do Sul 2016           1.0
+Almirante Tamandaré do Sul 2017           1.0
+Almirante Tamandaré do Sul 2019           1.0
+Almirante Tamandaré do Sul 2020           1.0
+Almirante Tamandaré do Sul 2021           1.0
+                  Alpestre 2019           1.0
+               Alto Alegre 2016           1.0
+                  Arambaré 2007           1.0
+                   Aratiba 2014           1.0
+                   Aratiba 2015           1.0
+                   Aratiba 2016           1.0
+                   Aratiba 2017           1.0
+                   Aratiba 2018           1.0
+                   Aratiba 2019           1.0
+                   Aratiba 2020           1.0
+                   Aratiba 2021           1.0
+               Arvorezinha 2007           1.0
+           Augusto Pestana 2021           1.0
+                      Bagé 2007           1.0
+                      Bagé 2008           1.0
+         Barra do Rio Azul 2013           1.0
+         Barra do Rio Azul 2014           1.0
+         Barra do Rio Azul 2015           1.0
+         Barra do Rio Azul 2016           1.0
+         Barra do Rio Azul 2017           1.0
+         Barra do Rio Azul 2018           1.0
+         Barra do Rio Azul 2019           1.0
+         Barra do Rio Azul 2020           1.0
+         Barra do Rio Azul 2021           1.0
+               Barra Funda 2007           1.0
+               Barra Funda 2019           1.0
+               Barra Funda 2020           1.0
+      Boa Vista do Cadeado 2007           1.0
+        Boa Vista do Incra 2007           1.0
+        Boa Vista do Incra 2008           1.0
+        Boa Vista do Incra 2013           1.0
+        Boa Vista do Incra 2015           1.0
+        Boa Vista do Incra 2016           1.0
+          Boa Vista do Sul 2014           1.0
+                 Bossoroca 2021           1.0
+                    Bozano 2009           1.0
+                    Bozano 2013           1.0
+                   Caibaté 2007           1.0
+                   Caibaté 2008           1.0
+                   Caibaté 2009           1.0
+                   Caibaté 2019           1.0
+                   Caiçara 2013           1.0
+                   Caiçara 2014           1.0
+                   Caiçara 2015           1.0
+                   Caiçara 2021           1.0
+       Campina das Missões 2007           1.0
+       Campina das Missões 2009           1.0
+       Campina das Missões 2017           1.0
+       Campina das Missões 2018           1.0
+       Campina das Missões 2019           1.0
+       Campina das Missões 2020           1.0
+       Campina das Missões 2021           1.0
+           Campinas do Sul 2016           1.0
+                Campo Novo 2019           1.0
+                Campo Novo 2020           1.0
+                Campo Novo 2021           1.0
+             Cândido Godói 2012           1.0
+             Cândido Godói 2013           1.0
+           Canudos do Vale 2007           1.0
+           Canudos do Vale 2008           1.0
+           Canudos do Vale 2009           1.0
+           Canudos do Vale 2010           1.0
+           Canudos do Vale 2013           1.0
+           Canudos do Vale 2014           1.0
+           Canudos do Vale 2015           1.0
+           Canudos do Vale 2016           1.0
+           Canudos do Vale 2017           1.0
+           Canudos do Vale 2018           1.0
+           Canudos do Vale 2019           1.0
+           Canudos do Vale 2020           1.0
+           Canudos do Vale 2021           1.0
+       Capão Bonito do Sul 2007           1.0
+       Capão Bonito do Sul 2009           1.0
+       Capão Bonito do Sul 2010           1.0
+       Capão Bonito do Sul 2021           1.0
+             Capão do Cipó 2007           1.0
+              Carlos Gomes 2015           1.0
+                     Casca 2014           1.0
+                     Casca 2015           1.0
+                     Casca 2020           1.0
+                     Casca 2021           1.0
+                  Caseiros 2007           1.0
+                  Caseiros 2008           1.0
+                  Caseiros 2009           1.0
+                  Caseiros 2016           1.0
+                  Caseiros 2021           1.0
+                Centenário 2007           1.0
+                Centenário 2011           1.0
+                Centenário 2012           1.0
+                Centenário 2013           1.0
+                Centenário 2014           1.0
+                Centenário 2015           1.0
+                Centenário 2016           1.0
+                Centenário 2017           1.0
+                Centenário 2018           1.0
+                Centenário 2019           1.0
+                Centenário 2020           1.0
+                Centenário 2021           1.0
+              Cerro Grande 2008           1.0
+               Charqueadas 2007           1.0
+               Charqueadas 2008           1.0
+                 Chiapetta 2007           1.0
+                 Chiapetta 2021           1.0
+                    Condor 2012           1.0
+                    Condor 2013           1.0
+                    Condor 2014           1.0
+                    Condor 2015           1.0
+            Coqueiro Baixo 2007           1.0
+            Coqueiro Baixo 2008           1.0
+            Coqueiro Baixo 2009           1.0
+            Coqueiro Baixo 2010           1.0
+            Coqueiro Baixo 2011           1.0
+            Coqueiro Baixo 2012           1.0
+            Coqueiro Baixo 2015           1.0
+            Coqueiro Baixo 2016           1.0
+            Coqueiro Baixo 2017           1.0
+            Coqueiro Baixo 2018           1.0
+            Coqueiro Baixo 2019           1.0
+            Coqueiro Baixo 2020           1.0
+            Coqueiro Baixo 2021           1.0
+          Coqueiros do Sul 2019           1.0
+          Coqueiros do Sul 2020           1.0
+          Coqueiros do Sul 2021           1.0
+            Coronel Barros 2007           1.0
+             Coronel Pilar 2007           1.0
+                  Cotiporã 2014           1.0
+                  Cotiporã 2018           1.0
+                  Cotiporã 2020           1.0
+                  Cotiporã 2021           1.0
+               Cruzaltense 2012           1.0
+               Cruzaltense 2013           1.0
+               Cruzaltense 2014           1.0
+               Cruzaltense 2015           1.0
+               Cruzaltense 2016           1.0
+               Cruzaltense 2017           1.0
+               Cruzaltense 2018           1.0
+               Cruzaltense 2019           1.0
+               Cruzaltense 2020           1.0
+               Cruzaltense 2021           1.0
+           Cruzeiro do Sul 2007           1.0
+           Cruzeiro do Sul 2008           1.0
+           Cruzeiro do Sul 2009           1.0
+           Cruzeiro do Sul 2010           1.0
+           Cruzeiro do Sul 2012           1.0
+           Cruzeiro do Sul 2016           1.0
+           Cruzeiro do Sul 2019           1.0
+           Cruzeiro do Sul 2021           1.0
+           David Canabarro 2013           1.0
+           David Canabarro 2014           1.0
+           David Canabarro 2015           1.0
+           David Canabarro 2016           1.0
+           David Canabarro 2017           1.0
+           David Canabarro 2018           1.0
+           David Canabarro 2019           1.0
+           David Canabarro 2020           1.0
+           David Canabarro 2021           1.0
+                Derrubadas 2007           1.0
+                Derrubadas 2020           1.0
+                Derrubadas 2021           1.0
+     Dezesseis de Novembro 2007           1.0
+     Dezesseis de Novembro 2020           1.0
+     Dezesseis de Novembro 2021           1.0
+             Dois Lajeados 2007           1.0
+             Dois Lajeados 2008           1.0
+             Dois Lajeados 2013           1.0
+             Dois Lajeados 2014           1.0
+             Dois Lajeados 2015           1.0
+            Dona Francisca 2014           1.0
+            Dona Francisca 2020           1.0
+            Dona Francisca 2021           1.0
+   Doutor Maurício Cardoso 2007           1.0
+   Doutor Maurício Cardoso 2008           1.0
+   Doutor Maurício Cardoso 2013           1.0
+   Doutor Maurício Cardoso 2014           1.0
+   Doutor Maurício Cardoso 2015           1.0
+   Doutor Maurício Cardoso 2017           1.0
+   Doutor Maurício Cardoso 2018           1.0
+   Doutor Maurício Cardoso 2019           1.0
+   Doutor Maurício Cardoso 2020           1.0
+   Doutor Maurício Cardoso 2021           1.0
+            Doutor Ricardo 2007           1.0
+            Doutor Ricardo 2008           1.0
+            Doutor Ricardo 2013           1.0
+            Doutor Ricardo 2014           1.0
+            Doutor Ricardo 2015           1.0
+            Doutor Ricardo 2016           1.0
+            Doutor Ricardo 2017           1.0
+            Doutor Ricardo 2018           1.0
+            Doutor Ricardo 2019           1.0
+            Doutor Ricardo 2020           1.0
+            Doutor Ricardo 2021           1.0
+               Formigueiro 2014           1.0
+     Gramado dos Loureiros 2007           1.0
+     Gramado dos Loureiros 2008           1.0
+     Gramado dos Loureiros 2009           1.0
+                   Guabiju 2007           1.0
+                   Guabiju 2008           1.0
+                   Guabiju 2018           1.0
+                   Guabiju 2019           1.0
+                   Guabiju 2020           1.0
+                   Guabiju 2021           1.0
+                  Harmonia 2020           1.0
+                      Ijuí 2007           1.0
+                      Ijuí 2014           1.0
+                  Ilópolis 2007           1.0
+                 Imigrante 2011           1.0
+           Ipiranga do Sul 2013           1.0
+           Ipiranga do Sul 2014           1.0
+           Ipiranga do Sul 2015           1.0
+           Ipiranga do Sul 2016           1.0
+           Ipiranga do Sul 2017           1.0
+           Ipiranga do Sul 2018           1.0
+           Ipiranga do Sul 2019           1.0
+           Ipiranga do Sul 2020           1.0
+           Ipiranga do Sul 2021           1.0
+                      Iraí 2014           1.0
+                      Iraí 2021           1.0
+            Itatiba do Sul 2014           1.0
+            Itatiba do Sul 2015           1.0
+            Itatiba do Sul 2016           1.0
+            Itatiba do Sul 2017           1.0
+            Itatiba do Sul 2018           1.0
+            Itatiba do Sul 2019           1.0
+            Itatiba do Sul 2020           1.0
+            Itatiba do Sul 2021           1.0
+                     Ivorá 2012           1.0
+                     Ivorá 2013           1.0
+                     Ivorá 2014           1.0
+                     Ivorá 2016           1.0
+                     Ivorá 2017           1.0
+                     Ivorá 2018           1.0
+                     Ivorá 2020           1.0
+                     Ivorá 2021           1.0
+                     Ivoti 2007           1.0
+                     Ivoti 2008           1.0
+                     Ivoti 2009           1.0
+                 Jacutinga 2014           1.0
+                 Jacutinga 2015           1.0
+                 Jacutinga 2016           1.0
+                 Jacutinga 2017           1.0
+                 Jacutinga 2018           1.0
+                 Jacutinga 2019           1.0
+                 Jacutinga 2021           1.0
+                   Jaguari 2016           1.0
+                   Jaguari 2017           1.0
+                   Jaguari 2018           1.0
+                   Jaguari 2019           1.0
+                   Jaguari 2020           1.0
+                   Jaguari 2021           1.0
+     Lagoa dos Três Cantos 2008           1.0
+     Lagoa dos Três Cantos 2009           1.0
+     Lagoa dos Três Cantos 2010           1.0
+          Liberato Salzano 2008           1.0
+          Liberato Salzano 2009           1.0
+          Liberato Salzano 2010           1.0
+          Liberato Salzano 2013           1.0
+          Liberato Salzano 2014           1.0
+          Liberato Salzano 2015           1.0
+          Liberato Salzano 2016           1.0
+          Liberato Salzano 2017           1.0
+          Liberato Salzano 2019           1.0
+          Liberato Salzano 2020           1.0
+          Liberato Salzano 2021           1.0
+                 Maçambará 2008           1.0
+           Mato Castelhano 2007           1.0
+           Mato Castelhano 2008           1.0
+             Mato Queimado 2007           1.0
+             Mato Queimado 2008           1.0
+             Mato Queimado 2009           1.0
+                  Miraguaí 2007           1.0
+                  Miraguaí 2008           1.0
+         Monte Belo do Sul 2014           1.0
+         Monte Belo do Sul 2015           1.0
+          Morrinhos do Sul 2014           1.0
+          Morrinhos do Sul 2015           1.0
+          Morrinhos do Sul 2016           1.0
+          Morrinhos do Sul 2017           1.0
+          Morrinhos do Sul 2018           1.0
+          Morrinhos do Sul 2019           1.0
+          Morrinhos do Sul 2021           1.0
+                 Mostardas 2007           1.0
+                 Mostardas 2008           1.0
+                 Mostardas 2013           1.0
+                 Mostardas 2017           1.0
+                 Mostardas 2018           1.0
+                 Mostardas 2019           1.0
+                 Mostardas 2020           1.0
+                 Mostardas 2021           1.0
+                 Muliterno 2019           1.0
+                 Muliterno 2020           1.0
+                 Muliterno 2021           1.0
+         Nicolau Vergueiro 2011           1.0
+            Nova Boa Vista 2008           1.0
+            Nova Boa Vista 2015           1.0
+            Nova Boa Vista 2018           1.0
+            Nova Boa Vista 2019           1.0
+            Nova Boa Vista 2020           1.0
+            Nova Boa Vista 2021           1.0
+              Nova Bréscia 2014           1.0
+              Nova Bréscia 2021           1.0
+     Nova Esperança do Sul 2007           1.0
+     Nova Esperança do Sul 2008           1.0
+     Nova Esperança do Sul 2013           1.0
+     Nova Esperança do Sul 2014           1.0
+     Nova Esperança do Sul 2015           1.0
+     Nova Esperança do Sul 2016           1.0
+     Nova Esperança do Sul 2017           1.0
+     Nova Esperança do Sul 2018           1.0
+     Nova Esperança do Sul 2019           1.0
+     Nova Esperança do Sul 2020           1.0
+     Nova Esperança do Sul 2021           1.0
+           Nova Petrópolis 2007           1.0
+           Nova Petrópolis 2008           1.0
+           Nova Petrópolis 2009           1.0
+           Nova Petrópolis 2010           1.0
+           Nova Petrópolis 2012           1.0
+           Nova Petrópolis 2013           1.0
+           Nova Petrópolis 2014           1.0
+               Nova Ramada 2013           1.0
+               Nova Ramada 2014           1.0
+               Nova Ramada 2019           1.0
+               Nova Ramada 2020           1.0
+               Nova Ramada 2021           1.0
+              Novo Machado 2013           1.0
+              Novo Machado 2014           1.0
+              Novo Machado 2015           1.0
+              Novo Machado 2016           1.0
+              Novo Machado 2017           1.0
+              Novo Machado 2018           1.0
+              Novo Machado 2019           1.0
+              Novo Machado 2020           1.0
+              Novo Machado 2021           1.0
+                Novo Xingu 2007           1.0
+                Novo Xingu 2008           1.0
+                Novo Xingu 2009           1.0
+                Novo Xingu 2013           1.0
+                Novo Xingu 2014           1.0
+                Novo Xingu 2018           1.0
+                Novo Xingu 2020           1.0
+                Novo Xingu 2021           1.0
+             Novo Barreiro 2007           1.0
+             Novo Barreiro 2008           1.0
+             Novo Barreiro 2009           1.0
+             Novo Barreiro 2011           1.0
+             Novo Barreiro 2012           1.0
+             Novo Barreiro 2013           1.0
+             Novo Barreiro 2014           1.0
+             Novo Barreiro 2015           1.0
+             Novo Barreiro 2020           1.0
+             Novo Barreiro 2021           1.0
+                Paim Filho 2019           1.0
+           Palmares do Sul 2007           1.0
+           Palmares do Sul 2008           1.0
+           Palmares do Sul 2019           1.0
+           Palmares do Sul 2020           1.0
+           Palmares do Sul 2021           1.0
+                     Paraí 2010           1.0
+                     Paraí 2011           1.0
+               Paulo Bento 2007           1.0
+               Paulo Bento 2008           1.0
+              Pedras Altas 2007           1.0
+              Pedras Altas 2008           1.0
+              Pedras Altas 2009           1.0
+              Pedras Altas 2014           1.0
+              Pedras Altas 2015           1.0
+              Pedras Altas 2016           1.0
+              Pedras Altas 2021           1.0
+               Picada Café 2007           1.0
+               Picada Café 2008           1.0
+               Picada Café 2009           1.0
+               Picada Café 2013           1.0
+               Picada Café 2018           1.0
+               Picada Café 2019           1.0
+               Picada Café 2020           1.0
+               Picada Café 2021           1.0
+                    Pinhal 2013           1.0
+                    Pinhal 2014           1.0
+             Pinhal Grande 2019           1.0
+             Pinhal Grande 2020           1.0
+             Pinhal Grande 2021           1.0
+                    Pirapó 2008           1.0
+                    Pirapó 2013           1.0
+                    Pirapó 2014           1.0
+                    Pirapó 2015           1.0
+                    Pirapó 2018           1.0
+                    Pirapó 2019           1.0
+                    Pirapó 2020           1.0
+                    Pirapó 2021           1.0
+                  Planalto 2021           1.0
+                    Pontão 2021           1.0
+               Ponte Preta 2012           1.0
+               Ponte Preta 2013           1.0
+               Ponte Preta 2014           1.0
+               Ponte Preta 2015           1.0
+               Ponte Preta 2016           1.0
+               Ponte Preta 2019           1.0
+               Ponte Preta 2020           1.0
+               Ponte Preta 2021           1.0
+                Porto Mauá 2007           1.0
+                Porto Mauá 2008           1.0
+                Porto Mauá 2009           1.0
+                Porto Mauá 2014           1.0
+                Porto Mauá 2015           1.0
+                Porto Mauá 2016           1.0
+                Porto Mauá 2017           1.0
+                Porto Mauá 2018           1.0
+                Porto Mauá 2019           1.0
+                Porto Mauá 2020           1.0
+                Porto Mauá 2021           1.0
+           Porto Vera Cruz 2014           1.0
+           Porto Vera Cruz 2015           1.0
+           Porto Vera Cruz 2020           1.0
+           Porto Vera Cruz 2021           1.0
+              Porto Xavier 2007           1.0
+                Pouso Novo 2008           1.0
+                Pouso Novo 2016           1.0
+                Pouso Novo 2021           1.0
+                 Progresso 2013           1.0
+                 Progresso 2014           1.0
+                 Progresso 2016           1.0
+                 Progresso 2018           1.0
+                 Progresso 2019           1.0
+                 Progresso 2020           1.0
+                 Progresso 2021           1.0
+            Protásio Alves 2007           1.0
+            Protásio Alves 2008           1.0
+            Protásio Alves 2013           1.0
+            Protásio Alves 2021           1.0
+                   Putinga 2007           1.0
+                   Putinga 2008           1.0
+                   Putinga 2014           1.0
+                   Putinga 2015           1.0
+                   Putinga 2020           1.0
+                   Putinga 2021           1.0
+             Quatro Irmãos 2007           1.0
+             Quatro Irmãos 2008           1.0
+             Quatro Irmãos 2014           1.0
+             Quatro Irmãos 2015           1.0
+             Quatro Irmãos 2016           1.0
+             Quatro Irmãos 2021           1.0
+                   Relvado 2008           1.0
+                   Relvado 2014           1.0
+                   Relvado 2015           1.0
+                   Relvado 2016           1.0
+                   Relvado 2020           1.0
+                   Relvado 2021           1.0
+            Rio dos Índios 2018           1.0
+            Rio dos Índios 2019           1.0
+            Rio dos Índios 2020           1.0
+            Rio dos Índios 2021           1.0
+                   Rolador 2016           1.0
+                   Rolador 2020           1.0
+                  Rondinha 2007           1.0
+                  Rondinha 2008           1.0
+                  Rondinha 2009           1.0
+                  Rondinha 2011           1.0
+                  Rondinha 2012           1.0
+                  Rondinha 2013           1.0
+                  Rondinha 2014           1.0
+                  Rondinha 2015           1.0
+                  Rondinha 2016           1.0
+                  Rondinha 2017           1.0
+                  Rondinha 2018           1.0
+                  Rondinha 2019           1.0
+                  Rondinha 2020           1.0
+                  Rondinha 2021           1.0
+           Sagrada Família 2007           1.0
+           Sagrada Família 2008           1.0
+           Sagrada Família 2014           1.0
+           Sagrada Família 2019           1.0
+           Sagrada Família 2021           1.0
+          Saldanha Marinho 2019           1.0
+      Santa Cecília do Sul 2007           1.0
+      Santa Cecília do Sul 2008           1.0
+      Santa Cecília do Sul 2009           1.0
+      Santa Cecília do Sul 2010           1.0
+      Santa Cecília do Sul 2011           1.0
+      Santa Cecília do Sul 2012           1.0
+      Santa Cecília do Sul 2013           1.0
+      Santa Cecília do Sul 2014           1.0
+      Santa Cecília do Sul 2015           1.0
+      Santa Cecília do Sul 2016           1.0
+      Santa Cecília do Sul 2019           1.0
+      Santa Cecília do Sul 2020           1.0
+      Santa Cecília do Sul 2021           1.0
+      Santana da Boa Vista 2012           1.0
+      Santana da Boa Vista 2013           1.0
+      Santana da Boa Vista 2014           1.0
+      Santana da Boa Vista 2021           1.0
+    Santo Antônio do Palma 2009           1.0
+    Santo Antônio do Palma 2010           1.0
+    Santo Antônio do Palma 2011           1.0
+    Santo Antônio do Palma 2012           1.0
+    Santo Antônio do Palma 2013           1.0
+    Santo Antônio do Palma 2014           1.0
+    Santo Antônio do Palma 2015           1.0
+    Santo Antônio do Palma 2016           1.0
+    Santo Antônio do Palma 2017           1.0
+    Santo Antônio do Palma 2018           1.0
+    Santo Antônio do Palma 2019           1.0
+    Santo Antônio do Palma 2020           1.0
+    Santo Antônio do Palma 2021           1.0
+     Santo Expedito do Sul 2007           1.0
+     Santo Expedito do Sul 2008           1.0
+     Santo Expedito do Sul 2013           1.0
+     Santo Expedito do Sul 2014           1.0
+     Santo Expedito do Sul 2015           1.0
+     Santo Expedito do Sul 2018           1.0
+     Santo Expedito do Sul 2019           1.0
+       São Domingos do Sul 2014           1.0
+       São Domingos do Sul 2015           1.0
+    São Francisco de Assis 2020           1.0
+    São Francisco de Assis 2021           1.0
+        São João da Urtiga 2007           1.0
+        São João da Urtiga 2014           1.0
+        São João da Urtiga 2018           1.0
+        São João da Urtiga 2019           1.0
+        São João da Urtiga 2020           1.0
+        São João da Urtiga 2021           1.0
+                 São Jorge 2013           1.0
+                 São Jorge 2014           1.0
+                 São Jorge 2015           1.0
+                 São Jorge 2016           1.0
+                 São Jorge 2017           1.0
+                 São Jorge 2018           1.0
+      São José das Missões 2007           1.0
+      São José do Inhacorá 2011           1.0
+      São José do Inhacorá 2018           1.0
+      São José do Inhacorá 2019           1.0
+           São José do Sul 2007           1.0
+           São José do Sul 2008           1.0
+           São José do Sul 2009           1.0
+              São Martinho 2007           1.0
+              São Martinho 2008           1.0
+     São Paulo das Missões 2007           1.0
+     São Paulo das Missões 2008           1.0
+     São Paulo das Missões 2014           1.0
+     São Paulo das Missões 2015           1.0
+     São Paulo das Missões 2017           1.0
+     São Paulo das Missões 2018           1.0
+     São Paulo das Missões 2019           1.0
+     São Paulo das Missões 2020           1.0
+     São Paulo das Missões 2021           1.0
+     São Pedro das Missões 2007           1.0
+     São Pedro das Missões 2008           1.0
+     São Pedro das Missões 2021           1.0
+        São Pedro do Butiá 2014           1.0
+        São Pedro do Butiá 2015           1.0
+        São Pedro do Butiá 2016           1.0
+        São Pedro do Butiá 2017           1.0
+        São Pedro do Butiá 2018           1.0
+        São Pedro do Butiá 2019           1.0
+              São Valentim 2020           1.0
+              São Valentim 2021           1.0
+       São Valentim do Sul 2007           1.0
+       São Valentim do Sul 2012           1.0
+       São Valentim do Sul 2013           1.0
+       São Valentim do Sul 2014           1.0
+             São Vendelino 2016           1.0
+             São Vendelino 2017           1.0
+             São Vendelino 2018           1.0
+             São Vendelino 2019           1.0
+             São Vendelino 2020           1.0
+                    Sertão 2007           1.0
+                    Sertão 2008           1.0
+                    Sertão 2014           1.0
+                    Sertão 2015           1.0
+                    Sertão 2016           1.0
+                    Sertão 2017           1.0
+                    Sertão 2021           1.0
+            Sertão Santana 2014           1.0
+          Sete de Setembro 2007           1.0
+          Sete de Setembro 2008           1.0
+          Sete de Setembro 2009           1.0
+          Sete de Setembro 2012           1.0
+          Sete de Setembro 2013           1.0
+          Sete de Setembro 2014           1.0
+          Sete de Setembro 2015           1.0
+          Sete de Setembro 2019           1.0
+      Severiano de Almeida 2007           1.0
+      Severiano de Almeida 2013           1.0
+      Severiano de Almeida 2014           1.0
+      Severiano de Almeida 2015           1.0
+      Severiano de Almeida 2018           1.0
+      Severiano de Almeida 2019           1.0
+      Severiano de Almeida 2021           1.0
+          Silveira Martins 2009           1.0
+          Silveira Martins 2010           1.0
+          Silveira Martins 2011           1.0
+          Silveira Martins 2012           1.0
+          Silveira Martins 2013           1.0
+          Silveira Martins 2014           1.0
+          Silveira Martins 2015           1.0
+          Silveira Martins 2016           1.0
+          Silveira Martins 2017           1.0
+          Silveira Martins 2021           1.0
+                     Tabaí 2013           1.0
+                     Tabaí 2014           1.0
+                   Taquara 2007           1.0
+                  Tio Hugo 2007           1.0
+                  Tio Hugo 2008           1.0
+                    Toropi 2013           1.0
+                    Toropi 2021           1.0
+               Travesseiro 2015           1.0
+              Três Arroios 2007           1.0
+              Três Arroios 2008           1.0
+              Três Arroios 2009           1.0
+              Três Arroios 2011           1.0
+              Três Arroios 2012           1.0
+              Três Arroios 2013           1.0
+              Três Arroios 2014           1.0
+              Três Arroios 2015           1.0
+              Três Arroios 2016           1.0
+              Três Arroios 2017           1.0
+              Três Arroios 2018           1.0
+              Três Arroios 2019           1.0
+              Três Arroios 2020           1.0
+              Três Arroios 2021           1.0
+              Três de Maio 2013           1.0
+              Três de Maio 2014           1.0
+              Três de Maio 2015           1.0
+            Três Palmeiras 2007           1.0
+            Três Palmeiras 2008           1.0
+            Três Palmeiras 2009           1.0
+            Três Palmeiras 2013           1.0
+            Três Palmeiras 2014           1.0
+            Três Palmeiras 2015           1.0
+            Três Palmeiras 2017           1.0
+            Três Palmeiras 2018           1.0
+            Três Palmeiras 2019           1.0
+            Três Palmeiras 2020           1.0
+            Três Palmeiras 2021           1.0
+               Três Passos 2007           1.0
+                 Tucunduva 2013           1.0
+                 Tucunduva 2014           1.0
+                 Tucunduva 2015           1.0
+                 Tucunduva 2017           1.0
+                 Tucunduva 2019           1.0
+                 Tucunduva 2020           1.0
+                 Tucunduva 2021           1.0
+                 Tuparendi 2018           1.0
+                 Tuparendi 2019           1.0
+                 Tuparendi 2020           1.0
+                 Tuparendi 2021           1.0
+                 Ubiretama 2007           1.0
+                 Ubiretama 2017           1.0
+                 Ubiretama 2018           1.0
+            União da Serra 2007           1.0
+            União da Serra 2008           1.0
+            União da Serra 2009           1.0
+            União da Serra 2017           1.0
+            União da Serra 2018           1.0
+            União da Serra 2019           1.0
+                 Unistalda 2007           1.0
+                 Unistalda 2020           1.0
+                 Unistalda 2021           1.0
+                    Vanini 2013           1.0
+                    Vanini 2014           1.0
+                    Vanini 2015           1.0
+                    Vanini 2016           1.0
+                    Vanini 2017           1.0
+                    Vanini 2019           1.0
+                    Vanini 2020           1.0
+                    Vanini 2021           1.0
+              Vila Lângaro 2007           1.0
+              Vila Lângaro 2012           1.0
+              Vila Lângaro 2013           1.0
+              Vila Lângaro 2014           1.0
+              Vila Lângaro 2018           1.0
+              Vila Lângaro 2019           1.0
+              Vila Lângaro 2020           1.0
+              Vila Lângaro 2021           1.0
+                Vila Maria 2015           1.0
+                Vila Maria 2020           1.0
+                Vila Maria 2021           1.0
+              Vista Alegre 2007           1.0
+              Vista Alegre 2008           1.0
+              Vista Alegre 2013           1.0
+              Vista Alegre 2014           1.0
+              Vista Alegre 2019           1.0
+              Vista Alegre 2020           1.0
+              Vista Alegre 2021           1.0
+     Vista Alegre do Prata 2008           1.0
+     Vista Alegre do Prata 2012           1.0
+              Vista Gaúcha 2007           1.0
+              Vista Gaúcha 2008           1.0
+       Vitória das Missões 2007           1.0
+       Vitória das Missões 2016           1.0
+       Vitória das Missões 2020           1.0
+       Vitória das Missões 2021           1.0
+                 Westfalia 2007           1.0
+                 Westfalia 2008           1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo  Máximo
+Ano                                                                          
+2007  0.822438       0.136513  0.719835  0.833691  0.939647  0.421822     1.0
+2008  0.806122       0.137001  0.697546  0.811070  0.912004  0.416896     1.0
+2009  0.775159       0.137689  0.680708  0.784856  0.874188  0.416613     1.0
+2010  0.737673       0.135264  0.642313  0.746344  0.832776  0.400898     1.0
+2011  0.731253       0.136527  0.639887  0.733660  0.821767  0.388045     1.0
+2012  0.739313       0.141897  0.640202  0.736080  0.839485  0.391446     1.0
+2013  0.764523       0.146470  0.663585  0.768813  0.866935  0.380966     1.0
+2014  0.783828       0.148684  0.679895  0.786326  0.892626  0.391344     1.0
+2015  0.753353       0.153348  0.640514  0.754199  0.861194  0.389968     1.0
+2016  0.718170       0.156036  0.613784  0.702488  0.811605  0.334184     1.0
+2017  0.722304       0.155558  0.614980  0.710139  0.833186  0.307928     1.0
+2018  0.742359       0.154984  0.630336  0.738150  0.849886  0.319757     1.0
+2019  0.760118       0.156424  0.644941  0.759057  0.878563  0.307213     1.0
+2020  0.770147       0.158439  0.659515  0.767034  0.898667  0.320446     1.0
+2021  0.784565       0.156866  0.667464  0.785234  0.914654  0.335367     1.0
+=================================================================
+
+ Escolaridade Adulta:
+   Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.45375       0.099487 0.382641 0.449233 0.523215 0.177169 0.765011
+Mínimo(s):
+Nome cidade  Ano  Escolaridade Adulta
+      Sério 2007             0.177169
+
+Máximo(s):
+ Nome cidade  Ano  Escolaridade Adulta
+Porto Alegre 2021             0.765011
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.381412       0.093740  0.313430  0.372352  0.441849  0.177169  0.722588
+2008  0.394575       0.094849  0.324316  0.384757  0.457032  0.181339  0.732295
+2009  0.408114       0.095438  0.336174  0.399619  0.469877  0.194574  0.740561
+2010  0.421824       0.095907  0.350425  0.412300  0.483025  0.204800  0.747800
+2011  0.431048       0.095004  0.359789  0.423343  0.490636  0.214660  0.750170
+2012  0.440500       0.093897  0.370157  0.433271  0.498963  0.216615  0.752302
+2013  0.450649       0.092843  0.382239  0.445294  0.509979  0.222545  0.754367
+2014  0.457663       0.091986  0.390339  0.450943  0.517305  0.224258  0.755879
+2015  0.468471       0.090850  0.403605  0.463060  0.526798  0.227300  0.757978
+2016  0.477966       0.089748  0.411916  0.474822  0.537123  0.234389  0.759981
+2017  0.479830       0.089810  0.411541  0.474892  0.539705  0.235093  0.758465
+2018  0.487889       0.089010  0.419437  0.483435  0.547191  0.237478  0.760226
+2019  0.495302       0.088368  0.429282  0.492511  0.554970  0.239314  0.761513
+2020  0.502208       0.087825  0.436523  0.502067  0.563547  0.240123  0.763388
+2021  0.508309       0.087336  0.442306  0.507356  0.568052  0.242181  0.765011
+=================================================================
+
+ Pré Escola:
+    Média  Desvio padrão       Q0  Mediana  Q1  Mínimo  Máximo
+0.831681        0.19753 0.727027 0.902778 1.0     0.0     1.0
+Mínimo(s):
+       Nome cidade  Ano  Pré Escola
+  Barão do Triunfo 2007         0.0
+       Forquetinha 2010         0.0
+       Forquetinha 2011         0.0
+   Porto Vera Cruz 2008         0.0
+São Valério do Sul 2009         0.0
+São Valério do Sul 2010         0.0
+São Valério do Sul 2011         0.0
+
+Máximo(s):
+               Nome cidade  Ano  Pré Escola
+                    Aceguá 2013         1.0
+                    Aceguá 2015         1.0
+                    Aceguá 2018         1.0
+                    Aceguá 2019         1.0
+                    Aceguá 2020         1.0
+                    Aceguá 2021         1.0
+                Água Santa 2014         1.0
+                Água Santa 2015         1.0
+                Água Santa 2016         1.0
+                Água Santa 2017         1.0
+                Água Santa 2019         1.0
+                Água Santa 2020         1.0
+                Água Santa 2021         1.0
+                     Agudo 2017         1.0
+                     Agudo 2018         1.0
+                     Agudo 2019         1.0
+                     Agudo 2020         1.0
+                     Agudo 2021         1.0
+                 Ajuricaba 2016         1.0
+                 Ajuricaba 2018         1.0
+                   Alecrim 2017         1.0
+                   Alecrim 2018         1.0
+                   Alecrim 2019         1.0
+                   Alecrim 2020         1.0
+                   Alecrim 2021         1.0
+                  Alegrete 2017         1.0
+                   Alegria 2014         1.0
+                   Alegria 2015         1.0
+                   Alegria 2017         1.0
+                   Alegria 2019         1.0
+Almirante Tamandaré do Sul 2009         1.0
+Almirante Tamandaré do Sul 2010         1.0
+Almirante Tamandaré do Sul 2011         1.0
+Almirante Tamandaré do Sul 2012         1.0
+Almirante Tamandaré do Sul 2014         1.0
+Almirante Tamandaré do Sul 2015         1.0
+Almirante Tamandaré do Sul 2016         1.0
+Almirante Tamandaré do Sul 2017         1.0
+Almirante Tamandaré do Sul 2018         1.0
+Almirante Tamandaré do Sul 2019         1.0
+                  Alpestre 2015         1.0
+                  Alpestre 2016         1.0
+                  Alpestre 2017         1.0
+                  Alpestre 2018         1.0
+                  Alpestre 2019         1.0
+                  Alpestre 2021         1.0
+               Alto Alegre 2007         1.0
+               Alto Alegre 2008         1.0
+               Alto Alegre 2009         1.0
+               Alto Alegre 2010         1.0
+               Alto Alegre 2011         1.0
+               Alto Alegre 2012         1.0
+               Alto Alegre 2013         1.0
+               Alto Alegre 2014         1.0
+               Alto Alegre 2015         1.0
+               Alto Alegre 2016         1.0
+               Alto Alegre 2018         1.0
+               Alto Alegre 2019         1.0
+               Alto Alegre 2021         1.0
+                Alto Feliz 2007         1.0
+                Alto Feliz 2008         1.0
+                Alto Feliz 2009         1.0
+                Alto Feliz 2012         1.0
+                Alto Feliz 2013         1.0
+                Alto Feliz 2014         1.0
+                Alto Feliz 2015         1.0
+                Alto Feliz 2016         1.0
+                Alto Feliz 2018         1.0
+                Alto Feliz 2019         1.0
+           Amaral Ferrador 2019         1.0
+           Ametista do Sul 2014         1.0
+           Ametista do Sul 2018         1.0
+           Ametista do Sul 2021         1.0
+            André da Rocha 2017         1.0
+            André da Rocha 2021         1.0
+                Anta Gorda 2012         1.0
+                Anta Gorda 2013         1.0
+                Anta Gorda 2014         1.0
+                Anta Gorda 2018         1.0
+                Anta Gorda 2020         1.0
+                Anta Gorda 2021         1.0
+             Antônio Prado 2017         1.0
+             Antônio Prado 2018         1.0
+             Antônio Prado 2019         1.0
+                  Arambaré 2014         1.0
+                  Arambaré 2015         1.0
+                  Arambaré 2016         1.0
+                  Arambaré 2017         1.0
+                  Arambaré 2018         1.0
+                  Arambaré 2019         1.0
+                  Arambaré 2020         1.0
+                   Araricá 2008         1.0
+                   Araricá 2009         1.0
+                   Araricá 2010         1.0
+                   Araricá 2011         1.0
+                   Araricá 2012         1.0
+                   Araricá 2013         1.0
+                   Araricá 2014         1.0
+                   Araricá 2015         1.0
+                   Araricá 2016         1.0
+                   Araricá 2017         1.0
+                   Araricá 2018         1.0
+                   Araricá 2019         1.0
+                   Araricá 2020         1.0
+                   Araricá 2021         1.0
+                   Aratiba 2007         1.0
+                   Aratiba 2009         1.0
+                   Aratiba 2012         1.0
+                   Aratiba 2014         1.0
+                   Aratiba 2017         1.0
+                   Aratiba 2018         1.0
+                   Aratiba 2019         1.0
+                   Aratiba 2020         1.0
+                   Aratiba 2021         1.0
+            Arroio do Meio 2007         1.0
+            Arroio do Meio 2008         1.0
+            Arroio do Meio 2009         1.0
+            Arroio do Meio 2010         1.0
+            Arroio do Meio 2011         1.0
+            Arroio do Meio 2012         1.0
+            Arroio do Meio 2013         1.0
+            Arroio do Meio 2014         1.0
+            Arroio do Meio 2016         1.0
+            Arroio do Meio 2017         1.0
+            Arroio do Meio 2018         1.0
+            Arroio do Meio 2020         1.0
+             Arroio do Sal 2016         1.0
+             Arroio do Sal 2017         1.0
+             Arroio do Sal 2019         1.0
+             Arroio do Sal 2020         1.0
+           Arroio do Padre 2016         1.0
+           Arroio do Padre 2017         1.0
+           Arroio do Padre 2018         1.0
+           Arroio do Padre 2019         1.0
+           Arroio do Padre 2020         1.0
+           Arroio do Padre 2021         1.0
+          Arroio dos Ratos 2016         1.0
+          Arroio dos Ratos 2017         1.0
+          Arroio dos Ratos 2018         1.0
+           Arroio do Tigre 2013         1.0
+           Arroio do Tigre 2014         1.0
+           Arroio do Tigre 2017         1.0
+           Arroio do Tigre 2018         1.0
+           Arroio do Tigre 2020         1.0
+               Arvorezinha 2017         1.0
+               Arvorezinha 2018         1.0
+               Arvorezinha 2019         1.0
+               Arvorezinha 2020         1.0
+           Augusto Pestana 2013         1.0
+           Augusto Pestana 2014         1.0
+           Augusto Pestana 2015         1.0
+                     Áurea 2011         1.0
+                     Áurea 2012         1.0
+                     Áurea 2015         1.0
+                     Áurea 2016         1.0
+                     Áurea 2017         1.0
+                     Áurea 2018         1.0
+                     Áurea 2019         1.0
+                     Áurea 2020         1.0
+                     Áurea 2021         1.0
+          Balneário Pinhal 2016         1.0
+          Balneário Pinhal 2017         1.0
+          Balneário Pinhal 2018         1.0
+          Balneário Pinhal 2019         1.0
+                     Barão 2010         1.0
+                     Barão 2011         1.0
+                     Barão 2012         1.0
+                     Barão 2013         1.0
+                     Barão 2014         1.0
+                     Barão 2017         1.0
+                     Barão 2018         1.0
+                     Barão 2019         1.0
+                     Barão 2020         1.0
+                     Barão 2021         1.0
+         Barão de Cotegipe 2013         1.0
+         Barão de Cotegipe 2014         1.0
+         Barão de Cotegipe 2016         1.0
+         Barão de Cotegipe 2017         1.0
+         Barão de Cotegipe 2018         1.0
+          Barão do Triunfo 2017         1.0
+                  Barracão 2016         1.0
+                  Barracão 2017         1.0
+                  Barracão 2018         1.0
+                  Barracão 2020         1.0
+                  Barracão 2021         1.0
+          Barra do Guarita 2014         1.0
+          Barra do Guarita 2015         1.0
+          Barra do Guarita 2016         1.0
+          Barra do Guarita 2018         1.0
+          Barra do Guarita 2020         1.0
+           Barra do Quaraí 2012         1.0
+           Barra do Quaraí 2014         1.0
+           Barra do Quaraí 2016         1.0
+           Barra do Quaraí 2017         1.0
+           Barra do Quaraí 2018         1.0
+           Barra do Quaraí 2019         1.0
+           Barra do Quaraí 2020         1.0
+           Barra do Quaraí 2021         1.0
+          Barra do Ribeiro 2018         1.0
+         Barra do Rio Azul 2010         1.0
+         Barra do Rio Azul 2013         1.0
+         Barra do Rio Azul 2014         1.0
+         Barra do Rio Azul 2015         1.0
+         Barra do Rio Azul 2016         1.0
+         Barra do Rio Azul 2017         1.0
+         Barra do Rio Azul 2018         1.0
+         Barra do Rio Azul 2019         1.0
+         Barra do Rio Azul 2020         1.0
+         Barra do Rio Azul 2021         1.0
+               Barra Funda 2007         1.0
+               Barra Funda 2008         1.0
+               Barra Funda 2009         1.0
+               Barra Funda 2010         1.0
+               Barra Funda 2013         1.0
+               Barra Funda 2018         1.0
+             Barros Cassal 2021         1.0
+  Benjamin Constant do Sul 2013         1.0
+  Benjamin Constant do Sul 2014         1.0
+  Benjamin Constant do Sul 2015         1.0
+  Benjamin Constant do Sul 2016         1.0
+  Benjamin Constant do Sul 2017         1.0
+  Benjamin Constant do Sul 2018         1.0
+  Benjamin Constant do Sul 2019         1.0
+           Bento Gonçalves 2014         1.0
+           Bento Gonçalves 2015         1.0
+           Bento Gonçalves 2016         1.0
+           Bento Gonçalves 2017         1.0
+           Bento Gonçalves 2018         1.0
+     Boa Vista das Missões 2012         1.0
+     Boa Vista das Missões 2013         1.0
+     Boa Vista das Missões 2014         1.0
+     Boa Vista das Missões 2016         1.0
+     Boa Vista das Missões 2017         1.0
+     Boa Vista das Missões 2018         1.0
+     Boa Vista das Missões 2019         1.0
+     Boa Vista das Missões 2020         1.0
+     Boa Vista das Missões 2021         1.0
+       Boa Vista do Buricá 2009         1.0
+       Boa Vista do Buricá 2015         1.0
+       Boa Vista do Buricá 2017         1.0
+      Boa Vista do Cadeado 2014         1.0
+      Boa Vista do Cadeado 2016         1.0
+      Boa Vista do Cadeado 2017         1.0
+      Boa Vista do Cadeado 2019         1.0
+      Boa Vista do Cadeado 2020         1.0
+      Boa Vista do Cadeado 2021         1.0
+        Boa Vista do Incra 2008         1.0
+        Boa Vista do Incra 2015         1.0
+        Boa Vista do Incra 2016         1.0
+          Boa Vista do Sul 2007         1.0
+          Boa Vista do Sul 2009         1.0
+          Boa Vista do Sul 2010         1.0
+          Boa Vista do Sul 2018         1.0
+          Boa Vista do Sul 2019         1.0
+          Boa Vista do Sul 2020         1.0
+          Boa Vista do Sul 2021         1.0
+                 Bom Jesus 2018         1.0
+                 Bom Jesus 2020         1.0
+             Bom Princípio 2011         1.0
+             Bom Princípio 2012         1.0
+             Bom Princípio 2014         1.0
+             Bom Progresso 2014         1.0
+             Bom Progresso 2016         1.0
+             Bom Progresso 2017         1.0
+             Bom Progresso 2020         1.0
+         Boqueirão do Leão 2020         1.0
+                 Bossoroca 2012         1.0
+                 Bossoroca 2013         1.0
+                 Bossoroca 2014         1.0
+                 Bossoroca 2015         1.0
+                 Bossoroca 2016         1.0
+                 Bossoroca 2017         1.0
+                 Bossoroca 2018         1.0
+                 Bossoroca 2019         1.0
+                 Bossoroca 2020         1.0
+                 Bossoroca 2021         1.0
+                    Bozano 2007         1.0
+                    Bozano 2011         1.0
+                    Bozano 2012         1.0
+                    Bozano 2015         1.0
+                    Bozano 2016         1.0
+                    Bozano 2017         1.0
+                    Bozano 2018         1.0
+                     Braga 2010         1.0
+                     Braga 2016         1.0
+                     Braga 2020         1.0
+                  Brochier 2014         1.0
+                  Brochier 2017         1.0
+                  Brochier 2018         1.0
+                  Brochier 2019         1.0
+           Caçapava do Sul 2016         1.0
+                   Cacequi 2016         1.0
+                   Cacequi 2017         1.0
+                   Cacequi 2018         1.0
+                   Cacequi 2019         1.0
+                   Cacequi 2020         1.0
+                   Cacequi 2021         1.0
+          Cachoeira do Sul 2017         1.0
+             Cacique Doble 2016         1.0
+             Cacique Doble 2019         1.0
+             Cacique Doble 2020         1.0
+             Cacique Doble 2021         1.0
+                   Caibaté 2012         1.0
+                   Caibaté 2019         1.0
+                   Caibaté 2020         1.0
+                   Caiçara 2011         1.0
+                   Caiçara 2012         1.0
+                   Caiçara 2015         1.0
+                   Caiçara 2016         1.0
+                   Caiçara 2018         1.0
+                   Caiçara 2019         1.0
+                   Caiçara 2020         1.0
+                   Caiçara 2021         1.0
+                   Camargo 2007         1.0
+                   Camargo 2008         1.0
+                   Camargo 2009         1.0
+                   Camargo 2010         1.0
+                   Camargo 2011         1.0
+                   Camargo 2012         1.0
+                   Camargo 2013         1.0
+                   Camargo 2014         1.0
+                   Camargo 2015         1.0
+                   Camargo 2016         1.0
+                   Camargo 2018         1.0
+                   Camargo 2019         1.0
+                   Camargo 2020         1.0
+                   Camargo 2021         1.0
+            Cambará do Sul 2015         1.0
+            Cambará do Sul 2016         1.0
+            Cambará do Sul 2017         1.0
+            Cambará do Sul 2018         1.0
+            Cambará do Sul 2019         1.0
+            Cambará do Sul 2020         1.0
+            Cambará do Sul 2021         1.0
+        Campestre da Serra 2014         1.0
+        Campestre da Serra 2015         1.0
+        Campestre da Serra 2016         1.0
+        Campestre da Serra 2017         1.0
+        Campestre da Serra 2018         1.0
+        Campestre da Serra 2019         1.0
+        Campestre da Serra 2020         1.0
+        Campestre da Serra 2021         1.0
+       Campina das Missões 2009         1.0
+       Campina das Missões 2014         1.0
+       Campina das Missões 2015         1.0
+       Campina das Missões 2019         1.0
+       Campina das Missões 2020         1.0
+       Campina das Missões 2021         1.0
+           Campinas do Sul 2014         1.0
+           Campinas do Sul 2015         1.0
+           Campinas do Sul 2017         1.0
+           Campinas do Sul 2018         1.0
+                 Campo Bom 2016         1.0
+                Campo Novo 2012         1.0
+                Campo Novo 2013         1.0
+                Campo Novo 2016         1.0
+                Campo Novo 2017         1.0
+             Campos Borges 2015         1.0
+             Campos Borges 2016         1.0
+             Campos Borges 2017         1.0
+             Campos Borges 2018         1.0
+             Campos Borges 2020         1.0
+             Campos Borges 2021         1.0
+             Cândido Godói 2014         1.0
+                  Candiota 2014         1.0
+                  Candiota 2016         1.0
+                  Candiota 2017         1.0
+                  Candiota 2018         1.0
+                  Candiota 2019         1.0
+                  Candiota 2020         1.0
+                  Candiota 2021         1.0
+           Canudos do Vale 2012         1.0
+           Canudos do Vale 2016         1.0
+           Canudos do Vale 2017         1.0
+           Canudos do Vale 2018         1.0
+           Canudos do Vale 2019         1.0
+           Canudos do Vale 2020         1.0
+           Canudos do Vale 2021         1.0
+       Capão Bonito do Sul 2007         1.0
+       Capão Bonito do Sul 2014         1.0
+       Capão Bonito do Sul 2015         1.0
+       Capão Bonito do Sul 2018         1.0
+       Capão Bonito do Sul 2019         1.0
+             Capão do Cipó 2016         1.0
+             Capão do Cipó 2017         1.0
+             Capão do Cipó 2021         1.0
+           Capivari do Sul 2007         1.0
+           Capivari do Sul 2008         1.0
+           Capivari do Sul 2009         1.0
+           Capivari do Sul 2010         1.0
+           Capivari do Sul 2012         1.0
+           Capivari do Sul 2013         1.0
+           Capivari do Sul 2016         1.0
+           Capivari do Sul 2017         1.0
+           Capivari do Sul 2018         1.0
+           Capivari do Sul 2019         1.0
+         Capela de Santana 2015         1.0
+         Capela de Santana 2016         1.0
+         Capela de Santana 2018         1.0
+         Capela de Santana 2019         1.0
+         Capela de Santana 2020         1.0
+                   Capitão 2008         1.0
+                   Capitão 2012         1.0
+                   Capitão 2013         1.0
+                   Capitão 2014         1.0
+                   Capitão 2015         1.0
+                   Capitão 2018         1.0
+                   Capitão 2019         1.0
+                   Capitão 2020         1.0
+                   Capitão 2021         1.0
+                     Caraá 2016         1.0
+                     Caraá 2017         1.0
+                     Caraá 2018         1.0
+                     Caraá 2019         1.0
+                     Caraá 2020         1.0
+                     Caraá 2021         1.0
+              Carlos Gomes 2007         1.0
+              Carlos Gomes 2008         1.0
+              Carlos Gomes 2012         1.0
+              Carlos Gomes 2013         1.0
+              Carlos Gomes 2015         1.0
+              Carlos Gomes 2016         1.0
+              Carlos Gomes 2017         1.0
+              Carlos Gomes 2018         1.0
+              Carlos Gomes 2020         1.0
+              Carlos Gomes 2021         1.0
+                     Casca 2013         1.0
+                     Casca 2014         1.0
+                     Casca 2015         1.0
+                     Casca 2017         1.0
+                     Casca 2018         1.0
+                     Casca 2019         1.0
+                  Caseiros 2012         1.0
+                  Caseiros 2013         1.0
+                  Caseiros 2014         1.0
+                  Caseiros 2015         1.0
+                  Caseiros 2016         1.0
+                  Caseiros 2017         1.0
+                  Caseiros 2018         1.0
+                  Caseiros 2019         1.0
+                  Caseiros 2020         1.0
+                  Caseiros 2021         1.0
+                   Catuípe 2019         1.0
+                   Catuípe 2020         1.0
+                   Catuípe 2021         1.0
+                Centenário 2007         1.0
+                Centenário 2008         1.0
+                Centenário 2009         1.0
+                Centenário 2010         1.0
+                Centenário 2012         1.0
+                Centenário 2016         1.0
+                Centenário 2019         1.0
+                Centenário 2020         1.0
+                Centenário 2021         1.0
+                   Cerrito 2016         1.0
+                   Cerrito 2017         1.0
+                   Cerrito 2018         1.0
+                   Cerrito 2019         1.0
+                   Cerrito 2020         1.0
+                   Cerrito 2021         1.0
+              Cerro Branco 2011         1.0
+              Cerro Branco 2012         1.0
+              Cerro Branco 2015         1.0
+              Cerro Branco 2016         1.0
+              Cerro Branco 2018         1.0
+              Cerro Branco 2019         1.0
+              Cerro Branco 2020         1.0
+              Cerro Branco 2021         1.0
+              Cerro Grande 2013         1.0
+               Cerro Largo 2017         1.0
+                   Chapada 2009         1.0
+                   Chapada 2010         1.0
+                   Chapada 2011         1.0
+                   Chapada 2013         1.0
+                   Chapada 2014         1.0
+                   Chapada 2015         1.0
+                   Chapada 2016         1.0
+                   Chapada 2017         1.0
+                   Chapada 2018         1.0
+                   Chapada 2020         1.0
+                   Chapada 2021         1.0
+               Charqueadas 2014         1.0
+               Charqueadas 2016         1.0
+               Charqueadas 2018         1.0
+               Charqueadas 2019         1.0
+                   Charrua 2018         1.0
+                 Chiapetta 2012         1.0
+                 Chiapetta 2013         1.0
+                 Chiapetta 2014         1.0
+                 Chiapetta 2019         1.0
+                 Chiapetta 2020         1.0
+                 Chiapetta 2021         1.0
+                      Chuí 2019         1.0
+                  Chuvisca 2020         1.0
+                  Chuvisca 2021         1.0
+                   Ciríaco 2016         1.0
+                   Ciríaco 2017         1.0
+                   Ciríaco 2018         1.0
+                   Ciríaco 2019         1.0
+                   Ciríaco 2020         1.0
+                   Colinas 2012         1.0
+                   Colinas 2013         1.0
+                   Colinas 2014         1.0
+                   Colinas 2015         1.0
+                   Colinas 2017         1.0
+                   Colinas 2018         1.0
+                   Colinas 2019         1.0
+                  Colorado 2007         1.0
+                  Colorado 2008         1.0
+                  Colorado 2009         1.0
+                  Colorado 2010         1.0
+                  Colorado 2011         1.0
+                  Colorado 2012         1.0
+                  Colorado 2014         1.0
+                  Colorado 2015         1.0
+                  Colorado 2016         1.0
+                  Colorado 2018         1.0
+                  Colorado 2019         1.0
+                    Condor 2014         1.0
+                    Condor 2015         1.0
+                    Condor 2016         1.0
+                    Condor 2017         1.0
+                    Condor 2018         1.0
+                    Condor 2019         1.0
+                    Condor 2020         1.0
+                    Condor 2021         1.0
+               Constantina 2010         1.0
+               Constantina 2012         1.0
+               Constantina 2014         1.0
+               Constantina 2015         1.0
+               Constantina 2016         1.0
+               Constantina 2017         1.0
+            Coqueiro Baixo 2014         1.0
+            Coqueiro Baixo 2015         1.0
+            Coqueiro Baixo 2016         1.0
+            Coqueiro Baixo 2017         1.0
+            Coqueiro Baixo 2018         1.0
+            Coqueiro Baixo 2019         1.0
+            Coqueiro Baixo 2020         1.0
+          Coqueiros do Sul 2007         1.0
+          Coqueiros do Sul 2008         1.0
+          Coqueiros do Sul 2014         1.0
+          Coqueiros do Sul 2015         1.0
+          Coqueiros do Sul 2019         1.0
+          Coqueiros do Sul 2021         1.0
+            Coronel Barros 2014         1.0
+            Coronel Barros 2019         1.0
+             Coronel Pilar 2009         1.0
+             Coronel Pilar 2014         1.0
+             Coronel Pilar 2015         1.0
+             Coronel Pilar 2016         1.0
+             Coronel Pilar 2017         1.0
+             Coronel Pilar 2018         1.0
+             Coronel Pilar 2020         1.0
+                  Cotiporã 2007         1.0
+                  Cotiporã 2013         1.0
+                  Cotiporã 2014         1.0
+                  Cotiporã 2017         1.0
+                  Cotiporã 2018         1.0
+                   Coxilha 2015         1.0
+                   Coxilha 2016         1.0
+                   Coxilha 2017         1.0
+                   Coxilha 2018         1.0
+                   Coxilha 2020         1.0
+                   Coxilha 2021         1.0
+                Crissiumal 2017         1.0
+                   Cristal 2017         1.0
+                   Cristal 2021         1.0
+            Cristal do Sul 2015         1.0
+            Cristal do Sul 2016         1.0
+            Cristal do Sul 2017         1.0
+               Cruzaltense 2009         1.0
+               Cruzaltense 2010         1.0
+               Cruzaltense 2011         1.0
+               Cruzaltense 2013         1.0
+               Cruzaltense 2014         1.0
+               Cruzaltense 2017         1.0
+               Cruzaltense 2018         1.0
+               Cruzaltense 2019         1.0
+               Cruzaltense 2020         1.0
+               Cruzaltense 2021         1.0
+           Cruzeiro do Sul 2017         1.0
+           Cruzeiro do Sul 2018         1.0
+           David Canabarro 2014         1.0
+           David Canabarro 2015         1.0
+           David Canabarro 2017         1.0
+           David Canabarro 2018         1.0
+           David Canabarro 2019         1.0
+                Derrubadas 2015         1.0
+                Derrubadas 2016         1.0
+                Derrubadas 2017         1.0
+                Derrubadas 2018         1.0
+                Derrubadas 2019         1.0
+     Dezesseis de Novembro 2017         1.0
+     Dezesseis de Novembro 2019         1.0
+     Dezesseis de Novembro 2020         1.0
+     Dezesseis de Novembro 2021         1.0
+      Dilermando de Aguiar 2011         1.0
+      Dilermando de Aguiar 2016         1.0
+      Dilermando de Aguiar 2017         1.0
+      Dilermando de Aguiar 2018         1.0
+      Dilermando de Aguiar 2019         1.0
+      Dilermando de Aguiar 2020         1.0
+      Dilermando de Aguiar 2021         1.0
+               Dois Irmãos 2012         1.0
+               Dois Irmãos 2013         1.0
+               Dois Irmãos 2017         1.0
+               Dois Irmãos 2018         1.0
+   Dois Irmãos das Missões 2008         1.0
+   Dois Irmãos das Missões 2009         1.0
+   Dois Irmãos das Missões 2010         1.0
+   Dois Irmãos das Missões 2011         1.0
+   Dois Irmãos das Missões 2016         1.0
+   Dois Irmãos das Missões 2018         1.0
+   Dois Irmãos das Missões 2019         1.0
+             Dois Lajeados 2013         1.0
+             Dois Lajeados 2014         1.0
+             Dois Lajeados 2016         1.0
+             Dois Lajeados 2017         1.0
+             Dois Lajeados 2018         1.0
+             Dois Lajeados 2019         1.0
+             Dois Lajeados 2020         1.0
+             Dois Lajeados 2021         1.0
+    Dom Pedro de Alcântara 2011         1.0
+    Dom Pedro de Alcântara 2017         1.0
+    Dom Pedro de Alcântara 2018         1.0
+    Dom Pedro de Alcântara 2019         1.0
+    Dom Pedro de Alcântara 2020         1.0
+            Dona Francisca 2012         1.0
+            Dona Francisca 2013         1.0
+            Dona Francisca 2014         1.0
+            Dona Francisca 2016         1.0
+            Dona Francisca 2017         1.0
+   Doutor Maurício Cardoso 2011         1.0
+   Doutor Maurício Cardoso 2014         1.0
+   Doutor Maurício Cardoso 2015         1.0
+   Doutor Maurício Cardoso 2016         1.0
+   Doutor Maurício Cardoso 2017         1.0
+   Doutor Maurício Cardoso 2018         1.0
+   Doutor Maurício Cardoso 2019         1.0
+   Doutor Maurício Cardoso 2020         1.0
+            Doutor Ricardo 2009         1.0
+            Doutor Ricardo 2012         1.0
+            Doutor Ricardo 2013         1.0
+            Doutor Ricardo 2014         1.0
+            Doutor Ricardo 2015         1.0
+            Doutor Ricardo 2016         1.0
+            Doutor Ricardo 2017         1.0
+                 Encantado 2007         1.0
+                 Encantado 2008         1.0
+                 Encantado 2009         1.0
+                 Encantado 2010         1.0
+                 Encantado 2011         1.0
+                 Encantado 2012         1.0
+                 Encantado 2013         1.0
+                 Encantado 2014         1.0
+                 Encantado 2019         1.0
+                 Encantado 2020         1.0
+                 Encantado 2021         1.0
+       Encruzilhada do Sul 2020         1.0
+             Engenho Velho 2014         1.0
+             Engenho Velho 2015         1.0
+             Engenho Velho 2016         1.0
+             Engenho Velho 2019         1.0
+             Engenho Velho 2021         1.0
+               Entre-ijuís 2018         1.0
+         Entre Rios do Sul 2009         1.0
+         Entre Rios do Sul 2010         1.0
+         Entre Rios do Sul 2012         1.0
+         Entre Rios do Sul 2014         1.0
+         Entre Rios do Sul 2015         1.0
+         Entre Rios do Sul 2016         1.0
+         Entre Rios do Sul 2017         1.0
+         Entre Rios do Sul 2021         1.0
+                  Erebango 2014         1.0
+                  Erebango 2015         1.0
+                  Erebango 2016         1.0
+                  Erebango 2017         1.0
+                 Ernestina 2010         1.0
+                 Ernestina 2013         1.0
+                 Ernestina 2014         1.0
+                 Ernestina 2015         1.0
+                 Ernestina 2016         1.0
+                 Ernestina 2017         1.0
+                 Ernestina 2018         1.0
+                 Ernestina 2021         1.0
+                    Herval 2016         1.0
+                    Herval 2017         1.0
+                    Herval 2018         1.0
+                    Herval 2019         1.0
+              Erval Grande 2017         1.0
+              Erval Grande 2018         1.0
+              Erval Grande 2019         1.0
+                Erval Seco 2016         1.0
+                Erval Seco 2017         1.0
+                Erval Seco 2018         1.0
+                Erval Seco 2020         1.0
+                 Esmeralda 2013         1.0
+                 Esmeralda 2015         1.0
+                 Esmeralda 2016         1.0
+                 Esmeralda 2017         1.0
+                 Esmeralda 2018         1.0
+                 Esmeralda 2019         1.0
+                 Esmeralda 2020         1.0
+                 Esmeralda 2021         1.0
+          Esperança do Sul 2015         1.0
+          Esperança do Sul 2018         1.0
+          Esperança do Sul 2019         1.0
+          Esperança do Sul 2020         1.0
+          Esperança do Sul 2021         1.0
+            Estância Velha 2017         1.0
+            Estância Velha 2018         1.0
+             Estrela Velha 2011         1.0
+             Estrela Velha 2014         1.0
+             Estrela Velha 2015         1.0
+             Estrela Velha 2016         1.0
+             Estrela Velha 2017         1.0
+             Estrela Velha 2018         1.0
+             Estrela Velha 2021         1.0
+         Eugênio de Castro 2012         1.0
+         Eugênio de Castro 2015         1.0
+         Eugênio de Castro 2017         1.0
+         Eugênio de Castro 2018         1.0
+         Eugênio de Castro 2019         1.0
+         Eugênio de Castro 2020         1.0
+         Eugênio de Castro 2021         1.0
+           Fagundes Varela 2007         1.0
+           Fagundes Varela 2008         1.0
+           Fagundes Varela 2009         1.0
+           Fagundes Varela 2010         1.0
+           Fagundes Varela 2013         1.0
+           Fagundes Varela 2014         1.0
+           Fagundes Varela 2015         1.0
+           Fagundes Varela 2016         1.0
+           Fagundes Varela 2017         1.0
+           Fagundes Varela 2018         1.0
+           Fagundes Varela 2019         1.0
+           Fagundes Varela 2020         1.0
+        Faxinal do Soturno 2014         1.0
+        Faxinal do Soturno 2015         1.0
+        Faxinal do Soturno 2017         1.0
+        Faxinal do Soturno 2018         1.0
+        Faxinal do Soturno 2020         1.0
+              Faxinalzinho 2017         1.0
+              Faxinalzinho 2020         1.0
+              Faxinalzinho 2021         1.0
+          Fazenda Vilanova 2015         1.0
+          Fazenda Vilanova 2019         1.0
+           Flores da Cunha 2016         1.0
+           Flores da Cunha 2017         1.0
+           Flores da Cunha 2018         1.0
+           Flores da Cunha 2019         1.0
+           Flores da Cunha 2020         1.0
+          Floriano Peixoto 2008         1.0
+          Floriano Peixoto 2010         1.0
+          Floriano Peixoto 2011         1.0
+          Floriano Peixoto 2012         1.0
+          Floriano Peixoto 2013         1.0
+          Floriano Peixoto 2014         1.0
+          Floriano Peixoto 2015         1.0
+          Floriano Peixoto 2016         1.0
+          Floriano Peixoto 2017         1.0
+          Floriano Peixoto 2018         1.0
+          Floriano Peixoto 2019         1.0
+          Floriano Peixoto 2020         1.0
+           Fontoura Xavier 2017         1.0
+           Fontoura Xavier 2018         1.0
+           Fontoura Xavier 2019         1.0
+           Fontoura Xavier 2020         1.0
+           Fontoura Xavier 2021         1.0
+               Formigueiro 2016         1.0
+               Formigueiro 2017         1.0
+               Formigueiro 2018         1.0
+               Forquetinha 2007         1.0
+               Forquetinha 2012         1.0
+               Forquetinha 2015         1.0
+               Forquetinha 2017         1.0
+               Forquetinha 2018         1.0
+               Forquetinha 2019         1.0
+               Forquetinha 2020         1.0
+               Forquetinha 2021         1.0
+       Fortaleza dos Valos 2008         1.0
+       Fortaleza dos Valos 2009         1.0
+       Fortaleza dos Valos 2011         1.0
+       Fortaleza dos Valos 2012         1.0
+       Fortaleza dos Valos 2013         1.0
+       Fortaleza dos Valos 2014         1.0
+       Fortaleza dos Valos 2017         1.0
+       Fortaleza dos Valos 2018         1.0
+       Fortaleza dos Valos 2019         1.0
+       Fortaleza dos Valos 2020         1.0
+       Fortaleza dos Valos 2021         1.0
+      Frederico Westphalen 2011         1.0
+      Frederico Westphalen 2014         1.0
+      Frederico Westphalen 2017         1.0
+                 Garibaldi 2011         1.0
+                 Garibaldi 2012         1.0
+                 Garibaldi 2013         1.0
+                 Garruchos 2015         1.0
+                 Garruchos 2016         1.0
+                 Garruchos 2017         1.0
+                 Garruchos 2018         1.0
+                 Garruchos 2019         1.0
+                 Garruchos 2020         1.0
+                 Garruchos 2021         1.0
+                   Gaurama 2017         1.0
+                   Gaurama 2018         1.0
+            General Câmara 2013         1.0
+            General Câmara 2014         1.0
+                    Gentil 2014         1.0
+                    Gentil 2016         1.0
+                    Gentil 2018         1.0
+                    Gentil 2019         1.0
+            Getúlio Vargas 2014         1.0
+            Getúlio Vargas 2015         1.0
+            Getúlio Vargas 2017         1.0
+            Getúlio Vargas 2018         1.0
+                     Giruá 2018         1.0
+                  Glorinha 2016         1.0
+                  Glorinha 2017         1.0
+                  Glorinha 2018         1.0
+                  Glorinha 2019         1.0
+                   Gramado 2015         1.0
+                   Gramado 2016         1.0
+                   Gramado 2017         1.0
+                   Gramado 2018         1.0
+                   Gramado 2019         1.0
+                   Gramado 2020         1.0
+     Gramado dos Loureiros 2016         1.0
+     Gramado dos Loureiros 2017         1.0
+     Gramado dos Loureiros 2018         1.0
+     Gramado dos Loureiros 2019         1.0
+            Gramado Xavier 2016         1.0
+            Gramado Xavier 2019         1.0
+            Gramado Xavier 2020         1.0
+                   Guabiju 2007         1.0
+                   Guabiju 2012         1.0
+                   Guabiju 2013         1.0
+                   Guabiju 2014         1.0
+                   Guabiju 2015         1.0
+                   Guabiju 2016         1.0
+                   Guabiju 2017         1.0
+                   Guabiju 2018         1.0
+                   Guaporé 2013         1.0
+                   Guaporé 2016         1.0
+                   Guaporé 2017         1.0
+                   Guaporé 2018         1.0
+       Guarani das Missões 2018         1.0
+       Guarani das Missões 2019         1.0
+                  Harmonia 2012         1.0
+                  Harmonia 2015         1.0
+                  Harmonia 2016         1.0
+                  Harmonia 2017         1.0
+                  Harmonia 2018         1.0
+                  Harmonia 2019         1.0
+                  Harmonia 2021         1.0
+                 Herveiras 2017         1.0
+                 Herveiras 2019         1.0
+               Hulha Negra 2016         1.0
+               Hulha Negra 2017         1.0
+               Hulha Negra 2019         1.0
+               Hulha Negra 2020         1.0
+                   Humaitá 2009         1.0
+                   Humaitá 2010         1.0
+                   Humaitá 2011         1.0
+                   Humaitá 2012         1.0
+                   Humaitá 2013         1.0
+                   Humaitá 2014         1.0
+                   Humaitá 2015         1.0
+                   Humaitá 2016         1.0
+                   Humaitá 2018         1.0
+                   Humaitá 2019         1.0
+                   Humaitá 2020         1.0
+                   Ibarama 2016         1.0
+                   Ibarama 2017         1.0
+                   Ibarama 2018         1.0
+                    Ibiaçá 2012         1.0
+                    Ibiaçá 2014         1.0
+                    Ibiaçá 2016         1.0
+                    Ibiaçá 2017         1.0
+                    Ibiaçá 2020         1.0
+                    Ibiaçá 2021         1.0
+                Ibiraiaras 2014         1.0
+                Ibiraiaras 2015         1.0
+                Ibiraiaras 2020         1.0
+                Ibiraiaras 2021         1.0
+                Ibirapuitã 2016         1.0
+                Ibirapuitã 2017         1.0
+                Ibirapuitã 2018         1.0
+                Ibirapuitã 2019         1.0
+                Ibirapuitã 2020         1.0
+                Ibirapuitã 2021         1.0
+                   Ibirubá 2014         1.0
+                  Ilópolis 2009         1.0
+                  Ilópolis 2010         1.0
+                  Ilópolis 2011         1.0
+                  Ilópolis 2012         1.0
+                      Imbé 2009         1.0
+                 Imigrante 2013         1.0
+                 Imigrante 2014         1.0
+                 Imigrante 2015         1.0
+                 Imigrante 2016         1.0
+                 Imigrante 2018         1.0
+                 Imigrante 2019         1.0
+                 Imigrante 2020         1.0
+                       Ipê 2016         1.0
+                       Ipê 2017         1.0
+                       Ipê 2018         1.0
+                       Ipê 2019         1.0
+                       Ipê 2020         1.0
+                       Ipê 2021         1.0
+           Ipiranga do Sul 2007         1.0
+           Ipiranga do Sul 2009         1.0
+           Ipiranga do Sul 2011         1.0
+           Ipiranga do Sul 2012         1.0
+           Ipiranga do Sul 2013         1.0
+           Ipiranga do Sul 2014         1.0
+           Ipiranga do Sul 2015         1.0
+           Ipiranga do Sul 2016         1.0
+           Ipiranga do Sul 2017         1.0
+           Ipiranga do Sul 2018         1.0
+           Ipiranga do Sul 2019         1.0
+           Ipiranga do Sul 2020         1.0
+                      Iraí 2015         1.0
+                      Iraí 2018         1.0
+                      Iraí 2020         1.0
+                      Iraí 2021         1.0
+                    Itaara 2016         1.0
+                    Itaara 2017         1.0
+                    Itaara 2018         1.0
+                    Itaara 2019         1.0
+                 Itacurubi 2016         1.0
+                 Itacurubi 2017         1.0
+                 Itacurubi 2018         1.0
+                 Itacurubi 2019         1.0
+                 Itacurubi 2020         1.0
+                 Itacurubi 2021         1.0
+                   Itapuca 2014         1.0
+                   Itapuca 2015         1.0
+                   Itapuca 2016         1.0
+                   Itapuca 2017         1.0
+                   Itapuca 2018         1.0
+                   Itapuca 2019         1.0
+                   Itapuca 2020         1.0
+                     Itati 2013         1.0
+                     Itati 2015         1.0
+                     Itati 2016         1.0
+                     Itati 2017         1.0
+                     Itati 2018         1.0
+                     Itati 2019         1.0
+                     Itati 2020         1.0
+                     Itati 2021         1.0
+            Itatiba do Sul 2013         1.0
+            Itatiba do Sul 2014         1.0
+            Itatiba do Sul 2016         1.0
+            Itatiba do Sul 2017         1.0
+            Itatiba do Sul 2018         1.0
+            Itatiba do Sul 2020         1.0
+            Itatiba do Sul 2021         1.0
+                     Ivorá 2014         1.0
+                     Ivorá 2016         1.0
+                     Ivorá 2017         1.0
+                     Ivorá 2018         1.0
+                     Ivorá 2019         1.0
+                Jaboticaba 2014         1.0
+                Jaboticaba 2015         1.0
+                Jaboticaba 2016         1.0
+                Jaboticaba 2017         1.0
+                Jaboticaba 2021         1.0
+                Jacuizinho 2017         1.0
+                Jacuizinho 2018         1.0
+                Jacuizinho 2019         1.0
+                Jacuizinho 2021         1.0
+                 Jacutinga 2007         1.0
+                 Jacutinga 2008         1.0
+                 Jacutinga 2011         1.0
+                 Jacutinga 2012         1.0
+                 Jacutinga 2014         1.0
+                 Jacutinga 2015         1.0
+                 Jacutinga 2016         1.0
+                 Jacutinga 2017         1.0
+                 Jacutinga 2018         1.0
+                 Jacutinga 2019         1.0
+                 Jacutinga 2020         1.0
+                  Jaguarão 2018         1.0
+                  Jaguarão 2019         1.0
+                  Jaguarão 2020         1.0
+                   Jaguari 2017         1.0
+                   Jaguari 2018         1.0
+                 Jaquirana 2017         1.0
+                 Jaquirana 2018         1.0
+                 Jaquirana 2020         1.0
+                      Jari 2014         1.0
+                      Jari 2015         1.0
+                      Jari 2016         1.0
+                      Jari 2017         1.0
+                      Jari 2018         1.0
+                      Jari 2019         1.0
+                      Jóia 2014         1.0
+                      Jóia 2017         1.0
+                      Jóia 2018         1.0
+        Júlio de Castilhos 2017         1.0
+       Lagoa Bonita do Sul 2014         1.0
+       Lagoa Bonita do Sul 2016         1.0
+       Lagoa Bonita do Sul 2017         1.0
+       Lagoa Bonita do Sul 2018         1.0
+                    Lagoão 2018         1.0
+                    Lagoão 2019         1.0
+                    Lagoão 2020         1.0
+     Lagoa dos Três Cantos 2007         1.0
+     Lagoa dos Três Cantos 2008         1.0
+     Lagoa dos Três Cantos 2009         1.0
+     Lagoa dos Três Cantos 2010         1.0
+     Lagoa dos Três Cantos 2014         1.0
+     Lagoa dos Três Cantos 2016         1.0
+     Lagoa dos Três Cantos 2017         1.0
+     Lagoa dos Três Cantos 2018         1.0
+     Lagoa dos Três Cantos 2019         1.0
+                   Lajeado 2014         1.0
+                   Lajeado 2019         1.0
+          Lajeado do Bugre 2012         1.0
+          Lajeado do Bugre 2015         1.0
+          Lajeado do Bugre 2016         1.0
+          Lajeado do Bugre 2021         1.0
+             Lavras do Sul 2014         1.0
+             Lavras do Sul 2015         1.0
+             Lavras do Sul 2016         1.0
+             Lavras do Sul 2017         1.0
+             Lavras do Sul 2018         1.0
+             Lavras do Sul 2019         1.0
+             Lavras do Sul 2020         1.0
+             Lavras do Sul 2021         1.0
+          Liberato Salzano 2014         1.0
+          Liberato Salzano 2015         1.0
+           Lindolfo Collor 2008         1.0
+           Lindolfo Collor 2009         1.0
+           Lindolfo Collor 2010         1.0
+           Lindolfo Collor 2011         1.0
+           Lindolfo Collor 2012         1.0
+           Lindolfo Collor 2014         1.0
+           Lindolfo Collor 2015         1.0
+           Lindolfo Collor 2016         1.0
+           Lindolfo Collor 2017         1.0
+           Lindolfo Collor 2019         1.0
+           Lindolfo Collor 2020         1.0
+           Lindolfo Collor 2021         1.0
+                Linha Nova 2007         1.0
+                Linha Nova 2010         1.0
+                Linha Nova 2011         1.0
+                Linha Nova 2012         1.0
+                Linha Nova 2013         1.0
+                Linha Nova 2014         1.0
+                Linha Nova 2015         1.0
+                Linha Nova 2016         1.0
+                Linha Nova 2017         1.0
+                Linha Nova 2021         1.0
+                Machadinho 2014         1.0
+                Machadinho 2019         1.0
+                 Maçambará 2007         1.0
+                 Maçambará 2014         1.0
+                 Maçambará 2015         1.0
+                 Maçambará 2016         1.0
+                 Maçambará 2017         1.0
+                 Maçambará 2018         1.0
+                 Maçambará 2019         1.0
+                 Maçambará 2020         1.0
+                 Maçambará 2021         1.0
+                 Mampituba 2017         1.0
+                 Mampituba 2018         1.0
+              Manoel Viana 2016         1.0
+              Manoel Viana 2017         1.0
+              Manoel Viana 2018         1.0
+              Manoel Viana 2019         1.0
+              Manoel Viana 2020         1.0
+              Manoel Viana 2021         1.0
+                   Maquiné 2011         1.0
+                   Maquiné 2014         1.0
+                   Maquiné 2015         1.0
+                   Maquiné 2016         1.0
+                   Maquiné 2017         1.0
+                   Maquiné 2018         1.0
+                   Maquiné 2020         1.0
+                   Maquiné 2021         1.0
+                    Maratá 2014         1.0
+                    Maratá 2018         1.0
+                    Maratá 2020         1.0
+                     Marau 2009         1.0
+                     Marau 2016         1.0
+                     Marau 2017         1.0
+                     Marau 2018         1.0
+                     Marau 2019         1.0
+                     Marau 2020         1.0
+                     Marau 2021         1.0
+           Marcelino Ramos 2012         1.0
+           Marcelino Ramos 2013         1.0
+           Marcelino Ramos 2015         1.0
+           Marcelino Ramos 2016         1.0
+           Marcelino Ramos 2017         1.0
+           Marcelino Ramos 2018         1.0
+           Marcelino Ramos 2019         1.0
+           Marcelino Ramos 2020         1.0
+           Marcelino Ramos 2021         1.0
+          Mariana Pimentel 2014         1.0
+          Mariana Pimentel 2015         1.0
+          Mariana Pimentel 2016         1.0
+          Mariana Pimentel 2017         1.0
+          Mariana Pimentel 2018         1.0
+          Mariana Pimentel 2019         1.0
+          Mariana Pimentel 2020         1.0
+          Mariana Pimentel 2021         1.0
+              Mariano Moro 2010         1.0
+              Mariano Moro 2011         1.0
+              Mariano Moro 2012         1.0
+              Mariano Moro 2013         1.0
+              Mariano Moro 2014         1.0
+              Mariano Moro 2015         1.0
+              Mariano Moro 2018         1.0
+              Mariano Moro 2019         1.0
+              Mariano Moro 2020         1.0
+              Mariano Moro 2021         1.0
+          Marques de Souza 2010         1.0
+          Marques de Souza 2017         1.0
+          Marques de Souza 2018         1.0
+          Marques de Souza 2019         1.0
+          Marques de Souza 2020         1.0
+          Marques de Souza 2021         1.0
+                      Mata 2016         1.0
+                      Mata 2017         1.0
+                      Mata 2018         1.0
+                      Mata 2019         1.0
+                      Mata 2020         1.0
+                      Mata 2021         1.0
+           Mato Castelhano 2014         1.0
+           Mato Castelhano 2015         1.0
+           Mato Castelhano 2016         1.0
+           Mato Castelhano 2017         1.0
+           Mato Castelhano 2018         1.0
+           Mato Castelhano 2021         1.0
+               Mato Leitão 2010         1.0
+               Mato Leitão 2011         1.0
+               Mato Leitão 2012         1.0
+               Mato Leitão 2013         1.0
+               Mato Leitão 2014         1.0
+               Mato Leitão 2015         1.0
+               Mato Leitão 2016         1.0
+               Mato Leitão 2017         1.0
+               Mato Leitão 2018         1.0
+               Mato Leitão 2019         1.0
+               Mato Leitão 2020         1.0
+               Mato Leitão 2021         1.0
+             Mato Queimado 2010         1.0
+             Mato Queimado 2012         1.0
+             Mato Queimado 2013         1.0
+             Mato Queimado 2015         1.0
+             Mato Queimado 2016         1.0
+             Mato Queimado 2017         1.0
+    Maximiliano de Almeida 2008         1.0
+    Maximiliano de Almeida 2010         1.0
+    Maximiliano de Almeida 2011         1.0
+    Maximiliano de Almeida 2012         1.0
+    Maximiliano de Almeida 2013         1.0
+    Maximiliano de Almeida 2015         1.0
+    Maximiliano de Almeida 2016         1.0
+    Maximiliano de Almeida 2017         1.0
+    Maximiliano de Almeida 2018         1.0
+    Maximiliano de Almeida 2019         1.0
+    Maximiliano de Almeida 2020         1.0
+             Minas do Leão 2017         1.0
+             Minas do Leão 2018         1.0
+             Minas do Leão 2019         1.0
+                  Miraguaí 2009         1.0
+                  Miraguaí 2011         1.0
+                  Miraguaí 2012         1.0
+                  Miraguaí 2013         1.0
+                  Miraguaí 2014         1.0
+                  Miraguaí 2015         1.0
+                  Miraguaí 2016         1.0
+                  Miraguaí 2017         1.0
+                  Miraguaí 2018         1.0
+                  Miraguaí 2019         1.0
+                  Miraguaí 2020         1.0
+                  Miraguaí 2021         1.0
+                  Montauri 2014         1.0
+                  Montauri 2015         1.0
+                  Montauri 2016         1.0
+   Monte Alegre dos Campos 2016         1.0
+   Monte Alegre dos Campos 2017         1.0
+   Monte Alegre dos Campos 2018         1.0
+   Monte Alegre dos Campos 2019         1.0
+   Monte Alegre dos Campos 2020         1.0
+         Monte Belo do Sul 2007         1.0
+         Monte Belo do Sul 2012         1.0
+         Monte Belo do Sul 2014         1.0
+         Monte Belo do Sul 2015         1.0
+         Monte Belo do Sul 2016         1.0
+         Monte Belo do Sul 2017         1.0
+         Monte Belo do Sul 2018         1.0
+         Monte Belo do Sul 2019         1.0
+         Monte Belo do Sul 2020         1.0
+         Monte Belo do Sul 2021         1.0
+                   Mormaço 2007         1.0
+                   Mormaço 2008         1.0
+                   Mormaço 2011         1.0
+                   Mormaço 2012         1.0
+                   Mormaço 2013         1.0
+                   Mormaço 2014         1.0
+                   Mormaço 2015         1.0
+                   Mormaço 2016         1.0
+                   Mormaço 2017         1.0
+                   Mormaço 2018         1.0
+                   Mormaço 2020         1.0
+                   Mormaço 2021         1.0
+          Morrinhos do Sul 2014         1.0
+          Morrinhos do Sul 2015         1.0
+          Morrinhos do Sul 2016         1.0
+          Morrinhos do Sul 2017         1.0
+          Morrinhos do Sul 2018         1.0
+          Morrinhos do Sul 2020         1.0
+          Morrinhos do Sul 2021         1.0
+             Morro Redondo 2016         1.0
+             Morro Redondo 2017         1.0
+             Morro Redondo 2019         1.0
+             Morro Redondo 2020         1.0
+             Morro Redondo 2021         1.0
+              Morro Reuter 2009         1.0
+              Morro Reuter 2010         1.0
+              Morro Reuter 2011         1.0
+              Morro Reuter 2012         1.0
+              Morro Reuter 2013         1.0
+              Morro Reuter 2014         1.0
+              Morro Reuter 2021         1.0
+                 Mostardas 2017         1.0
+                 Mostardas 2018         1.0
+                 Mostardas 2019         1.0
+                 Mostardas 2020         1.0
+                 Mostardas 2021         1.0
+                     Muçum 2007         1.0
+                     Muçum 2008         1.0
+                     Muçum 2009         1.0
+                     Muçum 2010         1.0
+                     Muçum 2011         1.0
+                     Muçum 2012         1.0
+                     Muçum 2013         1.0
+                     Muçum 2014         1.0
+                     Muçum 2017         1.0
+                     Muçum 2020         1.0
+                     Muçum 2021         1.0
+             Muitos Capões 2015         1.0
+             Muitos Capões 2016         1.0
+             Muitos Capões 2017         1.0
+             Muitos Capões 2018         1.0
+             Muitos Capões 2019         1.0
+             Muitos Capões 2020         1.0
+                 Muliterno 2018         1.0
+         Nicolau Vergueiro 2008         1.0
+         Nicolau Vergueiro 2009         1.0
+         Nicolau Vergueiro 2010         1.0
+         Nicolau Vergueiro 2011         1.0
+         Nicolau Vergueiro 2012         1.0
+         Nicolau Vergueiro 2015         1.0
+         Nicolau Vergueiro 2016         1.0
+         Nicolau Vergueiro 2017         1.0
+         Nicolau Vergueiro 2018         1.0
+         Nicolau Vergueiro 2019         1.0
+         Nicolau Vergueiro 2020         1.0
+             Nova Alvorada 2008         1.0
+             Nova Alvorada 2009         1.0
+             Nova Alvorada 2013         1.0
+             Nova Alvorada 2014         1.0
+             Nova Alvorada 2015         1.0
+             Nova Alvorada 2021         1.0
+                Nova Araçá 2007         1.0
+                Nova Araçá 2008         1.0
+                Nova Araçá 2014         1.0
+                Nova Araçá 2016         1.0
+                Nova Araçá 2017         1.0
+                Nova Araçá 2020         1.0
+                Nova Araçá 2021         1.0
+              Nova Bassano 2010         1.0
+              Nova Bassano 2011         1.0
+              Nova Bassano 2012         1.0
+              Nova Bassano 2013         1.0
+              Nova Bassano 2014         1.0
+              Nova Bassano 2015         1.0
+              Nova Bassano 2016         1.0
+              Nova Bassano 2017         1.0
+              Nova Bassano 2018         1.0
+              Nova Bassano 2020         1.0
+              Nova Bassano 2021         1.0
+            Nova Boa Vista 2007         1.0
+            Nova Boa Vista 2008         1.0
+            Nova Boa Vista 2009         1.0
+            Nova Boa Vista 2010         1.0
+            Nova Boa Vista 2011         1.0
+            Nova Boa Vista 2012         1.0
+            Nova Boa Vista 2013         1.0
+            Nova Boa Vista 2014         1.0
+            Nova Boa Vista 2015         1.0
+            Nova Boa Vista 2016         1.0
+            Nova Boa Vista 2018         1.0
+            Nova Boa Vista 2019         1.0
+            Nova Boa Vista 2020         1.0
+            Nova Boa Vista 2021         1.0
+              Nova Bréscia 2009         1.0
+              Nova Bréscia 2010         1.0
+              Nova Bréscia 2011         1.0
+              Nova Bréscia 2013         1.0
+              Nova Bréscia 2014         1.0
+              Nova Bréscia 2017         1.0
+              Nova Bréscia 2020         1.0
+              Nova Bréscia 2021         1.0
+           Nova Candelária 2009         1.0
+           Nova Candelária 2010         1.0
+           Nova Candelária 2011         1.0
+           Nova Candelária 2013         1.0
+           Nova Candelária 2015         1.0
+           Nova Candelária 2016         1.0
+           Nova Candelária 2017         1.0
+           Nova Candelária 2018         1.0
+           Nova Candelária 2021         1.0
+     Nova Esperança do Sul 2016         1.0
+     Nova Esperança do Sul 2017         1.0
+     Nova Esperança do Sul 2019         1.0
+     Nova Esperança do Sul 2020         1.0
+                Nova Hartz 2017         1.0
+                Nova Hartz 2018         1.0
+                Nova Hartz 2019         1.0
+                Nova Pádua 2007         1.0
+                Nova Pádua 2008         1.0
+                Nova Pádua 2009         1.0
+                Nova Pádua 2010         1.0
+                Nova Pádua 2011         1.0
+                Nova Pádua 2012         1.0
+                Nova Pádua 2013         1.0
+                Nova Pádua 2014         1.0
+                Nova Pádua 2015         1.0
+                Nova Pádua 2016         1.0
+                Nova Pádua 2019         1.0
+                Nova Pádua 2020         1.0
+                Nova Pádua 2021         1.0
+                Nova Palma 2016         1.0
+                Nova Palma 2019         1.0
+           Nova Petrópolis 2013         1.0
+           Nova Petrópolis 2018         1.0
+                Nova Prata 2014         1.0
+               Nova Ramada 2013         1.0
+               Nova Ramada 2016         1.0
+               Nova Ramada 2017         1.0
+               Nova Ramada 2018         1.0
+               Nova Ramada 2019         1.0
+               Nova Ramada 2020         1.0
+          Nova Roma do Sul 2007         1.0
+          Nova Roma do Sul 2010         1.0
+          Nova Roma do Sul 2011         1.0
+          Nova Roma do Sul 2012         1.0
+          Nova Roma do Sul 2013         1.0
+          Nova Roma do Sul 2015         1.0
+          Nova Roma do Sul 2016         1.0
+          Nova Roma do Sul 2017         1.0
+          Nova Roma do Sul 2018         1.0
+          Nova Roma do Sul 2021         1.0
+              Novo Cabrais 2016         1.0
+              Novo Cabrais 2017         1.0
+              Novo Cabrais 2018         1.0
+              Novo Cabrais 2019         1.0
+              Novo Cabrais 2020         1.0
+              Novo Machado 2013         1.0
+              Novo Machado 2014         1.0
+              Novo Machado 2015         1.0
+              Novo Machado 2016         1.0
+              Novo Machado 2017         1.0
+              Novo Machado 2018         1.0
+              Novo Machado 2019         1.0
+              Novo Machado 2021         1.0
+           Novo Tiradentes 2011         1.0
+           Novo Tiradentes 2012         1.0
+           Novo Tiradentes 2013         1.0
+           Novo Tiradentes 2014         1.0
+           Novo Tiradentes 2015         1.0
+           Novo Tiradentes 2016         1.0
+           Novo Tiradentes 2019         1.0
+                Novo Xingu 2007         1.0
+                Novo Xingu 2011         1.0
+                Novo Xingu 2016         1.0
+                Novo Xingu 2017         1.0
+                Novo Xingu 2019         1.0
+                Novo Xingu 2020         1.0
+                Novo Xingu 2021         1.0
+             Novo Barreiro 2012         1.0
+             Novo Barreiro 2014         1.0
+             Novo Barreiro 2016         1.0
+             Novo Barreiro 2017         1.0
+             Novo Barreiro 2018         1.0
+             Novo Barreiro 2020         1.0
+                    Osório 2016         1.0
+                Paim Filho 2014         1.0
+                Paim Filho 2015         1.0
+                Paim Filho 2016         1.0
+                Paim Filho 2017         1.0
+                Paim Filho 2020         1.0
+           Palmares do Sul 2007         1.0
+           Palmares do Sul 2008         1.0
+           Palmares do Sul 2009         1.0
+           Palmares do Sul 2010         1.0
+           Palmares do Sul 2011         1.0
+           Palmares do Sul 2012         1.0
+           Palmares do Sul 2013         1.0
+           Palmares do Sul 2014         1.0
+           Palmares do Sul 2016         1.0
+           Palmares do Sul 2017         1.0
+           Palmares do Sul 2018         1.0
+           Palmares do Sul 2019         1.0
+           Palmares do Sul 2020         1.0
+                Palmitinho 2016         1.0
+                Palmitinho 2017         1.0
+                Palmitinho 2020         1.0
+            Pantano Grande 2016         1.0
+            Pantano Grande 2017         1.0
+            Pantano Grande 2018         1.0
+            Pantano Grande 2019         1.0
+            Pantano Grande 2020         1.0
+            Pantano Grande 2021         1.0
+                     Paraí 2007         1.0
+                     Paraí 2014         1.0
+               Pareci Novo 2015         1.0
+               Pareci Novo 2018         1.0
+               Pareci Novo 2019         1.0
+               Pareci Novo 2020         1.0
+               Pareci Novo 2021         1.0
+                Passa Sete 2016         1.0
+                Passa Sete 2017         1.0
+                Passa Sete 2018         1.0
+                Passa Sete 2019         1.0
+                Passa Sete 2020         1.0
+                Passa Sete 2021         1.0
+          Passo do Sobrado 2018         1.0
+          Passo do Sobrado 2019         1.0
+          Passo do Sobrado 2020         1.0
+               Paulo Bento 2012         1.0
+               Paulo Bento 2013         1.0
+               Paulo Bento 2014         1.0
+               Paulo Bento 2015         1.0
+               Paulo Bento 2016         1.0
+               Paulo Bento 2017         1.0
+               Paulo Bento 2018         1.0
+               Paulo Bento 2019         1.0
+               Paulo Bento 2020         1.0
+                  Paverama 2018         1.0
+                  Paverama 2019         1.0
+              Pedras Altas 2014         1.0
+              Pedras Altas 2015         1.0
+              Pedras Altas 2016         1.0
+              Pedras Altas 2017         1.0
+              Pedras Altas 2018         1.0
+              Pedras Altas 2019         1.0
+              Pedras Altas 2020         1.0
+              Pedras Altas 2021         1.0
+                  Pejuçara 2014         1.0
+                  Pejuçara 2015         1.0
+                  Pejuçara 2016         1.0
+                  Pejuçara 2017         1.0
+                  Pejuçara 2018         1.0
+                  Pejuçara 2019         1.0
+                  Pejuçara 2020         1.0
+                  Pejuçara 2021         1.0
+               Picada Café 2007         1.0
+               Picada Café 2008         1.0
+               Picada Café 2009         1.0
+               Picada Café 2010         1.0
+               Picada Café 2011         1.0
+               Picada Café 2012         1.0
+               Picada Café 2013         1.0
+               Picada Café 2014         1.0
+               Picada Café 2015         1.0
+               Picada Café 2017         1.0
+               Picada Café 2018         1.0
+               Picada Café 2019         1.0
+               Picada Café 2020         1.0
+                    Pinhal 2007         1.0
+                    Pinhal 2009         1.0
+                    Pinhal 2010         1.0
+                    Pinhal 2011         1.0
+                    Pinhal 2013         1.0
+                    Pinhal 2014         1.0
+                    Pinhal 2015         1.0
+                    Pinhal 2016         1.0
+                    Pinhal 2017         1.0
+                    Pinhal 2018         1.0
+                    Pinhal 2020         1.0
+                    Pinhal 2021         1.0
+           Pinhal da Serra 2013         1.0
+           Pinhal da Serra 2014         1.0
+           Pinhal da Serra 2016         1.0
+           Pinhal da Serra 2017         1.0
+           Pinhal da Serra 2019         1.0
+           Pinhal da Serra 2020         1.0
+           Pinhal da Serra 2021         1.0
+             Pinhal Grande 2015         1.0
+             Pinhal Grande 2016         1.0
+             Pinhal Grande 2017         1.0
+             Pinhal Grande 2021         1.0
+       Pinheirinho do Vale 2014         1.0
+       Pinheirinho do Vale 2015         1.0
+       Pinheirinho do Vale 2017         1.0
+       Pinheirinho do Vale 2018         1.0
+       Pinheirinho do Vale 2019         1.0
+       Pinheirinho do Vale 2020         1.0
+       Pinheirinho do Vale 2021         1.0
+          Pinheiro Machado 2016         1.0
+          Pinheiro Machado 2017         1.0
+          Pinheiro Machado 2018         1.0
+          Pinheiro Machado 2019         1.0
+          Pinheiro Machado 2020         1.0
+                    Pirapó 2014         1.0
+                    Pirapó 2015         1.0
+                    Pirapó 2016         1.0
+                    Pirapó 2017         1.0
+                    Pirapó 2018         1.0
+                    Pirapó 2019         1.0
+                    Pirapó 2020         1.0
+                    Pirapó 2021         1.0
+                  Piratini 2017         1.0
+                  Piratini 2019         1.0
+                  Planalto 2016         1.0
+                  Planalto 2017         1.0
+                  Planalto 2018         1.0
+            Poço das Antas 2007         1.0
+            Poço das Antas 2008         1.0
+            Poço das Antas 2009         1.0
+            Poço das Antas 2010         1.0
+            Poço das Antas 2011         1.0
+            Poço das Antas 2012         1.0
+            Poço das Antas 2013         1.0
+            Poço das Antas 2014         1.0
+            Poço das Antas 2015         1.0
+            Poço das Antas 2016         1.0
+            Poço das Antas 2017         1.0
+            Poço das Antas 2018         1.0
+            Poço das Antas 2019         1.0
+            Poço das Antas 2020         1.0
+            Poço das Antas 2021         1.0
+                    Pontão 2015         1.0
+                    Pontão 2016         1.0
+                    Pontão 2017         1.0
+                    Pontão 2018         1.0
+                    Pontão 2021         1.0
+               Ponte Preta 2007         1.0
+               Ponte Preta 2008         1.0
+               Ponte Preta 2010         1.0
+               Ponte Preta 2011         1.0
+               Ponte Preta 2012         1.0
+               Ponte Preta 2013         1.0
+               Ponte Preta 2014         1.0
+               Ponte Preta 2015         1.0
+               Ponte Preta 2016         1.0
+               Ponte Preta 2017         1.0
+               Ponte Preta 2018         1.0
+              Porto Lucena 2010         1.0
+              Porto Lucena 2011         1.0
+              Porto Lucena 2014         1.0
+              Porto Lucena 2015         1.0
+              Porto Lucena 2016         1.0
+              Porto Lucena 2017         1.0
+              Porto Lucena 2018         1.0
+              Porto Lucena 2019         1.0
+              Porto Lucena 2020         1.0
+                Porto Mauá 2007         1.0
+                Porto Mauá 2008         1.0
+                Porto Mauá 2009         1.0
+                Porto Mauá 2010         1.0
+                Porto Mauá 2011         1.0
+                Porto Mauá 2012         1.0
+                Porto Mauá 2013         1.0
+                Porto Mauá 2014         1.0
+                Porto Mauá 2016         1.0
+                Porto Mauá 2017         1.0
+                Porto Mauá 2018         1.0
+                Porto Mauá 2019         1.0
+                Porto Mauá 2020         1.0
+                Porto Mauá 2021         1.0
+           Porto Vera Cruz 2013         1.0
+           Porto Vera Cruz 2014         1.0
+           Porto Vera Cruz 2015         1.0
+           Porto Vera Cruz 2016         1.0
+           Porto Vera Cruz 2017         1.0
+           Porto Vera Cruz 2018         1.0
+           Porto Vera Cruz 2021         1.0
+              Porto Xavier 2016         1.0
+              Porto Xavier 2017         1.0
+                Pouso Novo 2009         1.0
+                Pouso Novo 2012         1.0
+                Pouso Novo 2015         1.0
+                Pouso Novo 2016         1.0
+                Pouso Novo 2017         1.0
+                Pouso Novo 2018         1.0
+                Pouso Novo 2019         1.0
+                Pouso Novo 2021         1.0
+         Presidente Lucena 2007         1.0
+         Presidente Lucena 2008         1.0
+         Presidente Lucena 2009         1.0
+         Presidente Lucena 2010         1.0
+         Presidente Lucena 2011         1.0
+         Presidente Lucena 2014         1.0
+         Presidente Lucena 2016         1.0
+         Presidente Lucena 2017         1.0
+         Presidente Lucena 2019         1.0
+         Presidente Lucena 2020         1.0
+         Presidente Lucena 2021         1.0
+                 Progresso 2009         1.0
+                 Progresso 2013         1.0
+                 Progresso 2014         1.0
+                 Progresso 2015         1.0
+                 Progresso 2016         1.0
+                 Progresso 2018         1.0
+                 Progresso 2019         1.0
+            Protásio Alves 2008         1.0
+            Protásio Alves 2014         1.0
+            Protásio Alves 2016         1.0
+            Protásio Alves 2017         1.0
+            Protásio Alves 2018         1.0
+            Protásio Alves 2019         1.0
+            Protásio Alves 2020         1.0
+                   Putinga 2008         1.0
+                   Putinga 2010         1.0
+                   Putinga 2011         1.0
+                   Putinga 2012         1.0
+                   Putinga 2013         1.0
+                   Putinga 2014         1.0
+                   Putinga 2015         1.0
+                   Putinga 2016         1.0
+                   Putinga 2017         1.0
+                   Putinga 2018         1.0
+                   Putinga 2020         1.0
+                   Putinga 2021         1.0
+                    Quaraí 2016         1.0
+                    Quaraí 2017         1.0
+                    Quaraí 2018         1.0
+                    Quaraí 2019         1.0
+                    Quaraí 2020         1.0
+             Quatro Irmãos 2007         1.0
+             Quatro Irmãos 2008         1.0
+             Quatro Irmãos 2011         1.0
+             Quatro Irmãos 2012         1.0
+             Quatro Irmãos 2013         1.0
+             Quatro Irmãos 2015         1.0
+             Quatro Irmãos 2016         1.0
+             Quatro Irmãos 2017         1.0
+             Quatro Irmãos 2018         1.0
+             Quatro Irmãos 2020         1.0
+             Quatro Irmãos 2021         1.0
+                  Quevedos 2015         1.0
+                  Quevedos 2016         1.0
+                  Quevedos 2017         1.0
+                  Quevedos 2018         1.0
+                  Quevedos 2019         1.0
+                  Quevedos 2020         1.0
+                  Quevedos 2021         1.0
+        Quinze de Novembro 2008         1.0
+        Quinze de Novembro 2012         1.0
+        Quinze de Novembro 2013         1.0
+        Quinze de Novembro 2014         1.0
+        Quinze de Novembro 2015         1.0
+        Quinze de Novembro 2016         1.0
+        Quinze de Novembro 2017         1.0
+        Quinze de Novembro 2019         1.0
+        Quinze de Novembro 2020         1.0
+                   Relvado 2007         1.0
+                   Relvado 2008         1.0
+                   Relvado 2009         1.0
+                   Relvado 2010         1.0
+                   Relvado 2014         1.0
+                   Relvado 2015         1.0
+                   Relvado 2016         1.0
+                   Relvado 2017         1.0
+                   Relvado 2018         1.0
+                   Relvado 2019         1.0
+             Restinga Sêca 2018         1.0
+             Restinga Sêca 2019         1.0
+            Rio dos Índios 2015         1.0
+            Rio dos Índios 2017         1.0
+            Rio dos Índios 2019         1.0
+            Rio dos Índios 2020         1.0
+                 Rio Pardo 2017         1.0
+                 Rio Pardo 2018         1.0
+                 Rio Pardo 2019         1.0
+                  Riozinho 2010         1.0
+                  Riozinho 2013         1.0
+                  Riozinho 2014         1.0
+                  Riozinho 2015         1.0
+                  Riozinho 2016         1.0
+                  Riozinho 2017         1.0
+                  Riozinho 2018         1.0
+                  Riozinho 2019         1.0
+                Roca Sales 2012         1.0
+                Roca Sales 2013         1.0
+                Roca Sales 2015         1.0
+                Roca Sales 2016         1.0
+                Roca Sales 2017         1.0
+                Roca Sales 2018         1.0
+                Roca Sales 2019         1.0
+                Roca Sales 2020         1.0
+                Roca Sales 2021         1.0
+             Rodeio Bonito 2008         1.0
+             Rodeio Bonito 2012         1.0
+             Rodeio Bonito 2013         1.0
+             Rodeio Bonito 2016         1.0
+                   Rolador 2014         1.0
+                   Rolador 2016         1.0
+                   Rolador 2017         1.0
+                   Rolador 2018         1.0
+                   Rolador 2019         1.0
+                   Rolador 2020         1.0
+                   Rolador 2021         1.0
+                   Rolante 2016         1.0
+                   Rolante 2017         1.0
+                   Rolante 2018         1.0
+                   Rolante 2019         1.0
+                   Rolante 2020         1.0
+                   Rolante 2021         1.0
+                  Rondinha 2009         1.0
+                  Rondinha 2010         1.0
+                  Rondinha 2011         1.0
+                  Rondinha 2013         1.0
+                  Rondinha 2014         1.0
+                  Rondinha 2015         1.0
+                  Rondinha 2016         1.0
+                  Rondinha 2017         1.0
+                  Rondinha 2018         1.0
+                  Rondinha 2021         1.0
+            Roque Gonzales 2012         1.0
+            Roque Gonzales 2013         1.0
+            Roque Gonzales 2014         1.0
+            Roque Gonzales 2019         1.0
+            Roque Gonzales 2020         1.0
+          Saldanha Marinho 2007         1.0
+          Saldanha Marinho 2008         1.0
+          Saldanha Marinho 2009         1.0
+          Saldanha Marinho 2010         1.0
+          Saldanha Marinho 2011         1.0
+          Saldanha Marinho 2012         1.0
+          Saldanha Marinho 2013         1.0
+          Saldanha Marinho 2014         1.0
+          Saldanha Marinho 2017         1.0
+          Saldanha Marinho 2018         1.0
+          Saldanha Marinho 2019         1.0
+          Saldanha Marinho 2021         1.0
+      Salvador das Missões 2009         1.0
+      Salvador das Missões 2010         1.0
+      Salvador das Missões 2011         1.0
+      Salvador das Missões 2013         1.0
+      Salvador das Missões 2014         1.0
+      Salvador das Missões 2015         1.0
+      Salvador das Missões 2017         1.0
+      Salvador das Missões 2018         1.0
+      Salvador das Missões 2021         1.0
+           Salvador do Sul 2009         1.0
+           Salvador do Sul 2013         1.0
+           Salvador do Sul 2014         1.0
+           Salvador do Sul 2015         1.0
+           Salvador do Sul 2017         1.0
+           Salvador do Sul 2018         1.0
+           Salvador do Sul 2019         1.0
+      Santa Bárbara do Sul 2010         1.0
+      Santa Bárbara do Sul 2011         1.0
+      Santa Bárbara do Sul 2012         1.0
+      Santa Bárbara do Sul 2013         1.0
+      Santa Bárbara do Sul 2014         1.0
+      Santa Bárbara do Sul 2015         1.0
+      Santa Bárbara do Sul 2017         1.0
+      Santa Bárbara do Sul 2019         1.0
+      Santa Bárbara do Sul 2020         1.0
+      Santa Bárbara do Sul 2021         1.0
+      Santa Cecília do Sul 2016         1.0
+      Santa Cecília do Sul 2017         1.0
+      Santa Cecília do Sul 2018         1.0
+      Santa Cecília do Sul 2020         1.0
+      Santa Cecília do Sul 2021         1.0
+        Santa Clara do Sul 2007         1.0
+        Santa Clara do Sul 2009         1.0
+        Santa Clara do Sul 2011         1.0
+        Santa Clara do Sul 2012         1.0
+        Santa Clara do Sul 2016         1.0
+        Santa Clara do Sul 2021         1.0
+         Santa Cruz do Sul 2016         1.0
+     Santa Maria do Herval 2016         1.0
+     Santa Maria do Herval 2017         1.0
+     Santa Maria do Herval 2018         1.0
+     Santa Maria do Herval 2019         1.0
+     Santa Maria do Herval 2020         1.0
+     Santa Maria do Herval 2021         1.0
+    Santa Margarida do Sul 2018         1.0
+    Santa Margarida do Sul 2019         1.0
+      Santana da Boa Vista 2014         1.0
+      Santana da Boa Vista 2018         1.0
+      Santana da Boa Vista 2019         1.0
+      Santana da Boa Vista 2020         1.0
+      Santana da Boa Vista 2021         1.0
+              Santa Tereza 2007         1.0
+              Santa Tereza 2008         1.0
+              Santa Tereza 2009         1.0
+              Santa Tereza 2010         1.0
+              Santa Tereza 2011         1.0
+              Santa Tereza 2012         1.0
+              Santa Tereza 2013         1.0
+              Santa Tereza 2014         1.0
+              Santa Tereza 2015         1.0
+              Santa Tereza 2016         1.0
+              Santa Tereza 2018         1.0
+              Santa Tereza 2019         1.0
+              Santa Tereza 2020         1.0
+    Santo Antônio do Palma 2009         1.0
+    Santo Antônio do Palma 2010         1.0
+    Santo Antônio do Palma 2014         1.0
+    Santo Antônio do Palma 2015         1.0
+    Santo Antônio do Palma 2016         1.0
+    Santo Antônio do Palma 2017         1.0
+    Santo Antônio do Palma 2018         1.0
+    Santo Antônio do Palma 2019         1.0
+ Santo Antônio da Patrulha 2016         1.0
+ Santo Antônio da Patrulha 2017         1.0
+ Santo Antônio da Patrulha 2018         1.0
+ Santo Antônio da Patrulha 2019         1.0
+ Santo Antônio da Patrulha 2020         1.0
+ Santo Antônio das Missões 2016         1.0
+ Santo Antônio das Missões 2017         1.0
+ Santo Antônio das Missões 2018         1.0
+ Santo Antônio das Missões 2020         1.0
+ Santo Antônio das Missões 2021         1.0
+ Santo Antônio do Planalto 2008         1.0
+ Santo Antônio do Planalto 2009         1.0
+ Santo Antônio do Planalto 2012         1.0
+ Santo Antônio do Planalto 2016         1.0
+ Santo Antônio do Planalto 2017         1.0
+ Santo Antônio do Planalto 2018         1.0
+ Santo Antônio do Planalto 2020         1.0
+ Santo Antônio do Planalto 2021         1.0
+              Santo Cristo 2016         1.0
+              Santo Cristo 2017         1.0
+     Santo Expedito do Sul 2012         1.0
+     Santo Expedito do Sul 2014         1.0
+     Santo Expedito do Sul 2015         1.0
+     Santo Expedito do Sul 2016         1.0
+     Santo Expedito do Sul 2018         1.0
+     Santo Expedito do Sul 2019         1.0
+       São Domingos do Sul 2007         1.0
+       São Domingos do Sul 2008         1.0
+       São Domingos do Sul 2009         1.0
+       São Domingos do Sul 2010         1.0
+       São Domingos do Sul 2011         1.0
+       São Domingos do Sul 2012         1.0
+       São Domingos do Sul 2013         1.0
+       São Domingos do Sul 2014         1.0
+       São Domingos do Sul 2015         1.0
+       São Domingos do Sul 2017         1.0
+       São Domingos do Sul 2021         1.0
+    São Francisco de Assis 2021         1.0
+        São João da Urtiga 2015         1.0
+        São João da Urtiga 2016         1.0
+        São João da Urtiga 2017         1.0
+        São João da Urtiga 2019         1.0
+        São João da Urtiga 2020         1.0
+        São João da Urtiga 2021         1.0
+      São João do Polêsine 2007         1.0
+      São João do Polêsine 2008         1.0
+      São João do Polêsine 2010         1.0
+      São João do Polêsine 2011         1.0
+      São João do Polêsine 2012         1.0
+      São João do Polêsine 2013         1.0
+      São João do Polêsine 2014         1.0
+      São João do Polêsine 2016         1.0
+      São João do Polêsine 2017         1.0
+      São João do Polêsine 2018         1.0
+      São João do Polêsine 2019         1.0
+      São João do Polêsine 2020         1.0
+                 São Jorge 2013         1.0
+                 São Jorge 2014         1.0
+                 São Jorge 2015         1.0
+                 São Jorge 2016         1.0
+                 São Jorge 2017         1.0
+                 São Jorge 2018         1.0
+                 São Jorge 2020         1.0
+                 São Jorge 2021         1.0
+      São José das Missões 2016         1.0
+      São José das Missões 2019         1.0
+        São José do Herval 2009         1.0
+        São José do Herval 2010         1.0
+        São José do Herval 2011         1.0
+        São José do Herval 2012         1.0
+        São José do Herval 2013         1.0
+        São José do Herval 2014         1.0
+        São José do Herval 2015         1.0
+        São José do Herval 2016         1.0
+        São José do Herval 2017         1.0
+        São José do Herval 2018         1.0
+        São José do Herval 2019         1.0
+        São José do Herval 2020         1.0
+        São José do Herval 2021         1.0
+     São José do Hortêncio 2011         1.0
+     São José do Hortêncio 2015         1.0
+     São José do Hortêncio 2016         1.0
+     São José do Hortêncio 2017         1.0
+     São José do Hortêncio 2018         1.0
+     São José do Hortêncio 2019         1.0
+     São José do Hortêncio 2020         1.0
+      São José do Inhacorá 2012         1.0
+      São José do Inhacorá 2013         1.0
+      São José do Inhacorá 2014         1.0
+      São José do Inhacorá 2015         1.0
+      São José do Inhacorá 2020         1.0
+      São José do Inhacorá 2021         1.0
+           São José do Sul 2013         1.0
+           São José do Sul 2016         1.0
+           São José do Sul 2017         1.0
+     São José dos Ausentes 2013         1.0
+     São José dos Ausentes 2015         1.0
+     São José dos Ausentes 2016         1.0
+     São José dos Ausentes 2017         1.0
+     São José dos Ausentes 2018         1.0
+     São José dos Ausentes 2019         1.0
+     São José dos Ausentes 2020         1.0
+     São José dos Ausentes 2021         1.0
+              São Leopoldo 2016         1.0
+              São Martinho 2012         1.0
+              São Martinho 2018         1.0
+     São Martinho da Serra 2016         1.0
+     São Martinho da Serra 2018         1.0
+     São Martinho da Serra 2019         1.0
+     São Martinho da Serra 2020         1.0
+     São Martinho da Serra 2021         1.0
+               São Nicolau 2017         1.0
+               São Nicolau 2018         1.0
+               São Nicolau 2019         1.0
+               São Nicolau 2020         1.0
+               São Nicolau 2021         1.0
+     São Paulo das Missões 2015         1.0
+     São Paulo das Missões 2016         1.0
+     São Paulo das Missões 2018         1.0
+     São Paulo das Missões 2019         1.0
+     São Paulo das Missões 2021         1.0
+        São Pedro da Serra 2012         1.0
+        São Pedro da Serra 2015         1.0
+        São Pedro da Serra 2016         1.0
+        São Pedro da Serra 2019         1.0
+        São Pedro da Serra 2020         1.0
+        São Pedro da Serra 2021         1.0
+     São Pedro das Missões 2017         1.0
+     São Pedro das Missões 2018         1.0
+     São Pedro das Missões 2019         1.0
+        São Pedro do Butiá 2008         1.0
+        São Pedro do Butiá 2010         1.0
+        São Pedro do Butiá 2011         1.0
+        São Pedro do Butiá 2012         1.0
+        São Pedro do Butiá 2013         1.0
+        São Pedro do Butiá 2014         1.0
+        São Pedro do Butiá 2017         1.0
+        São Pedro do Butiá 2020         1.0
+          São Pedro do Sul 2016         1.0
+          São Pedro do Sul 2017         1.0
+          São Pedro do Sul 2018         1.0
+          São Pedro do Sul 2019         1.0
+      São Sebastião do Caí 2016         1.0
+      São Sebastião do Caí 2017         1.0
+      São Sebastião do Caí 2018         1.0
+              São Valentim 2009         1.0
+              São Valentim 2010         1.0
+              São Valentim 2011         1.0
+              São Valentim 2012         1.0
+              São Valentim 2013         1.0
+              São Valentim 2014         1.0
+              São Valentim 2015         1.0
+              São Valentim 2016         1.0
+              São Valentim 2017         1.0
+              São Valentim 2018         1.0
+              São Valentim 2019         1.0
+              São Valentim 2020         1.0
+       São Valentim do Sul 2012         1.0
+       São Valentim do Sul 2013         1.0
+       São Valentim do Sul 2014         1.0
+       São Valentim do Sul 2015         1.0
+       São Valentim do Sul 2016         1.0
+       São Valentim do Sul 2017         1.0
+       São Valentim do Sul 2018         1.0
+       São Valentim do Sul 2020         1.0
+       São Valentim do Sul 2021         1.0
+        São Valério do Sul 2012         1.0
+        São Valério do Sul 2013         1.0
+        São Valério do Sul 2017         1.0
+        São Valério do Sul 2021         1.0
+             São Vendelino 2011         1.0
+             São Vendelino 2012         1.0
+             São Vendelino 2014         1.0
+             São Vendelino 2015         1.0
+             São Vendelino 2018         1.0
+             São Vendelino 2019         1.0
+             São Vendelino 2020         1.0
+             São Vendelino 2021         1.0
+        São Vicente do Sul 2016         1.0
+        São Vicente do Sul 2017         1.0
+        São Vicente do Sul 2020         1.0
+        São Vicente do Sul 2021         1.0
+                    Seberi 2016         1.0
+                    Seberi 2017         1.0
+                 Sede Nova 2011         1.0
+                 Sede Nova 2012         1.0
+                 Sede Nova 2013         1.0
+                 Sede Nova 2014         1.0
+                 Sede Nova 2015         1.0
+                 Sede Nova 2016         1.0
+                 Sede Nova 2018         1.0
+                 Sede Nova 2019         1.0
+                   Segredo 2014         1.0
+                   Segredo 2015         1.0
+                   Segredo 2016         1.0
+                   Segredo 2017         1.0
+                   Segredo 2018         1.0
+                   Selbach 2011         1.0
+                   Selbach 2017         1.0
+                   Selbach 2018         1.0
+                   Selbach 2019         1.0
+                   Selbach 2020         1.0
+                   Selbach 2021         1.0
+     Senador Salgado Filho 2012         1.0
+     Senador Salgado Filho 2013         1.0
+     Senador Salgado Filho 2016         1.0
+          Sentinela do Sul 2019         1.0
+          Sentinela do Sul 2020         1.0
+          Sentinela do Sul 2021         1.0
+           Serafina Corrêa 2007         1.0
+           Serafina Corrêa 2008         1.0
+           Serafina Corrêa 2016         1.0
+           Serafina Corrêa 2017         1.0
+                     Sério 2012         1.0
+                     Sério 2013         1.0
+                     Sério 2014         1.0
+                     Sério 2015         1.0
+                     Sério 2016         1.0
+                     Sério 2017         1.0
+                     Sério 2018         1.0
+                     Sério 2019         1.0
+                     Sério 2020         1.0
+                     Sério 2021         1.0
+                    Sertão 2011         1.0
+                    Sertão 2013         1.0
+                    Sertão 2014         1.0
+                    Sertão 2015         1.0
+                    Sertão 2016         1.0
+            Sertão Santana 2016         1.0
+            Sertão Santana 2017         1.0
+            Sertão Santana 2019         1.0
+            Sertão Santana 2020         1.0
+            Sertão Santana 2021         1.0
+          Sete de Setembro 2011         1.0
+          Sete de Setembro 2012         1.0
+          Sete de Setembro 2013         1.0
+          Sete de Setembro 2014         1.0
+          Sete de Setembro 2015         1.0
+          Sete de Setembro 2020         1.0
+          Sete de Setembro 2021         1.0
+      Severiano de Almeida 2015         1.0
+      Severiano de Almeida 2016         1.0
+      Severiano de Almeida 2017         1.0
+      Severiano de Almeida 2018         1.0
+      Severiano de Almeida 2019         1.0
+      Severiano de Almeida 2021         1.0
+          Silveira Martins 2015         1.0
+          Silveira Martins 2018         1.0
+          Silveira Martins 2019         1.0
+                   Sinimbu 2018         1.0
+                   Sinimbu 2019         1.0
+                   Sinimbu 2020         1.0
+                   Sinimbu 2021         1.0
+                     Tabaí 2013         1.0
+                     Tabaí 2014         1.0
+                     Tabaí 2015         1.0
+                     Tabaí 2016         1.0
+                     Tabaí 2018         1.0
+                     Tabaí 2019         1.0
+                     Tabaí 2020         1.0
+                     Tabaí 2021         1.0
+                    Tapera 2013         1.0
+                    Tapera 2017         1.0
+                    Tapera 2018         1.0
+                     Tapes 2018         1.0
+                     Tapes 2019         1.0
+                   Taquari 2020         1.0
+          Taquaruçu do Sul 2015         1.0
+          Taquaruçu do Sul 2016         1.0
+          Taquaruçu do Sul 2017         1.0
+          Taquaruçu do Sul 2018         1.0
+          Taquaruçu do Sul 2019         1.0
+          Taquaruçu do Sul 2020         1.0
+                   Tavares 2017         1.0
+                   Tavares 2018         1.0
+                   Tavares 2019         1.0
+                   Tavares 2020         1.0
+                   Tavares 2021         1.0
+            Terra de Areia 2017         1.0
+            Terra de Areia 2018         1.0
+            Terra de Areia 2019         1.0
+                  Teutônia 2013         1.0
+                  Teutônia 2016         1.0
+                  Teutônia 2017         1.0
+                  Tio Hugo 2014         1.0
+                  Tio Hugo 2017         1.0
+                  Tio Hugo 2018         1.0
+                  Tio Hugo 2019         1.0
+                  Tio Hugo 2021         1.0
+         Tiradentes do Sul 2013         1.0
+         Tiradentes do Sul 2014         1.0
+         Tiradentes do Sul 2017         1.0
+         Tiradentes do Sul 2018         1.0
+         Tiradentes do Sul 2020         1.0
+                    Toropi 2014         1.0
+                    Toropi 2015         1.0
+                    Toropi 2016         1.0
+                    Toropi 2017         1.0
+                    Toropi 2018         1.0
+                    Toropi 2019         1.0
+                    Toropi 2020         1.0
+                    Toropi 2021         1.0
+               Travesseiro 2010         1.0
+               Travesseiro 2012         1.0
+               Travesseiro 2013         1.0
+               Travesseiro 2014         1.0
+               Travesseiro 2015         1.0
+               Travesseiro 2016         1.0
+               Travesseiro 2017         1.0
+               Travesseiro 2021         1.0
+              Três Arroios 2009         1.0
+              Três Arroios 2010         1.0
+              Três Arroios 2011         1.0
+              Três Arroios 2013         1.0
+              Três Arroios 2014         1.0
+              Três Arroios 2015         1.0
+              Três Arroios 2016         1.0
+              Três Arroios 2017         1.0
+              Três Arroios 2018         1.0
+              Três Arroios 2019         1.0
+              Três Arroios 2020         1.0
+              Três Arroios 2021         1.0
+           Três Cachoeiras 2017         1.0
+           Três Cachoeiras 2018         1.0
+           Três Forquilhas 2012         1.0
+           Três Forquilhas 2013         1.0
+           Três Forquilhas 2016         1.0
+           Três Forquilhas 2018         1.0
+           Três Forquilhas 2019         1.0
+           Três Forquilhas 2021         1.0
+            Três Palmeiras 2014         1.0
+            Três Palmeiras 2015         1.0
+            Três Palmeiras 2020         1.0
+            Três Palmeiras 2021         1.0
+           Trindade do Sul 2014         1.0
+           Trindade do Sul 2016         1.0
+           Trindade do Sul 2017         1.0
+           Trindade do Sul 2018         1.0
+           Trindade do Sul 2019         1.0
+                   Triunfo 2008         1.0
+                   Triunfo 2016         1.0
+                   Triunfo 2017         1.0
+                   Triunfo 2018         1.0
+                   Triunfo 2019         1.0
+                   Triunfo 2020         1.0
+                 Tucunduva 2007         1.0
+                 Tucunduva 2008         1.0
+                 Tucunduva 2009         1.0
+                 Tucunduva 2010         1.0
+                 Tucunduva 2011         1.0
+                 Tucunduva 2012         1.0
+                 Tucunduva 2013         1.0
+                 Tucunduva 2014         1.0
+                 Tucunduva 2016         1.0
+                 Tucunduva 2017         1.0
+                 Tucunduva 2020         1.0
+                 Tucunduva 2021         1.0
+                     Tunas 2019         1.0
+                     Tunas 2020         1.0
+                     Tunas 2021         1.0
+            Tupanci do Sul 2012         1.0
+            Tupanci do Sul 2013         1.0
+            Tupanci do Sul 2014         1.0
+            Tupanci do Sul 2015         1.0
+            Tupanci do Sul 2016         1.0
+            Tupanci do Sul 2017         1.0
+            Tupanci do Sul 2019         1.0
+            Tupanci do Sul 2020         1.0
+            Tupanci do Sul 2021         1.0
+               Tupanciretã 2017         1.0
+               Tupanciretã 2018         1.0
+                   Tupandi 2007         1.0
+                   Tupandi 2010         1.0
+                   Tupandi 2011         1.0
+                   Tupandi 2012         1.0
+                   Tupandi 2017         1.0
+                   Tupandi 2018         1.0
+                 Tuparendi 2012         1.0
+                 Tuparendi 2013         1.0
+                 Tuparendi 2014         1.0
+                 Tuparendi 2015         1.0
+                 Tuparendi 2016         1.0
+                 Tuparendi 2019         1.0
+                    Turuçu 2021         1.0
+                 Ubiretama 2017         1.0
+                 Ubiretama 2018         1.0
+                 Ubiretama 2019         1.0
+                 Ubiretama 2020         1.0
+                 Ubiretama 2021         1.0
+            União da Serra 2011         1.0
+            União da Serra 2012         1.0
+            União da Serra 2013         1.0
+            União da Serra 2015         1.0
+            União da Serra 2016         1.0
+            União da Serra 2017         1.0
+            União da Serra 2018         1.0
+            União da Serra 2019         1.0
+                 Unistalda 2018         1.0
+                Vale Verde 2015         1.0
+                Vale Verde 2016         1.0
+                Vale Verde 2020         1.0
+                Vale Verde 2021         1.0
+               Vale do Sol 2016         1.0
+               Vale do Sol 2017         1.0
+               Vale do Sol 2019         1.0
+               Vale do Sol 2020         1.0
+               Vale do Sol 2021         1.0
+                 Vale Real 2011         1.0
+                 Vale Real 2012         1.0
+                 Vale Real 2015         1.0
+                 Vale Real 2017         1.0
+                 Vale Real 2018         1.0
+                    Vanini 2007         1.0
+                    Vanini 2010         1.0
+                    Vanini 2015         1.0
+                    Vanini 2016         1.0
+                    Vanini 2017         1.0
+                    Vanini 2019         1.0
+                    Vanini 2020         1.0
+                 Vera Cruz 2018         1.0
+                 Vera Cruz 2019         1.0
+                 Vera Cruz 2020         1.0
+               Veranópolis 2007         1.0
+               Veranópolis 2013         1.0
+               Veranópolis 2014         1.0
+               Veranópolis 2015         1.0
+               Veranópolis 2016         1.0
+               Veranópolis 2017         1.0
+               Veranópolis 2018         1.0
+         Vespasiano Correa 2007         1.0
+         Vespasiano Correa 2008         1.0
+         Vespasiano Correa 2009         1.0
+         Vespasiano Correa 2010         1.0
+         Vespasiano Correa 2011         1.0
+         Vespasiano Correa 2012         1.0
+         Vespasiano Correa 2013         1.0
+         Vespasiano Correa 2015         1.0
+         Vespasiano Correa 2016         1.0
+         Vespasiano Correa 2017         1.0
+         Vespasiano Correa 2018         1.0
+         Vespasiano Correa 2019         1.0
+         Vespasiano Correa 2020         1.0
+         Vespasiano Correa 2021         1.0
+                  Viadutos 2017         1.0
+                  Viadutos 2018         1.0
+                  Viadutos 2019         1.0
+                  Viadutos 2020         1.0
+             Vicente Dutra 2017         1.0
+             Victor Graeff 2007         1.0
+             Victor Graeff 2013         1.0
+             Victor Graeff 2014         1.0
+             Victor Graeff 2015         1.0
+             Victor Graeff 2016         1.0
+             Victor Graeff 2017         1.0
+             Victor Graeff 2019         1.0
+             Victor Graeff 2020         1.0
+             Victor Graeff 2021         1.0
+               Vila Flores 2007         1.0
+               Vila Flores 2008         1.0
+               Vila Flores 2013         1.0
+               Vila Flores 2014         1.0
+               Vila Flores 2017         1.0
+               Vila Flores 2019         1.0
+              Vila Lângaro 2014         1.0
+              Vila Lângaro 2015         1.0
+              Vila Lângaro 2016         1.0
+              Vila Lângaro 2017         1.0
+              Vila Lângaro 2018         1.0
+              Vila Lângaro 2020         1.0
+                Vila Maria 2007         1.0
+                Vila Maria 2012         1.0
+                Vila Maria 2013         1.0
+                Vila Maria 2016         1.0
+                Vila Maria 2017         1.0
+                Vila Maria 2018         1.0
+          Vila Nova do Sul 2015         1.0
+          Vila Nova do Sul 2016         1.0
+          Vila Nova do Sul 2017         1.0
+          Vila Nova do Sul 2018         1.0
+          Vila Nova do Sul 2019         1.0
+          Vila Nova do Sul 2020         1.0
+          Vila Nova do Sul 2021         1.0
+              Vista Alegre 2012         1.0
+              Vista Alegre 2013         1.0
+              Vista Alegre 2014         1.0
+              Vista Alegre 2016         1.0
+              Vista Alegre 2017         1.0
+              Vista Alegre 2018         1.0
+              Vista Alegre 2019         1.0
+     Vista Alegre do Prata 2007         1.0
+     Vista Alegre do Prata 2008         1.0
+     Vista Alegre do Prata 2009         1.0
+     Vista Alegre do Prata 2010         1.0
+     Vista Alegre do Prata 2011         1.0
+     Vista Alegre do Prata 2012         1.0
+     Vista Alegre do Prata 2013         1.0
+     Vista Alegre do Prata 2014         1.0
+     Vista Alegre do Prata 2015         1.0
+     Vista Alegre do Prata 2016         1.0
+     Vista Alegre do Prata 2017         1.0
+     Vista Alegre do Prata 2018         1.0
+     Vista Alegre do Prata 2019         1.0
+     Vista Alegre do Prata 2020         1.0
+     Vista Alegre do Prata 2021         1.0
+              Vista Gaúcha 2009         1.0
+              Vista Gaúcha 2010         1.0
+              Vista Gaúcha 2011         1.0
+              Vista Gaúcha 2016         1.0
+              Vista Gaúcha 2017         1.0
+              Vista Gaúcha 2018         1.0
+              Vista Gaúcha 2019         1.0
+              Vista Gaúcha 2020         1.0
+       Vitória das Missões 2016         1.0
+       Vitória das Missões 2017         1.0
+       Vitória das Missões 2018         1.0
+       Vitória das Missões 2019         1.0
+       Vitória das Missões 2020         1.0
+       Vitória das Missões 2021         1.0
+                 Westfalia 2012         1.0
+                 Westfalia 2013         1.0
+                 Westfalia 2014         1.0
+                 Westfalia 2015         1.0
+                 Westfalia 2017         1.0
+                 Westfalia 2018         1.0
+                 Westfalia 2019         1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo  Máximo
+Ano                                                                          
+2007  0.648499       0.238551  0.476340  0.650601  0.852700  0.000000     1.0
+2008  0.632213       0.226384  0.473232  0.621825  0.800087  0.000000     1.0
+2009  0.673399       0.222219  0.506296  0.668142  0.862675  0.000000     1.0
+2010  0.693181       0.216083  0.537948  0.694871  0.867657  0.000000     1.0
+2011  0.752457       0.204323  0.615024  0.790687  0.914055  0.000000     1.0
+2012  0.800618       0.178356  0.679985  0.830039  0.976002  0.167438     1.0
+2013  0.831016       0.162857  0.722222  0.860902  1.000000  0.183066     1.0
+2014  0.886125       0.135074  0.809272  0.928571  1.000000  0.197427     1.0
+2015  0.891567       0.129467  0.828255  0.935484  1.000000  0.194308     1.0
+2016  0.940840       0.093331  0.905405  0.992042  1.000000  0.269231     1.0
+2017  0.954812       0.078080  0.931732  1.000000  1.000000  0.312293     1.0
+2018  0.955373       0.071708  0.928375  1.000000  1.000000  0.370786     1.0
+2019  0.947620       0.075697  0.903293  0.994389  1.000000  0.440517     1.0
+2020  0.940962       0.076388  0.897071  0.974191  1.000000  0.454117     1.0
+2021  0.924938       0.087360  0.876126  0.945229  1.000000  0.368353     1.0
+=================================================================
+
+ Apropriação da Renda:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.664954       0.122063 0.583178 0.665653 0.750275 0.207288     1.0
+Mínimo(s):
+Nome cidade  Ano  Apropriação da Renda
+ Passa Sete 2007              0.207288
+
+Máximo(s):
+          Nome cidade  Ano  Apropriação da Renda
+           Água Santa 2019                   1.0
+                 Ijuí 2012                   1.0
+                 Ijuí 2013                   1.0
+                 Ijuí 2014                   1.0
+                 Ijuí 2015                   1.0
+                 Ijuí 2016                   1.0
+      Ipiranga do Sul 2019                   1.0
+         Porto Alegre 2014                   1.0
+         Porto Alegre 2019                   1.0
+              Selbach 2014                   1.0
+         Três Arroios 2013                   1.0
+         Três Arroios 2014                   1.0
+         Três Arroios 2019                   1.0
+Vista Alegre do Prata 2020                   1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.574374       0.109412  0.506192  0.571416  0.646054  0.207288  0.927015
+2008  0.586884       0.109551  0.511826  0.580854  0.657637  0.235380  0.932110
+2009  0.615274       0.111738  0.533557  0.612915  0.685913  0.271394  0.941777
+2010  0.607817       0.111598  0.534658  0.607571  0.686668  0.297318  0.970827
+2011  0.625626       0.111919  0.551672  0.628832  0.706572  0.315405  0.963677
+2012  0.650593       0.116660  0.571816  0.652400  0.734030  0.228461  1.000000
+2013  0.688445       0.115139  0.613819  0.687423  0.770420  0.284017  1.000000
+2014  0.712630       0.116897  0.636957  0.712569  0.798398  0.282395  1.000000
+2015  0.689775       0.115132  0.615663  0.687980  0.766330  0.286285  1.000000
+2016  0.696404       0.114210  0.621505  0.690577  0.773871  0.295428  1.000000
+2017  0.700714       0.110250  0.629700  0.698591  0.776703  0.309118  0.985327
+2018  0.705719       0.109698  0.633560  0.704528  0.783317  0.281783  0.980571
+2019  0.726934       0.108852  0.654535  0.725682  0.800755  0.282959  1.000000
+2020  0.698766       0.110428  0.626748  0.694495  0.773517  0.233763  1.000000
+2021  0.693695       0.111309  0.620645  0.682481  0.767415  0.260637  0.994803
+=================================================================
+
+ Geração da Renda:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.631379       0.134203 0.533577 0.616324 0.720454 0.278784     1.0
+Mínimo(s):
+Nome cidade  Ano  Geração da Renda
+      Caraá 2009          0.278784
+
+Máximo(s):
+               Nome cidade  Ano  Geração da Renda
+                Água Santa 2021               1.0
+Almirante Tamandaré do Sul 2021               1.0
+            André da Rocha 2013               1.0
+            André da Rocha 2014               1.0
+            André da Rocha 2016               1.0
+            André da Rocha 2021               1.0
+                   Aratiba 2009               1.0
+                   Aratiba 2010               1.0
+                   Aratiba 2011               1.0
+                   Aratiba 2012               1.0
+                   Aratiba 2013               1.0
+                   Aratiba 2014               1.0
+                   Aratiba 2015               1.0
+                   Aratiba 2016               1.0
+                   Aratiba 2017               1.0
+                   Aratiba 2018               1.0
+                   Aratiba 2019               1.0
+                   Aratiba 2020               1.0
+                   Aratiba 2021               1.0
+      Boa Vista do Cadeado 2018               1.0
+      Boa Vista do Cadeado 2021               1.0
+        Boa Vista do Incra 2021               1.0
+                   Camargo 2020               1.0
+                   Camargo 2021               1.0
+                  Candiota 2010               1.0
+                  Candiota 2020               1.0
+                  Candiota 2021               1.0
+       Capão Bonito do Sul 2021               1.0
+             Capão do Cipó 2013               1.0
+             Capão do Cipó 2021               1.0
+                   Coxilha 2021               1.0
+         Entre Rios do Sul 2007               1.0
+         Entre Rios do Sul 2008               1.0
+         Entre Rios do Sul 2009               1.0
+         Entre Rios do Sul 2010               1.0
+         Entre Rios do Sul 2011               1.0
+         Entre Rios do Sul 2012               1.0
+         Entre Rios do Sul 2013               1.0
+         Eugênio de Castro 2021               1.0
+               Horizontina 2013               1.0
+               Horizontina 2014               1.0
+               Horizontina 2021               1.0
+                 Imigrante 2020               1.0
+                 Imigrante 2021               1.0
+                      Jari 2021               1.0
+             Muitos Capões 2007               1.0
+             Muitos Capões 2008               1.0
+             Muitos Capões 2010               1.0
+             Muitos Capões 2011               1.0
+             Muitos Capões 2012               1.0
+             Muitos Capões 2013               1.0
+             Muitos Capões 2014               1.0
+             Muitos Capões 2015               1.0
+             Muitos Capões 2016               1.0
+             Muitos Capões 2017               1.0
+             Muitos Capões 2018               1.0
+             Muitos Capões 2019               1.0
+             Muitos Capões 2020               1.0
+             Muitos Capões 2021               1.0
+                Nova Araçá 2008               1.0
+              Nova Bassano 2012               1.0
+              Nova Bassano 2013               1.0
+              Nova Bassano 2014               1.0
+           Nova Candelária 2009               1.0
+              Pedras Altas 2021               1.0
+           Pinhal da Serra 2009               1.0
+           Pinhal da Serra 2010               1.0
+           Pinhal da Serra 2011               1.0
+           Pinhal da Serra 2012               1.0
+           Pinhal da Serra 2013               1.0
+           Pinhal da Serra 2014               1.0
+           Pinhal da Serra 2015               1.0
+           Pinhal da Serra 2016               1.0
+           Pinhal da Serra 2017               1.0
+           Pinhal da Serra 2018               1.0
+           Pinhal da Serra 2021               1.0
+             Pinhal Grande 2007               1.0
+             Pinhal Grande 2008               1.0
+             Pinhal Grande 2009               1.0
+             Pinhal Grande 2010               1.0
+             Pinhal Grande 2011               1.0
+             Pinhal Grande 2015               1.0
+             Pinhal Grande 2016               1.0
+             Pinhal Grande 2017               1.0
+             Pinhal Grande 2018               1.0
+             Pinhal Grande 2019               1.0
+             Pinhal Grande 2020               1.0
+             Pinhal Grande 2021               1.0
+            Roque Gonzales 2017               1.0
+            Roque Gonzales 2018               1.0
+            Roque Gonzales 2019               1.0
+      Santa Bárbara do Sul 2021               1.0
+    Santa Margarida do Sul 2021               1.0
+                   Triunfo 2007               1.0
+                   Triunfo 2008               1.0
+                   Triunfo 2009               1.0
+                   Triunfo 2010               1.0
+                   Triunfo 2011               1.0
+                   Triunfo 2012               1.0
+                   Triunfo 2013               1.0
+                   Triunfo 2014               1.0
+                   Triunfo 2015               1.0
+                   Triunfo 2016               1.0
+                   Triunfo 2017               1.0
+                   Triunfo 2018               1.0
+                   Triunfo 2019               1.0
+                   Triunfo 2020               1.0
+                   Triunfo 2021               1.0
+                   Tupandi 2013               1.0
+                   Tupandi 2014               1.0
+                   Tupandi 2015               1.0
+                   Tupandi 2016               1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo  Máximo
+Ano                                                                          
+2007  0.585874       0.131762  0.487532  0.572110  0.669068  0.291195     1.0
+2008  0.602015       0.135553  0.496918  0.585079  0.695269  0.292593     1.0
+2009  0.582467       0.137037  0.482205  0.563330  0.669580  0.278784     1.0
+2010  0.603923       0.131450  0.502761  0.588223  0.682987  0.329673     1.0
+2011  0.622000       0.131944  0.521324  0.603828  0.712452  0.343747     1.0
+2012  0.596517       0.130224  0.502366  0.579248  0.681135  0.289772     1.0
+2013  0.661963       0.129205  0.567985  0.649634  0.746547  0.374943     1.0
+2014  0.659802       0.123763  0.569348  0.645684  0.740592  0.377900     1.0
+2015  0.648086       0.125569  0.558180  0.632715  0.731436  0.365241     1.0
+2016  0.645584       0.126821  0.555762  0.629813  0.733000  0.358747     1.0
+2017  0.642130       0.124667  0.553509  0.624362  0.724846  0.346166     1.0
+2018  0.646539       0.134609  0.550824  0.629479  0.735849  0.352830     1.0
+2019  0.647284       0.127387  0.551858  0.633987  0.735216  0.358531     1.0
+2020  0.633715       0.127435  0.541693  0.627455  0.719478  0.368073     1.0
+2021  0.692396       0.143394  0.592032  0.681820  0.783399  0.355025     1.0
+=================================================================
+
+ Mortes por Causas Evitáveis:
+    Média  Desvio padrão       Q0  Mediana       Q1  Mínimo   Máximo
+0.618712       0.088103 0.559871 0.623466 0.683218 0.22119 0.860508
+Mínimo(s):
+  Nome cidade  Ano  Mortes por Causas Evitáveis
+Lavras do Sul 2010                      0.22119
+
+Máximo(s):
+Nome cidade  Ano  Mortes por Causas Evitáveis
+ Água Santa 2020                     0.860508
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.631516       0.081470  0.574932  0.634018  0.695083  0.377904  0.835231
+2008  0.631627       0.080850  0.576065  0.633807  0.691308  0.399450  0.840265
+2009  0.628065       0.083077  0.572379  0.637467  0.687849  0.295236  0.852430
+2010  0.629399       0.082088  0.572427  0.630422  0.686847  0.221190  0.836977
+2011  0.626131       0.084717  0.569637  0.630173  0.687696  0.299376  0.834152
+2012  0.628109       0.085766  0.566101  0.632250  0.694894  0.313917  0.848331
+2013  0.621104       0.087985  0.559382  0.623751  0.687298  0.358360  0.844771
+2014  0.623096       0.087087  0.567256  0.629330  0.682815  0.312579  0.849730
+2015  0.621880       0.088104  0.571136  0.626206  0.683691  0.358077  0.852340
+2016  0.622454       0.089254  0.563317  0.629089  0.689948  0.331362  0.828264
+2017  0.611271       0.087870  0.556510  0.615962  0.671840  0.334142  0.843275
+2018  0.599595       0.090275  0.540935  0.603132  0.664586  0.309931  0.849340
+2019  0.596463       0.091057  0.537090  0.597988  0.664119  0.310188  0.821857
+2020  0.604508       0.094364  0.539924  0.608281  0.676848  0.362539  0.860508
+2021  0.605591       0.095681  0.538697  0.611069  0.676913  0.313598  0.839612
+=================================================================
+
+ Condições Gerais de Saúde:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.760937       0.053842 0.724709 0.764171 0.799851 0.507235 0.916685
+Mínimo(s):
+ Nome cidade  Ano  Condições Gerais de Saúde
+Pedro Osório 2018                   0.507235
+
+Máximo(s):
+Nome cidade  Ano  Condições Gerais de Saúde
+ Água Santa 2020                   0.916685
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.760529       0.052585  0.723606  0.761582  0.800840  0.561771  0.883851
+2008  0.762814       0.051515  0.726044  0.765038  0.800302  0.598096  0.881149
+2009  0.762634       0.052833  0.727638  0.766991  0.800452  0.590956  0.879340
+2010  0.764000       0.051817  0.729147  0.766596  0.799172  0.576495  0.892847
+2011  0.760923       0.052679  0.728067  0.763481  0.798688  0.566279  0.882083
+2012  0.761979       0.052689  0.725962  0.764151  0.800208  0.555159  0.896675
+2013  0.760056       0.052819  0.723003  0.765237  0.797403  0.549338  0.888941
+2014  0.762808       0.052386  0.726837  0.765867  0.800187  0.583239  0.888680
+2015  0.764307       0.051408  0.731288  0.768920  0.801022  0.599409  0.910942
+2016  0.764300       0.053018  0.727110  0.769086  0.804632  0.557000  0.897289
+2017  0.760455       0.054140  0.724584  0.761929  0.798766  0.552195  0.905127
+2018  0.755878       0.056675  0.716707  0.757966  0.796549  0.507235  0.898411
+2019  0.756006       0.057213  0.719431  0.756338  0.799398  0.532815  0.883879
+2020  0.759521       0.058119  0.720514  0.763219  0.801636  0.532296  0.916685
+2021  0.757863       0.056825  0.720006  0.760905  0.799700  0.542128  0.908342
+=================================================================
+
+ Óbitos por Causas Mal Definidas:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.903162       0.054932 0.877176  0.91179 0.941984 0.583341 0.995426
+Mínimo(s):
+Nome cidade  Ano  Óbitos por Causas Mal Definidas
+ Uruguaiana 2016                         0.583341
+
+Máximo(s):
+    Nome cidade  Ano  Óbitos por Causas Mal Definidas
+Bento Gonçalves 2014                         0.995426
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.889541       0.061788  0.862357  0.903254  0.930498  0.621654  0.987919
+2008  0.894002       0.061015  0.872686  0.905032  0.932393  0.639727  0.984358
+2009  0.897203       0.059380  0.874504  0.908944  0.935729  0.653339  0.985901
+2010  0.898601       0.055147  0.877540  0.906740  0.936996  0.672739  0.984980
+2011  0.895714       0.050805  0.868275  0.902724  0.934552  0.643192  0.985063
+2012  0.895849       0.051219  0.870851  0.902728  0.930724  0.667801  0.987968
+2013  0.899009       0.049463  0.877633  0.906519  0.930207  0.668794  0.991138
+2014  0.902519       0.050560  0.878204  0.912100  0.934749  0.602950  0.995426
+2015  0.906734       0.050592  0.880204  0.914803  0.940982  0.607937  0.994099
+2016  0.906145       0.054332  0.875997  0.916402  0.945968  0.583341  0.994413
+2017  0.909639       0.053874  0.877830  0.916553  0.952809  0.592921  0.990214
+2018  0.912160       0.055445  0.885090  0.921268  0.955080  0.604040  0.991256
+2019  0.915548       0.053626  0.890832  0.926791  0.954811  0.633445  0.988835
+2020  0.914535       0.054674  0.888956  0.927223  0.954859  0.639857  0.989164
+2021  0.910134       0.052464  0.883142  0.919459  0.946448  0.683372  0.987132
+=================================================================
+
+ Longevidade:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.898181       0.053517 0.860884 0.899166 0.936633 0.678646     1.0
+Mínimo(s):
+Nome cidade  Ano  Longevidade
+  Muliterno 2011     0.678646
+
+Máximo(s):
+            Nome cidade  Ano  Longevidade
+             Água Santa 2019          1.0
+             Água Santa 2020          1.0
+            Alto Alegre 2015          1.0
+            Alto Alegre 2017          1.0
+            Alto Alegre 2019          1.0
+            Alto Alegre 2020          1.0
+            Alto Alegre 2021          1.0
+             Alto Feliz 2017          1.0
+             Alto Feliz 2018          1.0
+         André da Rocha 2011          1.0
+         André da Rocha 2016          1.0
+         André da Rocha 2018          1.0
+         André da Rocha 2019          1.0
+                Aratiba 2015          1.0
+                Aratiba 2016          1.0
+                Aratiba 2017          1.0
+      Barra do Rio Azul 2010          1.0
+      Barra do Rio Azul 2011          1.0
+      Barra do Rio Azul 2012          1.0
+      Barra do Rio Azul 2013          1.0
+      Barra do Rio Azul 2014          1.0
+      Barra do Rio Azul 2015          1.0
+      Barra do Rio Azul 2020          1.0
+      Barra do Rio Azul 2021          1.0
+            Barra Funda 2010          1.0
+            Barra Funda 2011          1.0
+            Barra Funda 2012          1.0
+            Barra Funda 2013          1.0
+            Barra Funda 2014          1.0
+            Barra Funda 2015          1.0
+            Barra Funda 2016          1.0
+            Barra Funda 2017          1.0
+   Boa Vista do Cadeado 2021          1.0
+              Bom Jesus 2015          1.0
+              Bom Jesus 2016          1.0
+                 Bozano 2017          1.0
+                 Bozano 2018          1.0
+                Camargo 2007          1.0
+                Camargo 2008          1.0
+     Campestre da Serra 2020          1.0
+          Capão do Cipó 2016          1.0
+                  Caraá 2015          1.0
+                  Caraá 2017          1.0
+             Centenário 2020          1.0
+                   Chuí 2011          1.0
+                   Chuí 2012          1.0
+                   Chuí 2013          1.0
+                   Chuí 2014          1.0
+                   Chuí 2015          1.0
+                   Chuí 2016          1.0
+                   Chuí 2017          1.0
+                   Chuí 2018          1.0
+                   Chuí 2019          1.0
+                   Chuí 2020          1.0
+                   Chuí 2021          1.0
+                Colinas 2012          1.0
+                Colinas 2013          1.0
+                 Condor 2014          1.0
+                 Condor 2015          1.0
+         Coqueiro Baixo 2012          1.0
+       Coqueiros do Sul 2020          1.0
+          Coronel Pilar 2016          1.0
+          Coronel Pilar 2017          1.0
+          Coronel Pilar 2020          1.0
+          Coronel Pilar 2021          1.0
+            Cruzaltense 2019          1.0
+            Cruzaltense 2020          1.0
+            Cruzaltense 2021          1.0
+Dois Irmãos das Missões 2013          1.0
+         Doutor Ricardo 2012          1.0
+          Engenho Velho 2011          1.0
+        Fagundes Varela 2018          1.0
+        Fagundes Varela 2019          1.0
+        Fagundes Varela 2020          1.0
+        Fagundes Varela 2021          1.0
+                Guabiju 2017          1.0
+                Guabiju 2018          1.0
+                Guabiju 2019          1.0
+                Guabiju 2020          1.0
+             Ibirapuitã 2019          1.0
+             Ibirapuitã 2020          1.0
+               Inhacorá 2008          1.0
+        Ipiranga do Sul 2020          1.0
+        Ipiranga do Sul 2021          1.0
+              Itacurubi 2013          1.0
+                  Ivorá 2019          1.0
+                  Ivorá 2020          1.0
+                  Ivorá 2021          1.0
+             Jacuizinho 2014          1.0
+                   Jari 2018          1.0
+       Lajeado do Bugre 2010          1.0
+       Liberato Salzano 2019          1.0
+       Liberato Salzano 2020          1.0
+       Liberato Salzano 2021          1.0
+             Linha Nova 2012          1.0
+             Linha Nova 2021          1.0
+              Maçambará 2014          1.0
+              Maçambará 2015          1.0
+              Maçambará 2016          1.0
+              Maçambará 2017          1.0
+              Maçambará 2018          1.0
+                 Maratá 2020          1.0
+                 Maratá 2021          1.0
+           Mariano Moro 2021          1.0
+ Maximiliano de Almeida 2019          1.0
+ Maximiliano de Almeida 2020          1.0
+               Miraguaí 2017          1.0
+               Montauri 2017          1.0
+      Monte Belo do Sul 2017          1.0
+      Monte Belo do Sul 2018          1.0
+             Nova Araçá 2015          1.0
+             Nova Araçá 2016          1.0
+             Nova Araçá 2017          1.0
+         Nova Boa Vista 2020          1.0
+         Nova Boa Vista 2021          1.0
+             Nova Pádua 2007          1.0
+             Nova Pádua 2011          1.0
+             Nova Pádua 2012          1.0
+             Nova Pádua 2013          1.0
+             Nova Pádua 2014          1.0
+             Nova Pádua 2015          1.0
+             Nova Pádua 2016          1.0
+             Nova Pádua 2017          1.0
+             Nova Pádua 2018          1.0
+             Nova Pádua 2019          1.0
+             Nova Pádua 2020          1.0
+            Nova Ramada 2020          1.0
+       Nova Roma do Sul 2014          1.0
+       Nova Roma do Sul 2016          1.0
+       Nova Roma do Sul 2017          1.0
+       Nova Roma do Sul 2018          1.0
+       Nova Roma do Sul 2019          1.0
+       Nova Roma do Sul 2020          1.0
+             Novo Xingu 2013          1.0
+             Novo Xingu 2018          1.0
+                  Paraí 2018          1.0
+                  Paraí 2019          1.0
+            Paulo Bento 2008          1.0
+            Picada Café 2020          1.0
+            Picada Café 2021          1.0
+        Pinhal da Serra 2014          1.0
+        Pinhal da Serra 2015          1.0
+        Pinhal da Serra 2016          1.0
+        Pinhal da Serra 2017          1.0
+        Pinhal da Serra 2018          1.0
+        Pinhal da Serra 2019          1.0
+        Pinhal da Serra 2020          1.0
+        Pinhal da Serra 2021          1.0
+            Ponte Preta 2020          1.0
+            Ponte Preta 2021          1.0
+             Pouso Novo 2013          1.0
+         Protásio Alves 2009          1.0
+         Protásio Alves 2010          1.0
+         Protásio Alves 2011          1.0
+                Relvado 2016          1.0
+                Relvado 2017          1.0
+                Relvado 2018          1.0
+                Relvado 2019          1.0
+                Relvado 2020          1.0
+         Rio dos Índios 2009          1.0
+               Rondinha 2020          1.0
+   Santa Cecília do Sul 2008          1.0
+   Santa Cecília do Sul 2014          1.0
+   Santa Cecília do Sul 2015          1.0
+           Santa Tereza 2007          1.0
+           Santa Tereza 2008          1.0
+           Santa Tereza 2019          1.0
+           Santa Tereza 2020          1.0
+           Santa Tereza 2021          1.0
+  Santo Expedito do Sul 2010          1.0
+  Santo Expedito do Sul 2011          1.0
+  Santo Expedito do Sul 2019          1.0
+  Santo Expedito do Sul 2020          1.0
+  Santo Expedito do Sul 2021          1.0
+     São João da Urtiga 2019          1.0
+     São João da Urtiga 2020          1.0
+     São João da Urtiga 2021          1.0
+              São Jorge 2016          1.0
+              São Jorge 2018          1.0
+   São José do Inhacorá 2012          1.0
+     São Pedro do Butiá 2013          1.0
+    São Valentim do Sul 2012          1.0
+    São Valentim do Sul 2014          1.0
+    São Valentim do Sul 2015          1.0
+    São Valentim do Sul 2016          1.0
+       Sete de Setembro 2017          1.0
+       Sete de Setembro 2018          1.0
+           Três Arroios 2017          1.0
+           Três Arroios 2018          1.0
+           Três Arroios 2019          1.0
+           Três Arroios 2020          1.0
+           Três Arroios 2021          1.0
+         União da Serra 2017          1.0
+         União da Serra 2018          1.0
+         União da Serra 2019          1.0
+         União da Serra 2020          1.0
+         União da Serra 2021          1.0
+                 Vanini 2013          1.0
+                 Vanini 2020          1.0
+           Vila Lângaro 2019          1.0
+           Vila Lângaro 2020          1.0
+  Vista Alegre do Prata 2016          1.0
+  Vista Alegre do Prata 2017          1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo  Máximo
+Ano                                                                          
+2007  0.876314       0.054123  0.839643  0.876215  0.910746  0.721779     1.0
+2008  0.879699       0.051594  0.845950  0.879279  0.915175  0.732895     1.0
+2009  0.879539       0.051246  0.845269  0.879490  0.914943  0.727425     1.0
+2010  0.883778       0.052078  0.849654  0.883108  0.917414  0.698267     1.0
+2011  0.884898       0.053150  0.850111  0.888464  0.921272  0.678646     1.0
+2012  0.889868       0.052696  0.854523  0.889631  0.926577  0.702556     1.0
+2013  0.890788       0.052059  0.851089  0.891031  0.925157  0.715956     1.0
+2014  0.897359       0.049595  0.864838  0.896722  0.930634  0.727200     1.0
+2015  0.904081       0.049805  0.868328  0.906328  0.938967  0.736477     1.0
+2016  0.906371       0.051408  0.869034  0.911136  0.947040  0.742758     1.0
+2017  0.915475       0.048381  0.882649  0.916762  0.949692  0.765027     1.0
+2018  0.914736       0.049406  0.879666  0.915501  0.949982  0.783428     1.0
+2019  0.919449       0.048214  0.886915  0.922751  0.955741  0.773832     1.0
+2020  0.923710       0.050246  0.886254  0.928131  0.963135  0.751841     1.0
+2021  0.906464       0.055302  0.864190  0.915022  0.947489  0.748551     1.0
+=================================================================
+
+ Consultas Pré Natal:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.772631       0.080911 0.724622 0.783005 0.833079 0.431154 0.959339
+Mínimo(s):
+Nome cidade  Ano  Consultas Pré Natal
+  Bom Jesus 2007             0.431154
+
+Máximo(s):
+ Nome cidade  Ano  Consultas Pré Natal
+Três de Maio 2009             0.959339
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.716680       0.095861  0.655033  0.725971  0.780709  0.431154  0.950329
+2008  0.741524       0.090431  0.683921  0.750433  0.798359  0.469802  0.958453
+2009  0.752595       0.085039  0.697423  0.762886  0.807509  0.461813  0.959339
+2010  0.763240       0.085553  0.710509  0.772776  0.820687  0.438086  0.959007
+2011  0.764571       0.085022  0.708157  0.775201  0.822973  0.459514  0.958224
+2012  0.766526       0.083963  0.712727  0.778039  0.827855  0.449303  0.934824
+2013  0.762692       0.081145  0.710946  0.775429  0.822644  0.441438  0.919311
+2014  0.765162       0.075103  0.719176  0.780930  0.821009  0.451137  0.904424
+2015  0.769618       0.072832  0.723578  0.782584  0.822210  0.481664  0.905599
+2016  0.774370       0.071599  0.728145  0.785363  0.827700  0.516662  0.917647
+2017  0.783626       0.070480  0.736593  0.788945  0.840923  0.541736  0.937697
+2018  0.795599       0.065562  0.749220  0.799076  0.849684  0.564479  0.940434
+2019  0.807732       0.060057  0.768658  0.812498  0.855690  0.562624  0.944370
+2020  0.811786       0.058123  0.774497  0.818415  0.856682  0.574896  0.944300
+2021  0.813480       0.057828  0.774003  0.817906  0.859691  0.609927  0.948477
+=================================================================
+
+ Mortalidade de Menores de 5 anos:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo  Máximo
+0.926922       0.039689 0.904707 0.932209 0.954918 0.706377     1.0
+Mínimo(s):
+Nome cidade  Ano  Mortalidade de Menores de 5 anos
+     Herval 2008                          0.706377
+
+Máximo(s):
+              Nome cidade  Ano  Mortalidade de Menores de 5 anos
+                    Agudo 2018                               1.0
+                Ajuricaba 2012                               1.0
+            Cacique Doble 2020                               1.0
+            Cacique Doble 2021                               1.0
+            Cândido Godói 2020                               1.0
+            Cândido Godói 2021                               1.0
+              Cerro Largo 2015                               1.0
+              Charqueadas 2009                               1.0
+              Charqueadas 2010                               1.0
+              Charqueadas 2017                               1.0
+                   Condor 2021                               1.0
+              Dom Pedrito 2018                               1.0
+           Dona Francisca 2018                               1.0
+                Encantado 2018                               1.0
+                Encantado 2020                               1.0
+               Erval Seco 2016                               1.0
+                    Feliz 2021                               1.0
+           Getúlio Vargas 2013                               1.0
+      Guarani das Missões 2015                               1.0
+                     Iraí 2018                               1.0
+                    Ivoti 2020                               1.0
+          Lindolfo Collor 2018                               1.0
+               Machadinho 2018                               1.0
+               Machadinho 2019                               1.0
+   Maximiliano de Almeida 2020                               1.0
+                 Miraguaí 2017                               1.0
+                 Miraguaí 2018                               1.0
+             Morro Reuter 2019                               1.0
+             Morro Reuter 2020                               1.0
+             Morro Reuter 2021                               1.0
+          Nova Petrópolis 2020                               1.0
+                 Paverama 2015                               1.0
+              Picada Café 2020                               1.0
+              Picada Café 2021                               1.0
+                Sananduva 2020                               1.0
+       Santa Clara do Sul 2021                               1.0
+    Santa Maria do Herval 2021                               1.0
+Santo Antônio das Missões 2014                               1.0
+Santo Antônio das Missões 2015                               1.0
+            Santo Augusto 2020                               1.0
+             São Martinho 2018                               1.0
+       São Vicente do Sul 2018                               1.0
+       São Vicente do Sul 2019                               1.0
+                  Segredo 2021                               1.0
+                  Taquari 2014                               1.0
+                   Torres 2015                               1.0
+              Três Passos 2012                               1.0
+                Tucunduva 2021                               1.0
+                Tuparendi 2021                               1.0
+              Vale do Sol 2016                               1.0
+              Veranópolis 2020                               1.0
+              Veranópolis 2021                               1.0
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.900462       0.044718  0.873701  0.906021  0.932861  0.708597  0.989754
+2008  0.902138       0.042891  0.879426  0.907021  0.930166  0.706377  0.990898
+2009  0.905308       0.040145  0.884287  0.911786  0.934471  0.753389  1.000000
+2010  0.915550       0.039062  0.896116  0.920967  0.943794  0.760775  1.000000
+2011  0.920060       0.036674  0.901238  0.923819  0.944324  0.780830  0.998871
+2012  0.925036       0.038216  0.904312  0.929749  0.952975  0.764637  1.000000
+2013  0.924705       0.037656  0.905249  0.928727  0.951823  0.748199  1.000000
+2014  0.930213       0.033766  0.912225  0.932682  0.954242  0.796597  1.000000
+2015  0.933776       0.034514  0.913095  0.938497  0.957113  0.779848  1.000000
+2016  0.937057       0.034184  0.918935  0.940090  0.961375  0.771869  1.000000
+2017  0.939439       0.032685  0.920592  0.943380  0.963187  0.808870  1.000000
+2018  0.940984       0.034541  0.921231  0.945520  0.966114  0.826295  1.000000
+2019  0.939438       0.034223  0.919964  0.943750  0.963159  0.778238  1.000000
+2020  0.945506       0.032878  0.929570  0.949270  0.969300  0.777834  1.000000
+2021  0.943967       0.034390  0.924485  0.949016  0.969227  0.792525  1.000000
+=================================================================
+
+ Saúde Materno Infantil:
+    Média  Desvio padrão       Q0  Mediana       Q1   Mínimo   Máximo
+0.849776       0.050563 0.820833 0.856228 0.885969 0.604558 0.968822
+Mínimo(s):
+    Nome cidade  Ano  Saúde Materno Infantil
+Barra do Quaraí 2008                0.604558
+
+Máximo(s):
+Nome cidade  Ano  Saúde Materno Infantil
+   Teutônia 2019                0.968822
+
+Métricas anuais:
+         Média  Desvio padrão        Q0   Mediana        Q1    Mínimo    Máximo
+Ano                                                                            
+2007  0.808571       0.059489  0.770573  0.815947  0.851358  0.618914  0.942922
+2008  0.821831       0.055567  0.787576  0.828007  0.856856  0.604558  0.941861
+2009  0.828952       0.051619  0.798224  0.833719  0.861122  0.643580  0.958751
+2010  0.839395       0.051302  0.810609  0.844700  0.872813  0.661767  0.955713
+2011  0.842316       0.050104  0.813302  0.850505  0.878204  0.669836  0.948295
+2012  0.845781       0.051210  0.815086  0.854427  0.882151  0.649698  0.955627
+2013  0.843699       0.048461  0.817448  0.851547  0.879305  0.685846  0.947826
+2014  0.847688       0.044496  0.823977  0.855279  0.879668  0.698140  0.943516
+2015  0.851697       0.042414  0.827984  0.858128  0.880962  0.710080  0.940604
+2016  0.855714       0.042133  0.829891  0.862706  0.885522  0.717659  0.942233
+2017  0.861532       0.041713  0.835484  0.866810  0.894026  0.711188  0.956231
+2018  0.868292       0.040338  0.843735  0.872900  0.896343  0.744941  0.961313
+2019  0.873585       0.037573  0.848049  0.877918  0.899756  0.753069  0.968822
+2020  0.878646       0.036921  0.856831  0.883348  0.904115  0.756669  0.962912
+2021  0.878723       0.037773  0.857791  0.882001  0.905268  0.753528  0.968080
+=================================================================

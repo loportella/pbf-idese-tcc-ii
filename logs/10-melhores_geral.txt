@@ -1,0 +1,793 @@
+📊 Dependente: Total de beneficiários | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 0
+
+📋 Informações das amostras
+🧮 Amostras totais: 3208
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Osório                  248
+Porto Alegre            213
+Frederico Westphalen    160
+Santo Ângelo            160
+Vacaria                 156
+Pelotas                 148
+Santa Cruz do Sul       137
+Erechim                 127
+Três Passos             125
+Campanha Ocidental      123
+São Jerônimo            116
+Camaquã                 112
+Santa Maria             110
+Serras de Sudeste       108
+Cachoeira do Sul         96
+Soledade                 93
+Lajeado-Estrela          92
+Carazinho                87
+Passo Fundo              71
+Santiago                 69
+Ijuí                     66
+Montenegro               66
+Restinga Seca            63
+Campanha Central         55
+Campanha Meridional      53
+Cruz Alta                52
+Litoral Lagunar          51
+Cerro Largo              49
+Gramado-Canela           48
+Santa Rosa               48
+Jaguarão                 45
+Sananduva                38
+Guaporé                  16
+Caxias do Sul             6
+Não-Me-Toque              1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1077
+Metropolitana de Porto Alegre      803
+Sudeste Rio-grandense              352
+Centro Oriental Rio-grandense      325
+Centro Ocidental Rio-grandense     242
+Sudoeste Rio-grandense             231
+Nordeste Rio-grandense             178
+
+👥 Média da população: População    24056.82419
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Total de beneficiários    1142.277743
+🎯 Independente:
+Idese                               0.666816
+Bloco Educação                      0.626080
+Bloco Renda                         0.569637
+Bloco Saúde                         0.804731
+Anos Finais EF                      0.641688
+Anos Iniciais EF                    0.702657
+Ensino Fundamental                  0.672172
+Ensino Médio                        0.711887
+Escolaridade Adulta                 0.413445
+Pré Escola                          0.706815
+Apropriação da Renda                0.578576
+Geração da Renda                    0.560698
+Mortes por Causas Evitáveis         0.584969
+Condições Gerais de Saúde           0.731853
+Óbitos por Causas Mal Definidas     0.878737
+Longevidade                         0.868356
+Consultas Pré Natal                 0.717866
+Mortalidade de Menores de 5 anos    0.910100
+Saúde Materno Infantil              0.813983
+
+✅ ============================
+
+📊 Dependente: Valor total repassado | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 0
+
+📋 Informações das amostras
+🧮 Amostras totais: 3185
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Osório                  246
+Porto Alegre            211
+Frederico Westphalen    160
+Vacaria                 156
+Santo Ângelo            156
+Pelotas                 148
+Santa Cruz do Sul       135
+Erechim                 127
+Três Passos             125
+Campanha Ocidental      122
+São Jerônimo            115
+Camaquã                 111
+Santa Maria             109
+Serras de Sudeste       108
+Cachoeira do Sul         96
+Soledade                 93
+Lajeado-Estrela          92
+Carazinho                87
+Passo Fundo              71
+Santiago                 69
+Ijuí                     64
+Montenegro               64
+Restinga Seca            63
+Campanha Central         55
+Campanha Meridional      52
+Cruz Alta                52
+Litoral Lagunar          50
+Santa Rosa               48
+Cerro Largo              48
+Gramado-Canela           47
+Jaguarão                 44
+Sananduva                38
+Guaporé                  16
+Caxias do Sul             6
+Não-Me-Toque              1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1070
+Metropolitana de Porto Alegre      794
+Sudeste Rio-grandense              350
+Centro Oriental Rio-grandense      323
+Centro Ocidental Rio-grandense     241
+Sudoeste Rio-grandense             229
+Nordeste Rio-grandense             178
+
+👥 Média da população: População    23840.183359
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Valor total repassado    1.507387e+06
+🎯 Independente:
+Idese                               0.666362
+Bloco Educação                      0.625404
+Bloco Renda                         0.568971
+Bloco Saúde                         0.804712
+Anos Finais EF                      0.641516
+Anos Iniciais EF                    0.702388
+Ensino Fundamental                  0.671952
+Ensino Médio                        0.711156
+Escolaridade Adulta                 0.412760
+Pré Escola                          0.705747
+Apropriação da Renda                0.578078
+Geração da Renda                    0.559864
+Mortes por Causas Evitáveis         0.585273
+Condições Gerais de Saúde           0.731948
+Óbitos por Causas Mal Definidas     0.878623
+Longevidade                         0.868409
+Consultas Pré Natal                 0.717630
+Mortalidade de Menores de 5 anos    0.909930
+Saúde Materno Infantil              0.813780
+
+✅ ============================
+
+📊 Dependente: Total de beneficiários | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 1
+
+📋 Informações das amostras
+🧮 Amostras totais: 4226
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Lajeado-Estrela         373
+Erechim                 323
+Passo Fundo             319
+Guaporé                 299
+Caxias do Sul           273
+Montenegro              249
+Frederico Westphalen    245
+Carazinho               183
+Gramado-Canela          177
+Três Passos             175
+Ijuí                    159
+Cruz Alta               158
+Santa Rosa              147
+Sananduva               127
+Cerro Largo             116
+Não-Me-Toque            104
+Santa Cruz do Sul       103
+Porto Alegre            102
+Osório                   97
+Santa Maria              85
+Santo Ângelo             80
+Restinga Seca            72
+Santiago                 66
+Vacaria                  54
+Soledade                 27
+Campanha Ocidental       27
+Campanha Meridional      22
+São Jerônimo             19
+Serras de Sudeste        12
+Cachoeira do Sul          9
+Litoral Lagunar           9
+Camaquã                   8
+Campanha Central          5
+Pelotas                   2
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            2163
+Metropolitana de Porto Alegre      652
+Nordeste Rio-grandense             626
+Centro Oriental Rio-grandense      485
+Centro Ocidental Rio-grandense     223
+Sudoeste Rio-grandense              54
+Sudeste Rio-grandense               23
+
+👥 Média da população: População    15715.994794
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Total de beneficiários    428.200899
+🎯 Independente:
+Idese                               0.769369
+Bloco Educação                      0.740839
+Bloco Renda                         0.706954
+Bloco Saúde                         0.860315
+Anos Finais EF                      0.705642
+Anos Iniciais EF                    0.805155
+Ensino Fundamental                  0.755398
+Ensino Médio                        0.797646
+Escolaridade Adulta                 0.483287
+Pré Escola                          0.927024
+Apropriação da Renda                0.729444
+Geração da Renda                    0.684463
+Mortes por Causas Evitáveis         0.644486
+Condições Gerais de Saúde           0.783037
+Óbitos por Causas Mal Definidas     0.921588
+Longevidade                         0.920912
+Consultas Pré Natal                 0.814353
+Mortalidade de Menores de 5 anos    0.939637
+Saúde Materno Infantil              0.876995
+
+✅ ============================
+
+📊 Dependente: Total de beneficiários | 🎯 Independente: Bloco educação completo | 🤖 Modelo: XGBoost | 🏷️ Grupo: 0
+
+📋 Informações das amostras
+🧮 Amostras totais: 2495
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Porto Alegre            157
+Frederico Westphalen    139
+Osório                  136
+Passo Fundo             124
+Vacaria                 116
+Santo Ângelo             99
+Pelotas                  92
+Santa Cruz do Sul        92
+Três Passos              91
+Santa Maria              90
+Lajeado-Estrela          83
+Carazinho                81
+Erechim                  80
+Camaquã                  80
+Campanha Ocidental       79
+São Jerônimo             75
+Serras de Sudeste        73
+Ijuí                     71
+Cruz Alta                66
+Santiago                 65
+Soledade                 65
+Sananduva                53
+Montenegro               50
+Guaporé                  49
+Restinga Seca            46
+Campanha Meridional      43
+Campanha Central         43
+Cachoeira do Sul         43
+Gramado-Canela           40
+Santa Rosa               39
+Litoral Lagunar          36
+Cerro Largo              34
+Caxias do Sul            30
+Jaguarão                 28
+Não-Me-Toque              7
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            949
+Metropolitana de Porto Alegre     538
+Sudeste Rio-grandense             229
+Centro Oriental Rio-grandense     218
+Centro Ocidental Rio-grandense    201
+Nordeste Rio-grandense            195
+Sudoeste Rio-grandense            165
+
+👥 Média da população: População    24653.622044
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Total de beneficiários    1124.558717
+🎯 Independente:
+Anos Finais EF         0.628489
+Anos Iniciais EF       0.677904
+Ensino Fundamental     0.653196
+Ensino Médio           0.743303
+Escolaridade Adulta    0.402548
+Pré Escola             0.627454
+
+✅ ============================
+
+📊 Dependente: Valor total repassado | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 1
+
+📋 Informações das amostras
+🧮 Amostras totais: 4249
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Lajeado-Estrela         373
+Erechim                 323
+Passo Fundo             319
+Guaporé                 299
+Caxias do Sul           273
+Montenegro              251
+Frederico Westphalen    245
+Carazinho               183
+Gramado-Canela          178
+Três Passos             175
+Ijuí                    161
+Cruz Alta               158
+Santa Rosa              147
+Sananduva               127
+Cerro Largo             117
+Santa Cruz do Sul       105
+Porto Alegre            104
+Não-Me-Toque            104
+Osório                   99
+Santa Maria              86
+Santo Ângelo             84
+Restinga Seca            72
+Santiago                 66
+Vacaria                  54
+Campanha Ocidental       28
+Soledade                 27
+Campanha Meridional      23
+São Jerônimo             20
+Serras de Sudeste        12
+Litoral Lagunar          10
+Camaquã                   9
+Cachoeira do Sul          9
+Campanha Central          5
+Pelotas                   2
+Jaguarão                  1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            2170
+Metropolitana de Porto Alegre      661
+Nordeste Rio-grandense             626
+Centro Oriental Rio-grandense      487
+Centro Ocidental Rio-grandense     224
+Sudoeste Rio-grandense              56
+Sudeste Rio-grandense               25
+
+👥 Média da população: População    15923.53542
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Valor total repassado    649042.551895
+🎯 Independente:
+Idese                               0.769154
+Bloco Educação                      0.740724
+Bloco Renda                         0.706710
+Bloco Saúde                         0.860027
+Anos Finais EF                      0.705425
+Anos Iniciais EF                    0.804801
+Ensino Fundamental                  0.755113
+Ensino Médio                        0.797729
+Escolaridade Adulta                 0.483423
+Pré Escola                          0.926633
+Apropriação da Renda                0.729001
+Geração da Renda                    0.684419
+Mortes por Causas Evitáveis         0.643936
+Condições Gerais de Saúde           0.782689
+Óbitos por Causas Mal Definidas     0.921442
+Longevidade                         0.920588
+Consultas Pré Natal                 0.814007
+Mortalidade de Menores de 5 anos    0.939605
+Saúde Materno Infantil              0.876806
+
+✅ ============================
+
+📊 Dependente: Total de beneficiários | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 2
+
+📋 Informações das amostras
+🧮 Amostras totais: 2748
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Guaporé                 274
+Lajeado-Estrela         262
+Caxias do Sul           249
+Passo Fundo             246
+Erechim                 241
+Montenegro              189
+Frederico Westphalen    139
+Ijuí                    132
+Gramado-Canela          121
+Carazinho               117
+Não-Me-Toque             97
+Sananduva                95
+Três Passos              93
+Cruz Alta                91
+Santa Rosa               83
+Cerro Largo              66
+Restinga Seca            41
+Santiago                 36
+Santa Cruz do Sul        34
+Osório                   31
+Porto Alegre             24
+Vacaria                  23
+Santa Maria              22
+Santo Ângelo             22
+Soledade                  6
+Litoral Lagunar           5
+Serras de Sudeste         3
+Campanha Meridional       2
+São Jerônimo              2
+Campanha Ocidental        1
+Campanha Central          1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1428
+Nordeste Rio-grandense             546
+Metropolitana de Porto Alegre      367
+Centro Oriental Rio-grandense      296
+Centro Ocidental Rio-grandense      99
+Sudeste Rio-grandense                8
+Sudoeste Rio-grandense               4
+
+👥 Média da população: População    14522.921761
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Total de beneficiários    304.390102
+🎯 Independente:
+Idese                               0.787406
+Bloco Educação                      0.753282
+Bloco Renda                         0.735668
+Bloco Saúde                         0.873268
+Anos Finais EF                      0.719444
+Anos Iniciais EF                    0.822471
+Ensino Fundamental                  0.770957
+Ensino Médio                        0.807802
+Escolaridade Adulta                 0.496844
+Pré Escola                          0.937524
+Apropriação da Renda                0.762874
+Geração da Renda                    0.708463
+Mortes por Causas Evitáveis         0.670342
+Condições Gerais de Saúde           0.799620
+Óbitos por Causas Mal Definidas     0.928897
+Longevidade                         0.935231
+Consultas Pré Natal                 0.827170
+Mortalidade de Menores de 5 anos    0.942737
+Saúde Materno Infantil              0.884954
+
+✅ ============================
+
+📊 Dependente: Valor total repassado | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 2
+
+📋 Informações das amostras
+🧮 Amostras totais: 2748
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Guaporé                 274
+Lajeado-Estrela         262
+Caxias do Sul           249
+Passo Fundo             246
+Erechim                 241
+Montenegro              189
+Frederico Westphalen    139
+Ijuí                    132
+Gramado-Canela          121
+Carazinho               117
+Não-Me-Toque             97
+Sananduva                95
+Três Passos              93
+Cruz Alta                90
+Santa Rosa               83
+Cerro Largo              66
+Restinga Seca            41
+Santiago                 36
+Santa Cruz do Sul        34
+Osório                   31
+Porto Alegre             24
+Santa Maria              23
+Vacaria                  23
+Santo Ângelo             22
+Soledade                  6
+Litoral Lagunar           5
+Serras de Sudeste         3
+Campanha Meridional       2
+São Jerônimo              2
+Campanha Ocidental        1
+Campanha Central          1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1427
+Nordeste Rio-grandense             546
+Metropolitana de Porto Alegre      367
+Centro Oriental Rio-grandense      296
+Centro Ocidental Rio-grandense     100
+Sudeste Rio-grandense                8
+Sudoeste Rio-grandense               4
+
+👥 Média da população: População    14621.255822
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Valor total repassado    445830.237991
+🎯 Independente:
+Idese                               0.787403
+Bloco Educação                      0.753292
+Bloco Renda                         0.735644
+Bloco Saúde                         0.873272
+Anos Finais EF                      0.719439
+Anos Iniciais EF                    0.822446
+Ensino Fundamental                  0.770942
+Ensino Médio                        0.807838
+Escolaridade Adulta                 0.496928
+Pré Escola                          0.937460
+Apropriação da Renda                0.762940
+Geração da Renda                    0.708348
+Mortes por Causas Evitáveis         0.670353
+Condições Gerais de Saúde           0.799636
+Óbitos por Causas Mal Definidas     0.928918
+Longevidade                         0.935233
+Consultas Pré Natal                 0.827160
+Mortalidade de Menores de 5 anos    0.942737
+Saúde Materno Infantil              0.884948
+
+✅ ============================
+
+📊 Dependente: Total de beneficiários | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 0
+
+📋 Informações das amostras
+🧮 Amostras totais: 3073
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Osório                  203
+Porto Alegre            182
+Lajeado-Estrela         177
+Frederico Westphalen    168
+Erechim                 163
+Três Passos             153
+Santo Ângelo            145
+Santa Cruz do Sul       133
+Passo Fundo             115
+Carazinho               114
+Montenegro              107
+Santa Maria             106
+Cruz Alta               105
+Vacaria                  95
+Santa Rosa               93
+Gramado-Canela           87
+Cerro Largo              87
+Campanha Ocidental       82
+São Jerônimo             78
+Ijuí                     69
+Restinga Seca            68
+Cachoeira do Sul         59
+Soledade                 56
+Santiago                 56
+Sananduva                51
+Camaquã                  46
+Pelotas                  45
+Serras de Sudeste        45
+Campanha Meridional      41
+Caxias do Sul            30
+Guaporé                  30
+Litoral Lagunar          28
+Campanha Central         27
+Jaguarão                 21
+Não-Me-Toque              8
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1327
+Metropolitana de Porto Alegre      703
+Centro Oriental Rio-grandense      369
+Centro Ocidental Rio-grandense     230
+Nordeste Rio-grandense             155
+Sudoeste Rio-grandense             150
+Sudeste Rio-grandense              139
+
+👥 Média da população: População    20805.711682
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Total de beneficiários    847.884803
+🎯 Independente:
+Idese                               0.715884
+Bloco Educação                      0.695505
+Bloco Renda                         0.627482
+Bloco Saúde                         0.824665
+Anos Finais EF                      0.668697
+Anos Iniciais EF                    0.752734
+Ensino Fundamental                  0.710716
+Ensino Médio                        0.746188
+Escolaridade Adulta                 0.449176
+Pré Escola                          0.875941
+Apropriação da Renda                0.640250
+Geração da Renda                    0.614714
+Mortes por Causas Evitáveis         0.586298
+Condições Gerais de Saúde           0.741489
+Óbitos por Causas Mal Definidas     0.896680
+Longevidade                         0.884328
+Consultas Pré Natal                 0.767681
+Mortalidade de Menores de 5 anos    0.928674
+Saúde Materno Infantil              0.848177
+
+✅ ============================
+
+📊 Dependente: Valor total repassado | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: MLP | 🏷️ Grupo: 2
+
+📋 Informações das amostras
+🧮 Amostras totais: 2748
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Guaporé                 274
+Lajeado-Estrela         262
+Caxias do Sul           249
+Passo Fundo             246
+Erechim                 241
+Montenegro              189
+Frederico Westphalen    139
+Ijuí                    132
+Gramado-Canela          121
+Carazinho               117
+Não-Me-Toque             97
+Sananduva                95
+Três Passos              93
+Cruz Alta                90
+Santa Rosa               83
+Cerro Largo              66
+Restinga Seca            41
+Santiago                 36
+Santa Cruz do Sul        34
+Osório                   31
+Porto Alegre             24
+Santa Maria              23
+Vacaria                  23
+Santo Ângelo             22
+Soledade                  6
+Litoral Lagunar           5
+Serras de Sudeste         3
+Campanha Meridional       2
+São Jerônimo              2
+Campanha Ocidental        1
+Campanha Central          1
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1427
+Nordeste Rio-grandense             546
+Metropolitana de Porto Alegre      367
+Centro Oriental Rio-grandense      296
+Centro Ocidental Rio-grandense     100
+Sudeste Rio-grandense                8
+Sudoeste Rio-grandense               4
+
+👥 Média da população: População    14621.255822
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Valor total repassado    445830.237991
+🎯 Independente:
+Idese                               0.787403
+Bloco Educação                      0.753292
+Bloco Renda                         0.735644
+Bloco Saúde                         0.873272
+Anos Finais EF                      0.719439
+Anos Iniciais EF                    0.822446
+Ensino Fundamental                  0.770942
+Ensino Médio                        0.807838
+Escolaridade Adulta                 0.496928
+Pré Escola                          0.937460
+Apropriação da Renda                0.762940
+Geração da Renda                    0.708348
+Mortes por Causas Evitáveis         0.670353
+Condições Gerais de Saúde           0.799636
+Óbitos por Causas Mal Definidas     0.928918
+Longevidade                         0.935233
+Consultas Pré Natal                 0.827160
+Mortalidade de Menores de 5 anos    0.942737
+Saúde Materno Infantil              0.884948
+
+✅ ============================
+
+📊 Dependente: Valor total repassado | 🎯 Independente: Todos atributos independentes | 🤖 Modelo: XGBoost | 🏷️ Grupo: 0
+
+📋 Informações das amostras
+🧮 Amostras totais: 3076
+
+🗺️ Amostras por microrregião:
+Nome microrregiao
+Osório                  203
+Porto Alegre            183
+Lajeado-Estrela         177
+Frederico Westphalen    168
+Erechim                 163
+Três Passos             153
+Santo Ângelo            145
+Santa Cruz do Sul       133
+Passo Fundo             115
+Carazinho               114
+Montenegro              107
+Cruz Alta               106
+Santa Maria             106
+Vacaria                  95
+Santa Rosa               93
+Gramado-Canela           87
+Cerro Largo              87
+Campanha Ocidental       82
+São Jerônimo             78
+Ijuí                     69
+Restinga Seca            68
+Cachoeira do Sul         59
+Soledade                 56
+Santiago                 56
+Sananduva                51
+Camaquã                  46
+Pelotas                  45
+Serras de Sudeste        45
+Campanha Meridional      41
+Caxias do Sul            30
+Guaporé                  30
+Litoral Lagunar          29
+Campanha Central         27
+Jaguarão                 21
+Não-Me-Toque              8
+
+🌍 Amostras por mesorregião:
+Nome mesorregiao
+Noroeste Rio-grandense            1328
+Metropolitana de Porto Alegre      704
+Centro Oriental Rio-grandense      369
+Centro Ocidental Rio-grandense     230
+Nordeste Rio-grandense             155
+Sudoeste Rio-grandense             150
+Sudeste Rio-grandense              140
+
+👥 Média da população: População    20919.923602
+
+-------------------------------------------------
+📈 Informações médias dos dados
+📊 Dependente:
+Valor total repassado    1.261239e+06
+🎯 Independente:
+Idese                               0.715875
+Bloco Educação                      0.695443
+Bloco Renda                         0.627567
+Bloco Saúde                         0.824615
+Anos Finais EF                      0.668702
+Anos Iniciais EF                    0.752687
+Ensino Fundamental                  0.710694
+Ensino Médio                        0.746110
+Escolaridade Adulta                 0.449266
+Pré Escola                          0.875701
+Apropriação da Renda                0.640274
+Geração da Renda                    0.614860
+Mortes por Causas Evitáveis         0.586289
+Condições Gerais de Saúde           0.741444
+Óbitos por Causas Mal Definidas     0.896599
+Longevidade                         0.884266
+Consultas Pré Natal                 0.767610
+Mortalidade de Menores de 5 anos    0.928659
+Saúde Materno Infantil              0.848134
+
+✅ ============================

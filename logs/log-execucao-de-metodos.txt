@@ -1,0 +1,551 @@
+Total de beneficiários : Idese
+Coeficiente de silhueta executado em: 8.672011 segundos
+Melhor K: 3 - C.S.: 0.537618, Segundo melhor K: 2 - C.S.: 0.512693, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006380 segundos
+Melhor K executado em 103.589631 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007773 segundos
+Segundo melhor K executado em 92.040118 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008263 segundos
+Grupo único executado em 17.642823 segundos
+
+Total de beneficiários : Blocos individuais
+Coeficiente de silhueta executado em: 7.289757 segundos
+Melhor K: 2 - C.S.: 0.360252, Segundo melhor K: 3 - C.S.: 0.271779, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.006407 segundos
+Melhor K executado em 88.044846 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.016743 segundos
+Segundo melhor K executado em 101.976964 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008201 segundos
+Grupo único executado em 33.334940 segundos
+
+Total de beneficiários : Bloco educação individual
+Coeficiente de silhueta executado em: 7.219162 segundos
+Melhor K: 2 - C.S.: 0.552110, Segundo melhor K: 3 - C.S.: 0.547917, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.004936 segundos
+Melhor K executado em 90.224207 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010056 segundos
+Segundo melhor K executado em 104.448219 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009161 segundos
+Grupo único executado em 17.966675 segundos
+
+Total de beneficiários : Bloco educação resumido
+Coeficiente de silhueta executado em: 7.532672 segundos
+Melhor K: 2 - C.S.: 0.292187, Segundo melhor K: 3 - C.S.: 0.256660, Data frame de: (7434, 5)
+Construção do modelo K-Means para o melhor K foi executado em 0.006640 segundos
+Melhor K executado em 94.380264 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.012664 segundos
+Segundo melhor K executado em 109.252652 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009633 segundos
+Grupo único executado em 24.737214 segundos
+
+Total de beneficiários : Bloco educação completo
+Coeficiente de silhueta executado em: 7.215941 segundos
+Melhor K: 2 - C.S.: 0.273269, Segundo melhor K: 3 - C.S.: 0.220940, Data frame de: (7434, 7)
+Construção do modelo K-Means para o melhor K foi executado em 0.005756 segundos
+Melhor K executado em 91.298117 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.012513 segundos
+Segundo melhor K executado em 104.999424 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008097 segundos
+Grupo único executado em 26.298754 segundos
+
+Total de beneficiários : Bloco renda individual
+Coeficiente de silhueta executado em: 7.514243 segundos
+Melhor K: 2 - C.S.: 0.548154, Segundo melhor K: 3 - C.S.: 0.517728, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005711 segundos
+Melhor K executado em 89.354148 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010247 segundos
+Segundo melhor K executado em 102.711304 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008371 segundos
+Grupo único executado em 18.023085 segundos
+
+Total de beneficiários : Bloco renda completo
+Coeficiente de silhueta executado em: 8.981935 segundos
+Melhor K: 3 - C.S.: 0.391819, Segundo melhor K: 2 - C.S.: 0.363108, Data frame de: (7434, 3)
+Construção do modelo K-Means para o melhor K foi executado em 0.008612 segundos
+Melhor K executado em 105.700778 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007882 segundos
+Segundo melhor K executado em 90.438956 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007179 segundos
+Grupo único executado em 46.151376 segundos
+
+Total de beneficiários : Bloco saúde individual
+Coeficiente de silhueta executado em: 8.395892 segundos
+Melhor K: 3 - C.S.: 0.529258, Segundo melhor K: 2 - C.S.: 0.514890, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006394 segundos
+Melhor K executado em 103.443321 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007675 segundos
+Segundo melhor K executado em 94.572564 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008198 segundos
+Grupo único executado em 17.724024 segundos
+
+Total de beneficiários : Bloco saúde resumido
+Coeficiente de silhueta executado em: 7.280465 segundos
+Melhor K: 2 - C.S.: 0.356091, Segundo melhor K: 3 - C.S.: 0.267375, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.006526 segundos
+Melhor K executado em 86.207310 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009796 segundos
+Segundo melhor K executado em 106.244894 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008457 segundos
+Grupo único executado em 24.832084 segundos
+
+Total de beneficiários : Bloco saúde completo
+Coeficiente de silhueta executado em: 7.322186 segundos
+Melhor K: 2 - C.S.: 0.292225, Segundo melhor K: 3 - C.S.: 0.208053, Data frame de: (7434, 8)
+Construção do modelo K-Means para o melhor K foi executado em 0.007535 segundos
+Melhor K executado em 87.734703 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011200 segundos
+Segundo melhor K executado em 105.823318 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008535 segundos
+Grupo único executado em 34.032537 segundos
+
+Total de beneficiários : Todos atributos independentes
+Coeficiente de silhueta executado em: 7.102133 segundos
+Melhor K: 2 - C.S.: 0.242956, Segundo melhor K: 3 - C.S.: 0.158397, Data frame de: (7434, 20)
+Construção do modelo K-Means para o melhor K foi executado em 0.008889 segundos
+Melhor K executado em 92.744694 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.013375 segundos
+Segundo melhor K executado em 105.287592 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.010834 segundos
+Grupo único executado em 37.375701 segundos
+
+Valor total repassado : Idese
+Coeficiente de silhueta executado em: 7.099563 segundos
+Melhor K: 3 - C.S.: 0.537305, Segundo melhor K: 2 - C.S.: 0.520650, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006405 segundos
+Melhor K executado em 100.778869 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007525 segundos
+Segundo melhor K executado em 91.389114 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007257 segundos
+Grupo único executado em 18.373914 segundos
+
+Valor total repassado : Blocos individuais
+Coeficiente de silhueta executado em: 8.576737 segundos
+Melhor K: 2 - C.S.: 0.360506, Segundo melhor K: 3 - C.S.: 0.273212, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.006001 segundos
+Melhor K executado em 90.757864 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.015154 segundos
+Segundo melhor K executado em 106.834229 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008032 segundos
+Grupo único executado em 34.074451 segundos
+
+Valor total repassado : Bloco educação individual
+Coeficiente de silhueta executado em: 7.073659 segundos
+Melhor K: 2 - C.S.: 0.553856, Segundo melhor K: 3 - C.S.: 0.546758, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005716 segundos
+Melhor K executado em 92.192519 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009691 segundos
+Segundo melhor K executado em 106.212622 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.010397 segundos
+Grupo único executado em 18.632992 segundos
+
+Valor total repassado : Bloco educação resumido
+Coeficiente de silhueta executado em: 7.048540 segundos
+Melhor K: 2 - C.S.: 0.290802, Segundo melhor K: 3 - C.S.: 0.256799, Data frame de: (7434, 5)
+Construção do modelo K-Means para o melhor K foi executado em 0.005767 segundos
+Melhor K executado em 97.037477 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011667 segundos
+Segundo melhor K executado em 110.052137 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009166 segundos
+Grupo único executado em 24.608425 segundos
+
+Valor total repassado : Bloco educação completo
+Coeficiente de silhueta executado em: 7.366034 segundos
+Melhor K: 2 - C.S.: 0.272316, Segundo melhor K: 3 - C.S.: 0.221505, Data frame de: (7434, 7)
+Construção do modelo K-Means para o melhor K foi executado em 0.006542 segundos
+Melhor K executado em 95.048388 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.012565 segundos
+Segundo melhor K executado em 109.436247 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009110 segundos
+Grupo único executado em 26.583833 segundos
+
+Valor total repassado : Bloco renda individual
+Coeficiente de silhueta executado em: 6.944724 segundos
+Melhor K: 2 - C.S.: 0.524568, Segundo melhor K: 3 - C.S.: 0.517998, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.008589 segundos
+Melhor K executado em 90.965175 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010862 segundos
+Segundo melhor K executado em 101.078344 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008088 segundos
+Grupo único executado em 18.910074 segundos
+
+Valor total repassado : Bloco renda completo
+Coeficiente de silhueta executado em: 7.642691 segundos
+Melhor K: 3 - C.S.: 0.393162, Segundo melhor K: 2 - C.S.: 0.352365, Data frame de: (7434, 3)
+Construção do modelo K-Means para o melhor K foi executado em 0.005860 segundos
+Melhor K executado em 105.097318 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007348 segundos
+Segundo melhor K executado em 92.020540 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008414 segundos
+Grupo único executado em 17.605312 segundos
+
+Valor total repassado : Bloco saúde individual
+Coeficiente de silhueta executado em: 8.312186 segundos
+Melhor K: 3 - C.S.: 0.528154, Segundo melhor K: 2 - C.S.: 0.516628, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006670 segundos
+Melhor K executado em 104.381374 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.008507 segundos
+Segundo melhor K executado em 91.210654 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008070 segundos
+Grupo único executado em 17.623394 segundos
+
+Valor total repassado : Bloco saúde resumido
+Coeficiente de silhueta executado em: 7.213667 segundos
+Melhor K: 2 - C.S.: 0.355962, Segundo melhor K: 3 - C.S.: 0.266236, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.007608 segundos
+Melhor K executado em 88.848030 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010901 segundos
+Segundo melhor K executado em 106.970232 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007880 segundos
+Grupo único executado em 24.306758 segundos
+
+Valor total repassado : Bloco saúde completo
+Coeficiente de silhueta executado em: 6.936910 segundos
+Melhor K: 2 - C.S.: 0.292778, Segundo melhor K: 3 - C.S.: 0.208436, Data frame de: (7434, 8)
+Construção do modelo K-Means para o melhor K foi executado em 0.005052 segundos
+Melhor K executado em 90.507273 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011281 segundos
+Segundo melhor K executado em 106.403633 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008744 segundos
+Grupo único executado em 34.720691 segundos
+
+Valor total repassado : Todos atributos independentes
+Coeficiente de silhueta executado em: 6.885610 segundos
+Melhor K: 2 - C.S.: 0.243331, Segundo melhor K: 3 - C.S.: 0.158536, Data frame de: (7434, 20)
+Construção do modelo K-Means para o melhor K foi executado em 0.006783 segundos
+Melhor K executado em 93.204648 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.015273 segundos
+Segundo melhor K executado em 109.180118 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.010256 segundos
+Grupo único executado em 35.675564 segundos
+
+População beneficiária : Idese
+Coeficiente de silhueta executado em: 6.902123 segundos
+Melhor K: 2 - C.S.: 0.477357, Segundo melhor K: 3 - C.S.: 0.397674, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005918 segundos
+Melhor K executado em 85.725435 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.008562 segundos
+Segundo melhor K executado em 108.142617 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008120 segundos
+Grupo único executado em 35.612403 segundos
+
+População beneficiária : Blocos individuais
+Coeficiente de silhueta executado em: 8.356569 segundos
+Melhor K: 2 - C.S.: 0.364928, Segundo melhor K: 3 - C.S.: 0.264881, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.007727 segundos
+Melhor K executado em 88.455571 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010648 segundos
+Segundo melhor K executado em 103.015092 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008472 segundos
+Grupo único executado em 46.732973 segundos
+
+População beneficiária : Bloco educação individual
+Coeficiente de silhueta executado em: 6.735779 segundos
+Melhor K: 2 - C.S.: 0.453976, Segundo melhor K: 4 - C.S.: 0.388037, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006074 segundos
+Melhor K executado em 90.314925 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010379 segundos
+Segundo melhor K executado em 125.113823 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008249 segundos
+Grupo único executado em 37.417499 segundos
+
+População beneficiária : Bloco educação resumido
+Coeficiente de silhueta executado em: 7.145893 segundos
+Melhor K: 2 - C.S.: 0.259770, Segundo melhor K: 4 - C.S.: 0.218340, Data frame de: (7434, 5)
+Construção do modelo K-Means para o melhor K foi executado em 0.007923 segundos
+Melhor K executado em 92.267194 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010234 segundos
+Segundo melhor K executado em 125.147880 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008781 segundos
+Grupo único executado em 39.041533 segundos
+
+População beneficiária : Bloco educação completo
+Coeficiente de silhueta executado em: 6.943757 segundos
+Melhor K: 2 - C.S.: 0.253525, Segundo melhor K: 3 - C.S.: 0.192592, Data frame de: (7434, 7)
+Construção do modelo K-Means para o melhor K foi executado em 0.007049 segundos
+Melhor K executado em 91.757229 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.012516 segundos
+Segundo melhor K executado em 104.740875 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008542 segundos
+Grupo único executado em 31.657755 segundos
+
+População beneficiária : Bloco renda individual
+Coeficiente de silhueta executado em: 6.827287 segundos
+Melhor K: 2 - C.S.: 0.466590, Segundo melhor K: 3 - C.S.: 0.383779, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005045 segundos
+Melhor K executado em 87.733221 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010795 segundos
+Segundo melhor K executado em 106.563718 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007798 segundos
+Grupo único executado em 34.642719 segundos
+
+População beneficiária : Bloco renda completo
+Coeficiente de silhueta executado em: 7.095607 segundos
+Melhor K: 2 - C.S.: 0.377793, Segundo melhor K: 4 - C.S.: 0.308245, Data frame de: (7434, 3)
+Construção do modelo K-Means para o melhor K foi executado em 0.005249 segundos
+Melhor K executado em 88.064004 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011751 segundos
+Segundo melhor K executado em 124.400996 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009111 segundos
+Grupo único executado em 39.030643 segundos
+
+População beneficiária : Bloco saúde individual
+Coeficiente de silhueta executado em: 6.639563 segundos
+Melhor K: 2 - C.S.: 0.446328, Segundo melhor K: 3 - C.S.: 0.392931, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005457 segundos
+Melhor K executado em 88.891999 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009717 segundos
+Segundo melhor K executado em 93.764634 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007585 segundos
+Grupo único executado em 44.546107 segundos
+
+População beneficiária : Bloco saúde resumido
+Coeficiente de silhueta executado em: 7.123559 segundos
+Melhor K: 2 - C.S.: 0.331665, Segundo melhor K: 3 - C.S.: 0.299971, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.004916 segundos
+Melhor K executado em 89.584626 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010545 segundos
+Segundo melhor K executado em 101.382140 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007711 segundos
+Grupo único executado em 37.044296 segundos
+
+População beneficiária : Bloco saúde completo
+Coeficiente de silhueta executado em: 7.031290 segundos
+Melhor K: 2 - C.S.: 0.275947, Segundo melhor K: 4 - C.S.: 0.203975, Data frame de: (7434, 8)
+Construção do modelo K-Means para o melhor K foi executado em 0.006016 segundos
+Melhor K executado em 89.920421 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009937 segundos
+Segundo melhor K executado em 125.518760 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009240 segundos
+Grupo único executado em 32.069821 segundos
+
+População beneficiária : Todos atributos independentes
+Coeficiente de silhueta executado em: 7.353611 segundos
+Melhor K: 2 - C.S.: 0.243200, Segundo melhor K: 3 - C.S.: 0.161977, Data frame de: (7434, 20)
+Construção do modelo K-Means para o melhor K foi executado em 0.007710 segundos
+Melhor K executado em 94.148044 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.013876 segundos
+Segundo melhor K executado em 118.721153 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.015601 segundos
+Grupo único executado em 27.718568 segundos
+
+Repasse por beneficiário : Idese
+Coeficiente de silhueta executado em: 6.772759 segundos
+Melhor K: 2 - C.S.: 0.464510, Segundo melhor K: 3 - C.S.: 0.382956, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006033 segundos
+Melhor K executado em 89.904758 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010453 segundos
+Segundo melhor K executado em 107.102491 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007419 segundos
+Grupo único executado em 41.551978 segundos
+
+Repasse por beneficiário : Blocos individuais
+Coeficiente de silhueta executado em: 7.124725 segundos
+Melhor K: 2 - C.S.: 0.347588, Segundo melhor K: 3 - C.S.: 0.256742, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.005888 segundos
+Melhor K executado em 90.459869 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010566 segundos
+Segundo melhor K executado em 106.854983 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007622 segundos
+Grupo único executado em 34.064634 segundos
+
+Repasse por beneficiário : Bloco educação individual
+Coeficiente de silhueta executado em: 6.753816 segundos
+Melhor K: 2 - C.S.: 0.477976, Segundo melhor K: 3 - C.S.: 0.379446, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005079 segundos
+Melhor K executado em 94.713740 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009918 segundos
+Segundo melhor K executado em 102.845120 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008223 segundos
+Grupo único executado em 32.504367 segundos
+
+Repasse por beneficiário : Bloco educação resumido
+Coeficiente de silhueta executado em: 7.059442 segundos
+Melhor K: 2 - C.S.: 0.285261, Segundo melhor K: 3 - C.S.: 0.252415, Data frame de: (7434, 5)
+Construção do modelo K-Means para o melhor K foi executado em 0.009098 segundos
+Melhor K executado em 97.471944 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009349 segundos
+Segundo melhor K executado em 113.961190 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009270 segundos
+Grupo único executado em 34.796364 segundos
+
+Repasse por beneficiário : Bloco educação completo
+Coeficiente de silhueta executado em: 7.180530 segundos
+Melhor K: 2 - C.S.: 0.269835, Segundo melhor K: 3 - C.S.: 0.219819, Data frame de: (7434, 7)
+Construção do modelo K-Means para o melhor K foi executado em 0.008059 segundos
+Melhor K executado em 99.034890 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010733 segundos
+Segundo melhor K executado em 115.952580 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008844 segundos
+Grupo único executado em 39.114889 segundos
+
+Repasse por beneficiário : Bloco renda individual
+Coeficiente de silhueta executado em: 6.927564 segundos
+Melhor K: 2 - C.S.: 0.445305, Segundo melhor K: 4 - C.S.: 0.376407, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.004845 segundos
+Melhor K executado em 88.287323 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010573 segundos
+Segundo melhor K executado em 125.876928 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008197 segundos
+Grupo único executado em 38.169388 segundos
+
+Repasse por beneficiário : Bloco renda completo
+Coeficiente de silhueta executado em: 7.448970 segundos
+Melhor K: 2 - C.S.: 0.370199, Segundo melhor K: 3 - C.S.: 0.293485, Data frame de: (7434, 3)
+Construção do modelo K-Means para o melhor K foi executado em 0.006492 segundos
+Melhor K executado em 88.307724 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009830 segundos
+Segundo melhor K executado em 109.101036 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007992 segundos
+Grupo único executado em 37.311686 segundos
+
+Repasse por beneficiário : Bloco saúde individual
+Coeficiente de silhueta executado em: 6.960589 segundos
+Melhor K: 2 - C.S.: 0.448701, Segundo melhor K: 3 - C.S.: 0.362311, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.004507 segundos
+Melhor K executado em 85.918139 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009488 segundos
+Segundo melhor K executado em 105.952016 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008489 segundos
+Grupo único executado em 36.983808 segundos
+
+Repasse por beneficiário : Bloco saúde resumido
+Coeficiente de silhueta executado em: 7.108964 segundos
+Melhor K: 2 - C.S.: 0.339176, Segundo melhor K: 3 - C.S.: 0.239870, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.006957 segundos
+Melhor K executado em 80.685475 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011404 segundos
+Segundo melhor K executado em 107.328115 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008269 segundos
+Grupo único executado em 36.464365 segundos
+
+Repasse por beneficiário : Bloco saúde completo
+Coeficiente de silhueta executado em: 7.256271 segundos
+Melhor K: 2 - C.S.: 0.283908, Segundo melhor K: 3 - C.S.: 0.205472, Data frame de: (7434, 8)
+Construção do modelo K-Means para o melhor K foi executado em 0.007195 segundos
+Melhor K executado em 92.014190 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009252 segundos
+Segundo melhor K executado em 113.257757 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009141 segundos
+Grupo único executado em 44.013763 segundos
+
+Repasse por beneficiário : Todos atributos independentes
+Coeficiente de silhueta executado em: 7.313766 segundos
+Melhor K: 2 - C.S.: 0.241115, Segundo melhor K: 3 - C.S.: 0.157836, Data frame de: (7434, 20)
+Construção do modelo K-Means para o melhor K foi executado em 0.007083 segundos
+Melhor K executado em 90.199626 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.015307 segundos
+Segundo melhor K executado em 118.658577 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.015815 segundos
+Grupo único executado em 36.586316 segundos
+
+Repasse por população : Idese
+Coeficiente de silhueta executado em: 6.951428 segundos
+Melhor K: 2 - C.S.: 0.448479, Segundo melhor K: 4 - C.S.: 0.391006, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.004815 segundos
+Melhor K executado em 86.610358 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011177 segundos
+Segundo melhor K executado em 109.865349 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008094 segundos
+Grupo único executado em 27.720141 segundos
+
+Repasse por população : Blocos individuais
+Coeficiente de silhueta executado em: 6.957956 segundos
+Melhor K: 2 - C.S.: 0.341260, Segundo melhor K: 3 - C.S.: 0.255171, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.005247 segundos
+Melhor K executado em 89.680499 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.009943 segundos
+Segundo melhor K executado em 111.584706 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008163 segundos
+Grupo único executado em 36.512341 segundos
+
+Repasse por população : Bloco educação individual
+Coeficiente de silhueta executado em: 6.849406 segundos
+Melhor K: 3 - C.S.: 0.440320, Segundo melhor K: 2 - C.S.: 0.429449, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006950 segundos
+Melhor K executado em 103.116719 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007793 segundos
+Segundo melhor K executado em 95.598165 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008111 segundos
+Grupo único executado em 33.899424 segundos
+
+Repasse por população : Bloco educação resumido
+Coeficiente de silhueta executado em: 7.164501 segundos
+Melhor K: 2 - C.S.: 0.273719, Segundo melhor K: 3 - C.S.: 0.237282, Data frame de: (7434, 5)
+Construção do modelo K-Means para o melhor K foi executado em 0.016686 segundos
+Melhor K executado em 95.427308 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011117 segundos
+Segundo melhor K executado em 109.140706 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.009310 segundos
+Grupo único executado em 25.207258 segundos
+
+Repasse por população : Bloco educação completo
+Coeficiente de silhueta executado em: 7.035523 segundos
+Melhor K: 2 - C.S.: 0.253937, Segundo melhor K: 3 - C.S.: 0.208614, Data frame de: (7434, 7)
+Construção do modelo K-Means para o melhor K foi executado em 0.007778 segundos
+Melhor K executado em 91.923582 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011288 segundos
+Segundo melhor K executado em 108.868301 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008378 segundos
+Grupo único executado em 29.381523 segundos
+
+Repasse por população : Bloco renda individual
+Coeficiente de silhueta executado em: 7.109470 segundos
+Melhor K: 2 - C.S.: 0.431054, Segundo melhor K: 3 - C.S.: 0.389935, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.006686 segundos
+Melhor K executado em 89.023917 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.008742 segundos
+Segundo melhor K executado em 108.295444 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008679 segundos
+Grupo único executado em 36.472285 segundos
+
+Repasse por população : Bloco renda completo
+Coeficiente de silhueta executado em: 7.083111 segundos
+Melhor K: 2 - C.S.: 0.357028, Segundo melhor K: 5 - C.S.: 0.274964, Data frame de: (7434, 3)
+Construção do modelo K-Means para o melhor K foi executado em 0.007539 segundos
+Melhor K executado em 89.111268 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.014363 segundos
+Segundo melhor K executado em 143.392123 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.007905 segundos
+Grupo único executado em 21.451733 segundos
+
+Repasse por população : Bloco saúde individual
+Coeficiente de silhueta executado em: 7.314683 segundos
+Melhor K: 3 - C.S.: 0.434294, Segundo melhor K: 2 - C.S.: 0.424579, Data frame de: (7434, 2)
+Construção do modelo K-Means para o melhor K foi executado em 0.005579 segundos
+Melhor K executado em 103.475652 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.007150 segundos
+Segundo melhor K executado em 90.000892 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008008 segundos
+Grupo único executado em 39.034781 segundos
+
+Repasse por população : Bloco saúde resumido
+Coeficiente de silhueta executado em: 7.463981 segundos
+Melhor K: 2 - C.S.: 0.324487, Segundo melhor K: 4 - C.S.: 0.239905, Data frame de: (7434, 4)
+Construção do modelo K-Means para o melhor K foi executado em 0.004688 segundos
+Melhor K executado em 92.042374 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.010554 segundos
+Segundo melhor K executado em 121.666253 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008461 segundos
+Grupo único executado em 30.847444 segundos
+
+Repasse por população : Bloco saúde completo
+Coeficiente de silhueta executado em: 6.742161 segundos
+Melhor K: 2 - C.S.: 0.277927, Segundo melhor K: 3 - C.S.: 0.197129, Data frame de: (7434, 8)
+Construção do modelo K-Means para o melhor K foi executado em 0.006718 segundos
+Melhor K executado em 90.678636 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.011117 segundos
+Segundo melhor K executado em 112.836166 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.008905 segundos
+Grupo único executado em 35.457422 segundos
+
+Repasse por população : Todos atributos independentes
+Coeficiente de silhueta executado em: 7.133969 segundos
+Melhor K: 2 - C.S.: 0.240114, Segundo melhor K: 3 - C.S.: 0.158106, Data frame de: (7434, 20)
+Construção do modelo K-Means para o melhor K foi executado em 0.006062 segundos
+Melhor K executado em 94.540501 segundos
+Construção do modelo K-Means para o segundo melhor K foi executado em 0.015470 segundos
+Segundo melhor K executado em 115.866849 segundos
+Construção do modelo K-Means com apenas um grupo foi executado em 0.010867 segundos
+Grupo único executado em 43.861195 segundos
+
+FIM

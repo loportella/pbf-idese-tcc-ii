@@ -1,0 +1,166 @@
+Dependente,Independente,Modelo,Grupo,R2 médio,R2 desvio,MSE médio,MSE desvio,Tempo de execução
+Total de beneficiários,Todos atributos independentes,XGBoost,0,0.80834,0.045333,0.00171,0.000241,2.626785
+Valor total repassado,Todos atributos independentes,XGBoost,0,0.745555,0.030324,0.002715,0.000572,2.581821
+Valor total repassado,Bloco educação completo,XGBoost,0,0.731375,0.078866,0.003856,0.001392,1.288134
+Total de beneficiários,Bloco educação completo,XGBoost,0,0.701133,0.054435,0.005095,0.001702,1.35437
+Total de beneficiários,Todos atributos independentes,MLP,0,0.63553,0.065655,0.003289,0.000511,34.65489
+Total de beneficiários,Bloco educação resumido,XGBoost,0,0.610955,0.028193,0.006809,0.002021,1.147171
+Valor total repassado,Bloco educação resumido,XGBoost,0,0.587841,0.078917,0.005554,0.002628,1.124594
+Total de beneficiários,Bloco educação completo,MLP,0,0.549955,0.062839,0.007399,0.001344,24.86642
+Valor total repassado,Bloco educação completo,MLP,0,0.52051,0.061096,0.006728,0.001175,25.210935
+População beneficiária,Todos atributos independentes,XGBoost,0,0.48211,0.043431,0.014479,0.001997,2.351608
+Repasse por população,Todos atributos independentes,XGBoost,0,0.43812,0.015998,0.008537,0.000793,3.663871
+Total de beneficiários,Bloco educação resumido,Regressão linear,0,0.43051,0.058938,0.009881,0.002889,0.010741
+Total de beneficiários,Bloco educação completo,Regressão linear,0,0.42495,0.057271,0.00949,0.001603,0.011188
+Total de beneficiários,Todos atributos independentes,Regressão linear,0,0.42419,0.039874,0.005221,0.000411,0.015852
+População beneficiária,Bloco educação completo,XGBoost,0,0.414855,0.039981,0.016431,0.001692,1.929967
+Repasse por beneficiário,Bloco educação completo,XGBoost,0,0.397762,0.057111,0.001732,0.000198,1.874757
+População beneficiária,Bloco educação individual,Regressão linear,0,0.387921,0.0362,0.003815,0.000278,0.01041
+Valor total repassado,Todos atributos independentes,Regressão linear,0,0.385658,0.026256,0.006585,0.001278,0.01549
+População beneficiária,Bloco educação individual,MLP,0,0.372884,0.025573,0.003904,0.000145,36.544736
+Valor total repassado,Bloco educação completo,Regressão linear,0,0.365088,0.04282,0.008996,0.001775,0.011131
+Repasse por população,Bloco educação completo,XGBoost,0,0.343309,0.082705,0.005829,0.000328,1.556928
+População beneficiária,Bloco educação individual,XGBoost,0,0.332002,0.03622,0.004162,0.000261,0.789315
+Valor total repassado,Bloco educação resumido,Regressão linear,0,0.317118,0.140912,0.008704,0.003002,0.009612
+Repasse por beneficiário,Bloco educação completo,MLP,0,0.306867,0.054544,0.002008,0.000309,37.165208
+Valor total repassado,Bloco renda completo,XGBoost,0,0.284325,0.091869,0.019612,0.005165,0.707704
+Repasse por beneficiário,Bloco educação completo,Regressão linear,0,0.264639,0.030491,0.002125,0.000257,0.010763
+Repasse por população,Todos atributos independentes,MLP,0,0.261442,0.035477,0.011275,0.001601,40.116008
+População beneficiária,Idese,Regressão linear,0,0.232237,0.021386,0.00466,0.000174,0.010901
+Repasse por beneficiário,Todos atributos independentes,XGBoost,0,0.217752,0.048762,0.003579,0.000328,2.928459
+População beneficiária,Bloco educação resumido,XGBoost,0,0.211572,0.043191,0.010641,0.000972,1.625036
+Total de beneficiários,Bloco saúde resumido,MLP,0,0.208217,0.056363,0.019273,0.003386,23.466718
+Repasse por beneficiário,Todos atributos independentes,Regressão linear,0,0.206356,0.035551,0.003637,0.000366,0.016299
+Total de beneficiários,Blocos individuais,MLP,0,0.203389,0.02592,0.011636,0.0012,31.775671
+Repasse por beneficiário,Bloco educação resumido,Regressão linear,0,0.196167,0.035345,0.002044,0.000279,0.011095
+Repasse por beneficiário,Bloco educação resumido,MLP,0,0.195128,0.050131,0.002045,0.000275,33.150964
+Total de beneficiários,Blocos individuais,Regressão linear,0,0.188378,0.036809,0.011835,0.001091,0.010508
+Repasse por beneficiário,Todos atributos independentes,MLP,0,0.186566,0.056638,0.003735,0.000495,33.558519
+Valor total repassado,Blocos individuais,Regressão linear,0,0.177596,0.043332,0.011837,0.002042,0.011761
+População beneficiária,Bloco renda individual,MLP,0,0.166351,0.081035,0.006394,0.000436,33.664119
+Repasse por beneficiário,Bloco educação resumido,XGBoost,0,0.165506,0.066213,0.002103,0.000152,1.563502
+Total de beneficiários,Bloco renda completo,XGBoost,0,0.160934,0.074129,0.008875,0.000699,1.605511
+Repasse por população,Todos atributos independentes,Regressão linear,0,0.160629,0.029704,0.012757,0.00124,0.015309
+População beneficiária,Idese,XGBoost,0,0.150452,0.022123,0.005158,0.000208,0.802126
+População beneficiária,Bloco educação resumido,Regressão linear,0,0.142649,0.023247,0.011573,0.000925,0.009834
+População beneficiária,Bloco saúde completo,Regressão linear,0,0.141461,0.015849,0.011148,0.000516,0.011417
+População beneficiária,Bloco renda individual,Regressão linear,0,0.136961,0.042727,0.006629,0.000107,0.009618
+População beneficiária,Bloco saúde completo,XGBoost,0,0.134529,0.07009,0.011227,0.000914,1.986399
+Total de beneficiários,Bloco saúde resumido,XGBoost,0,0.133741,0.1282,0.02074,0.002038,1.282452
+Repasse por população,Bloco educação completo,MLP,0,0.133333,0.039471,0.007762,0.000656,27.752706
+Total de beneficiários,Bloco saúde completo,XGBoost,0,0.12394,0.028358,0.007833,0.001793,1.849333
+População beneficiária,Bloco educação completo,Regressão linear,0,0.121221,0.039248,0.024725,0.002597,0.011787
+Valor total repassado,Bloco saúde completo,XGBoost,0,0.115033,0.10092,0.008459,0.001804,2.000764
+População beneficiária,Blocos individuais,Regressão linear,0,0.111154,0.008176,0.009475,0.000303,0.01213
+Valor total repassado,Blocos individuais,XGBoost,0,0.105174,0.104908,0.012777,0.001891,1.56431
+População beneficiária,Bloco renda individual,XGBoost,0,0.104033,0.058466,0.00688,0.000258,0.904567
+População beneficiária,Bloco saúde resumido,Regressão linear,0,0.100843,0.022065,0.00946,0.000392,0.009662
+Repasse por população,Bloco educação completo,Regressão linear,0,0.093176,0.019817,0.008132,0.000719,0.009588
+Total de beneficiários,Bloco saúde completo,Regressão linear,0,0.092242,0.033036,0.008214,0.002394,0.012017
+Total de beneficiários,Bloco saúde completo,MLP,0,0.086113,0.042908,0.008273,0.002436,32.103937
+Repasse por população,Idese,Regressão linear,0,0.086059,0.010382,0.0039,0.000218,0.009545
+Valor total repassado,Bloco saúde completo,Regressão linear,0,0.081379,0.024342,0.00882,0.001903,0.01194
+Total de beneficiários,Bloco renda completo,Regressão linear,0,0.080116,0.020951,0.009829,0.001323,0.009682
+Total de beneficiários,Blocos individuais,XGBoost,0,0.076116,0.10403,0.013434,0.00149,1.476081
+População beneficiária,Bloco saúde individual,MLP,0,0.072346,0.014367,0.007719,0.000351,43.546358
+Repasse por população,Bloco saúde individual,Regressão linear,0,0.069836,0.033196,0.004804,0.000222,0.010645
+Repasse por beneficiário,Bloco saúde completo,MLP,0,0.067284,0.03283,0.00408,0.000291,41.671224
+Valor total repassado,Bloco renda individual,MLP,0,0.065007,0.033052,0.026253,0.003525,17.906406
+População beneficiária,Bloco saúde individual,Regressão linear,0,0.060308,0.006922,0.007817,0.000287,0.011991
+População beneficiária,Bloco renda completo,Regressão linear,0,0.058214,0.026037,0.008171,0.000485,0.010761
+Total de beneficiários,Bloco saúde resumido,Regressão linear,0,0.056358,0.052221,0.022863,0.002908,0.010718
+Repasse por população,Bloco educação individual,Regressão linear,0,0.052898,0.014678,0.00589,0.000386,0.010032
+Repasse por população,Bloco saúde resumido,MLP,0,0.048993,0.044051,0.004074,0.000271,29.373395
+Repasse por beneficiário,Bloco saúde completo,Regressão linear,0,0.048361,0.014222,0.00416,0.000207,0.012531
+Valor total repassado,Bloco renda individual,Regressão linear,0,0.043756,0.043444,0.026861,0.003797,0.009952
+Repasse por população,Bloco saúde individual,MLP,0,0.040607,0.04533,0.004952,0.000196,38.118401
+Valor total repassado,Bloco saúde resumido,Regressão linear,0,0.040339,0.015589,0.025185,0.007199,0.010487
+Repasse por população,Bloco saúde resumido,Regressão linear,0,0.039763,0.017881,0.004119,0.000308,0.009688
+Repasse por população,Bloco educação resumido,Regressão linear,0,0.036277,0.022671,0.00772,0.00106,0.010803
+Valor total repassado,Bloco saúde resumido,MLP,0,0.032655,0.020068,0.025414,0.007378,22.759047
+Repasse por população,Bloco educação resumido,XGBoost,0,0.029769,0.117633,0.007659,0.000381,1.353136
+Repasse por população,Blocos individuais,Regressão linear,0,0.029617,0.01314,0.017903,0.001833,0.011293
+Repasse por população,Bloco renda individual,Regressão linear,0,0.028833,0.013931,0.004211,0.000492,0.010669
+Repasse por população,Idese,MLP,0,0.027771,0.102724,0.004136,0.000362,26.849106
+Repasse por beneficiário,Idese,Regressão linear,0,0.024201,0.011626,0.004064,0.000339,0.010322
+Repasse por beneficiário,Idese,MLP,0,0.02303,0.013531,0.004066,0.000309,40.673985
+Repasse por população,Bloco saúde completo,MLP,0,0.022358,0.026619,0.01342,0.001538,33.263305
+Repasse por população,Bloco renda individual,MLP,0,0.021264,0.013648,0.004243,0.000488,35.666754
+Repasse por beneficiário,Bloco renda completo,Regressão linear,0,0.018718,0.012011,0.0057,0.00108,0.010726
+Repasse por população,Bloco saúde completo,Regressão linear,0,0.018068,0.015476,0.013452,0.001282,0.011815
+Repasse por população,Bloco renda completo,MLP,0,0.017999,0.013969,0.011665,0.00211,20.002824
+Repasse por população,Bloco saúde individual,XGBoost,0,0.01632,0.031853,0.005089,0.000363,0.840105
+Repasse por beneficiário,Blocos individuais,Regressão linear,0,0.010007,0.006769,0.004503,0.000328,0.011709
+População beneficiária,Bloco saúde individual,XGBoost,0,0.009601,0.021867,0.008241,0.000386,0.922451
+Repasse por beneficiário,Bloco saúde resumido,MLP,0,0.008329,0.014123,0.004447,0.000203,34.81643
+Repasse por beneficiário,Bloco saúde individual,Regressão linear,0,0.007158,0.006351,0.004425,0.000269,0.01119
+Repasse por beneficiário,Bloco saúde resumido,Regressão linear,0,0.006474,0.010245,0.004456,0.000214,0.010885
+Repasse por beneficiário,Bloco renda individual,Regressão linear,0,0.004597,0.003725,0.005341,0.000259,0.009123
+População beneficiária,Todos atributos independentes,Regressão linear,0,0.002916,0.308836,0.027527,0.007921,0.014976
+Repasse por beneficiário,Blocos individuais,MLP,0,0.002747,0.018055,0.004537,0.000342,32.413846
+Repasse por beneficiário,Bloco educação individual,Regressão linear,0,0.000712,0.005254,0.003996,0.00027,0.009386
+Total de beneficiários,Bloco educação individual,Regressão linear,0,0.000662,0.059678,0.019785,0.00359,0.010195
+Repasse por população,Bloco renda completo,Regressão linear,0,-0.000837,0.014206,0.011877,0.002065,0.009715
+População beneficiária,Bloco educação resumido,MLP,0,-0.001717,0.00215,0.013514,0.000918,37.342854
+Repasse por população,Bloco educação individual,MLP,0,-0.001969,0.003454,0.006231,0.000395,33.062125
+Repasse por beneficiário,Bloco saúde individual,MLP,0,-0.002034,0.00347,0.004465,0.000257,36.164968
+Total de beneficiários,Bloco renda completo,MLP,0,-0.002321,0.000822,0.010737,0.001606,44.473161
+Valor total repassado,Blocos individuais,MLP,0,-0.00236,0.001597,0.014393,0.002023,32.429432
+População beneficiária,Bloco saúde completo,MLP,0,-0.002514,0.004088,0.013018,0.000567,30.001024
+Valor total repassado,Todos atributos independentes,MLP,0,-0.002998,0.002146,0.010797,0.00223,33.008564
+População beneficiária,Blocos individuais,MLP,0,-0.003048,0.003026,0.010693,0.000369,45.014105
+Repasse por beneficiário,Bloco renda individual,MLP,0,-0.003061,0.005409,0.005382,0.000251,37.214092
+Repasse por população,Blocos individuais,MLP,0,-0.00331,0.005831,0.018496,0.001707,34.871254
+Valor total repassado,Bloco saúde completo,MLP,0,-0.003625,0.004023,0.00959,0.001844,32.638049
+Repasse por população,Bloco educação resumido,MLP,0,-0.003801,0.002721,0.008052,0.00116,23.773718
+População beneficiária,Bloco renda completo,MLP,0,-0.004774,0.001254,0.008716,0.000418,37.49438
+População beneficiária,Idese,MLP,0,-0.00535,0.003684,0.006103,0.000163,34.729631
+Repasse por beneficiário,Bloco educação individual,MLP,0,-0.005396,0.004445,0.00402,0.000272,31.71129
+População beneficiária,Bloco educação completo,MLP,0,-0.006274,0.006889,0.028299,0.002582,29.641399
+População beneficiária,Todos atributos independentes,MLP,0,-0.010505,0.01118,0.02817,0.002088,25.269642
+Repasse por beneficiário,Bloco renda completo,MLP,0,-0.011034,0.027793,0.005878,0.001154,35.694856
+Total de beneficiários,Bloco saúde individual,Regressão linear,0,-0.011105,0.008445,0.01768,0.002108,0.010315
+População beneficiária,Bloco saúde resumido,MLP,0,-0.011626,0.010723,0.010655,0.000637,35.448231
+Valor total repassado,Bloco educação individual,Regressão linear,0,-0.012284,0.016147,0.028157,0.004303,0.008906
+Total de beneficiários,Bloco educação resumido,MLP,0,-0.014195,0.01968,0.01777,0.005389,23.509243
+Total de beneficiários,Bloco saúde individual,MLP,0,-0.016062,0.027848,0.017728,0.001838,16.802319
+Repasse por população,Idese,XGBoost,0,-0.018952,0.049993,0.004351,0.000364,0.796368
+Repasse por população,Bloco renda individual,XGBoost,0,-0.020035,0.047838,0.004409,0.000432,0.728447
+Valor total repassado,Bloco saúde individual,Regressão linear,0,-0.024292,0.014248,0.028286,0.006985,0.010945
+Repasse por população,Bloco educação individual,XGBoost,0,-0.026643,0.058181,0.006373,0.000377,0.755991
+Total de beneficiários,Bloco renda individual,MLP,0,-0.031213,0.026321,0.018004,0.005782,17.138605
+População beneficiária,Blocos individuais,XGBoost,0,-0.033841,0.028235,0.011013,0.000187,1.625751
+Total de beneficiários,Bloco renda individual,Regressão linear,0,-0.036231,0.026925,0.018105,0.00586,0.009923
+Valor total repassado,Bloco saúde resumido,XGBoost,0,-0.036415,0.217706,0.026101,0.00513,1.474862
+Valor total repassado,Bloco educação resumido,MLP,0,-0.036746,0.059078,0.014003,0.005508,23.410089
+Repasse por beneficiário,Idese,XGBoost,0,-0.037653,0.021704,0.004323,0.000385,0.798476
+População beneficiária,Bloco saúde resumido,XGBoost,0,-0.038129,0.087444,0.010881,0.000379,1.523192
+Valor total repassado,Idese,Regressão linear,0,-0.038156,0.039634,0.027895,0.006364,0.010953
+Repasse por população,Blocos individuais,XGBoost,0,-0.039289,0.046511,0.019123,0.001535,1.552453
+Repasse por população,Bloco saúde completo,XGBoost,0,-0.042657,0.064659,0.014253,0.001341,2.107466
+Valor total repassado,Bloco renda completo,Regressão linear,0,-0.043173,0.083049,0.028143,0.004323,0.009258
+Repasse por beneficiário,Bloco saúde completo,XGBoost,0,-0.043452,0.029974,0.004563,0.000277,2.253361
+Repasse por beneficiário,Bloco renda individual,XGBoost,0,-0.049372,0.040967,0.005624,0.000223,0.881745
+Valor total repassado,Bloco educação individual,MLP,0,-0.054265,0.064513,0.029218,0.004011,17.57494
+Total de beneficiários,Bloco educação individual,MLP,0,-0.054836,0.093397,0.020711,0.002999,16.920959
+Total de beneficiários,Idese,Regressão linear,0,-0.063611,0.061626,0.016916,0.003517,0.009895
+Valor total repassado,Bloco saúde individual,MLP,0,-0.087639,0.139168,0.029238,0.005317,16.639323
+Repasse por beneficiário,Bloco saúde individual,XGBoost,0,-0.094934,0.066858,0.004888,0.0005,0.732893
+Repasse por beneficiário,Bloco educação individual,XGBoost,0,-0.100672,0.048157,0.004391,0.000198,0.719194
+Total de beneficiários,Idese,MLP,0,-0.118152,0.150758,0.017682,0.00368,16.808965
+Valor total repassado,Idese,MLP,0,-0.123836,0.147599,0.030185,0.007581,17.4928
+Repasse por população,Bloco saúde resumido,XGBoost,0,-0.200414,0.100062,0.005149,0.00057,1.401334
+Repasse por população,Bloco renda completo,XGBoost,0,-0.222029,0.197727,0.014292,0.002085,1.373246
+População beneficiária,Bloco renda completo,XGBoost,0,-0.224544,0.076821,0.010629,0.000931,1.451297
+Valor total repassado,Bloco renda completo,MLP,0,-0.24046,0.35973,0.03232,0.004054,16.823848
+Repasse por beneficiário,Blocos individuais,XGBoost,0,-0.309449,0.04513,0.005946,0.000322,1.571967
+Repasse por beneficiário,Bloco saúde resumido,XGBoost,0,-0.37394,0.05723,0.006154,0.000209,1.560968
+Repasse por beneficiário,Bloco renda completo,XGBoost,0,-0.440083,0.130634,0.00823,0.00073,1.536209
+Valor total repassado,Bloco renda individual,XGBoost,0,-0.585774,0.442696,0.042821,0.005787,0.926227
+Total de beneficiários,Bloco educação individual,XGBoost,0,-0.664583,0.099339,0.032811,0.005112,0.963855
+Valor total repassado,Idese,XGBoost,0,-0.85552,0.395915,0.048195,0.008731,0.806526
+Valor total repassado,Bloco saúde individual,XGBoost,0,-0.889457,0.350518,0.052894,0.019227,0.904228
+Total de beneficiários,Bloco saúde individual,XGBoost,0,-0.965993,0.31458,0.034304,0.006685,0.835932
+Total de beneficiários,Idese,XGBoost,0,-1.045225,0.373234,0.032337,0.007261,0.760793
+Total de beneficiários,Bloco renda individual,XGBoost,0,-1.138054,0.507634,0.036072,0.011165,0.804319
+Valor total repassado,Bloco educação individual,XGBoost,0,-1.431799,0.508803,0.0668,0.014038,0.978487
